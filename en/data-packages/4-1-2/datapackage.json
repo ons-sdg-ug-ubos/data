@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_1",
-                "ISCED11A_2",
+                "Primary education, sufficient for level completion",
+                "Lower secondary education, sufficient for level completion",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "Value",

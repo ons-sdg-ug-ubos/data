@@ -1,31 +1,31 @@
-Year,SEX,EDUCATION_LEV,Value
-2016,M,ISCED11A_1,59.7
-2017,M,ISCED11A_1,59.3
-2018,M,ISCED11A_1,59.5
-2019,M,ISCED11A_1,59.4
-2020,M,ISCED11A_1,62.0
-2016,F,ISCED11A_1,63.4
-2017,F,ISCED11A_1,60.0
-2018,F,ISCED11A_1,65.8
-2019,F,ISCED11A_1,66.5
-2020,F,ISCED11A_1,72.2
-2016,,ISCED11A_1,61.5
-2017,,ISCED11A_1,60.0
-2018,,ISCED11A_1,62.8
-2019,,ISCED11A_1,62.9
-2020,,ISCED11A_1,67.2
-2016,M,ISCED11A_2,39.6
-2017,M,ISCED11A_2,36.2
-2018,M,ISCED11A_2,34.5
-2019,M,ISCED11A_2,33.4
-2020,M,ISCED11A_2,32.1
-2016,F,ISCED11A_2,36.0
-2017,F,ISCED11A_2,33.5
-2018,F,ISCED11A_2,33.9
-2019,F,ISCED11A_2,33.9
-2020,F,ISCED11A_2,32.7
-2016,,ISCED11A_2,37.8
-2017,,ISCED11A_2,34.8
-2018,,ISCED11A_2,34.2
-2019,,ISCED11A_2,33.6
-2020,,ISCED11A_2,32.4
+Year,Sex,Education level,Value
+2016,Male,"Primary education, sufficient for level completion",59.7
+2017,Male,"Primary education, sufficient for level completion",59.3
+2018,Male,"Primary education, sufficient for level completion",59.5
+2019,Male,"Primary education, sufficient for level completion",59.4
+2020,Male,"Primary education, sufficient for level completion",62.0
+2016,Female,"Primary education, sufficient for level completion",63.4
+2017,Female,"Primary education, sufficient for level completion",60.0
+2018,Female,"Primary education, sufficient for level completion",65.8
+2019,Female,"Primary education, sufficient for level completion",66.5
+2020,Female,"Primary education, sufficient for level completion",72.2
+2016,,"Primary education, sufficient for level completion",61.5
+2017,,"Primary education, sufficient for level completion",60.0
+2018,,"Primary education, sufficient for level completion",62.8
+2019,,"Primary education, sufficient for level completion",62.9
+2020,,"Primary education, sufficient for level completion",67.2
+2016,Male,"Lower secondary education, sufficient for level completion",39.6
+2017,Male,"Lower secondary education, sufficient for level completion",36.2
+2018,Male,"Lower secondary education, sufficient for level completion",34.5
+2019,Male,"Lower secondary education, sufficient for level completion",33.4
+2020,Male,"Lower secondary education, sufficient for level completion",32.1
+2016,Female,"Lower secondary education, sufficient for level completion",36.0
+2017,Female,"Lower secondary education, sufficient for level completion",33.5
+2018,Female,"Lower secondary education, sufficient for level completion",33.9
+2019,Female,"Lower secondary education, sufficient for level completion",33.9
+2020,Female,"Lower secondary education, sufficient for level completion",32.7
+2016,,"Lower secondary education, sufficient for level completion",37.8
+2017,,"Lower secondary education, sufficient for level completion",34.8
+2018,,"Lower secondary education, sufficient for level completion",34.2
+2019,,"Lower secondary education, sufficient for level completion",33.6
+2020,,"Lower secondary education, sufficient for level completion",32.4
