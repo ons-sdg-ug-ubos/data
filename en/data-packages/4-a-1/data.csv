@@ -1,1 +1,16 @@
-Year,Value
+Year,SERIES,Education level,Value
+2017,"Proportion of schools with basic handwashing facilities, by education level [4.a.1]",Primary education,40.9
+2017,"Proportion of schools with basic handwashing facilities, by education level [4.a.1]",Lower secondary education,54.3
+2017,"Proportion of schools with basic handwashing facilities, by education level [4.a.1]",Upper secondary education,59.1
+2016,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Primary education,76.2
+2017,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Primary education,87.5
+2016,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Lower secondary education,82.7
+2017,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Lower secondary education,92.2
+2016,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Upper secondary education,87.0
+2017,"Proportion of schools with access to basic drinking water, by education level [4.a.1]",Upper secondary education,95.3
+2016,"Proportion of schools with access to single-sex basic sanitation, by education level [4.a.1]",Primary education,87.5
+2017,"Proportion of schools with access to single-sex basic sanitation, by education level [4.a.1]",Primary education,90.0
+2016,"Proportion of schools with access to single-sex basic sanitation, by education level [4.a.1]",Lower secondary education,85.2
+2017,"Proportion of schools with access to single-sex basic sanitation, by education level [4.a.1]",Lower secondary education,90.7
+2016,"Proportion of schools with access to single-sex basic sanitation, by education level [4.a.1]",Upper secondary education,83.4
+2017,"Proportion of schools with access to single-sex basic sanitation, by education level [4.a.1]",Upper secondary education,99.9

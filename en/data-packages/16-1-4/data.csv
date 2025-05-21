@@ -1,1 +1,4 @@
-Year,Value
+Year,SERIES,Sex,Source details,Value
+2017,Proportion of population that feel safe walking alone around the area they live in [16.1.4],Female,,55
+2017,Proportion of population that feel safe walking alone around the area they live in [16.1.4],Male,NGPSS,65
+2017,Proportion of population that feel safe walking alone around the area they live after dark [16.1.4],,,61

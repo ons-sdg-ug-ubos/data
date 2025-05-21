@@ -1,1 +1,7 @@
-Year,Value
+Year,Degree of urbanisation,Value
+2017,,44.3
+2020,,42.1
+2017,Rural,54.0
+2020,Rural,50.2
+2017,Urban,14.1
+2020,Urban,19.7

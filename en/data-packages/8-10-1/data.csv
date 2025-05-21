@@ -1,1 +1,11 @@
-Year,Value
+Year,COMPOSITE_BREAKDOWN,Value
+2015,Automated teller machines,4.7
+2016,Automated teller machines,4.6
+2017,Automated teller machines,4.2
+2018,Automated teller machines,4.2
+2019,Automated teller machines,4.7
+2015,commercial bank branches,3.0
+2016,commercial bank branches,2.9
+2017,commercial bank branches,2.7
+2018,commercial bank branches,2.6
+2019,commercial bank branches,3.1

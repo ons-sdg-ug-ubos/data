@@ -1,1 +1,10 @@
-Year,Value
+Year,Source details,SERIES,UNIT_MEASURE,Value
+2015,Sendai Framework database,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",Percent,1.24
+2016,Sendai Framework database,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",Percent,0.34
+2017,Sendai Framework database,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",Percent,1.48
+2018,Sendai Framework database,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",Percent,103.0
+2015,NDP III,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",1.24
+2016,NDP III,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.34
+2017,NDP III,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",1.48
+2018,NDP III,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",103.0
+2020,NDP III,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",130.0

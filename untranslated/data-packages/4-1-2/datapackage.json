@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
                 "F",
+                "M",
                 ""
               ]
             }
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_1",
-                "ISCED11A_2",
+                "_L_UG_P7",
+                "_L_UG_S4",
                 ""
               ]
             }

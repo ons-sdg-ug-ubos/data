@@ -12,7 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_TOT_C",
+                "_L_UG_TOT_F",
+                "_L_UG_TOT_M",
+                "_L_UG_TOT_N",
+                "_L_UG_TOT_P",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

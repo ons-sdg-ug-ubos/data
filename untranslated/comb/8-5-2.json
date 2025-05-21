@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2017,2020,2017,2020,2017,2020,2017,2020,2017,2020,2017,2020,2017,2020],"SEX":[null,null,null,null,null,null,null,null,null,null,"F","F","M","M"],"AGE":[null,null,"Y_GE60","Y_GE60","Y18T30","Y18T30","Y31T59","Y31T59","Y5T17","Y5T17",null,null,null,null],"Value":[9.0,8.6,5.6,3.4,13.4,13.0,4.7,5.6,14.7,19.0,13.0,8.7,5.9,8.5]},"edges":[]}

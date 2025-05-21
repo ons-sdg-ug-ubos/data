@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2017,2017,2017],"SERIES":["Proportion of population that feel safe walking alone around the area they live in [16.1.4]","Proportion of population that feel safe walking alone around the area they live in [16.1.4]","Proportion of population that feel safe walking alone around the area they live after dark [16.1.4]"],"Sex":["Female","Male",null],"Source details":[null,"NGPSS",null],"Value":[55,65,61]},"edges":{"From":["Sex"],"To":["Source details"]}}

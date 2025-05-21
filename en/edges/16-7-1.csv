@@ -1,1 +1,5 @@
 From,To
+Source details,Time period details
+Time period details,Sex
+COMPOSITE_BREAKDOWN,Occupation
+Time period details,COMPOSITE_BREAKDOWN

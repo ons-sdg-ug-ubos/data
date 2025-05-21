@@ -1,1 +1,10 @@
-Year,Value
+Year,SERIES,Value
+2019,Proportion of population covered by at least a 2G mobile network [9.c.1],90
+2020,Proportion of population covered by at least a 2G mobile network [9.c.1],98
+2021,Proportion of population covered by at least a 2G mobile network [9.c.1],98
+2019,Proportion of population covered by at least a 3G mobile network [9.c.1],83
+2020,Proportion of population covered by at least a 3G mobile network [9.c.1],86
+2021,Proportion of population covered by at least a 3G mobile network [9.c.1],89
+2019,Proportion of population covered by at least a 4G mobile network [9.c.1],25
+2020,Proportion of population covered by at least a 4G mobile network [9.c.1],31
+2021,Proportion of population covered by at least a 4G mobile network [9.c.1],47

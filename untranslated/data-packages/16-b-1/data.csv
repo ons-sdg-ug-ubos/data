@@ -1,1 +1,5 @@
-Year,Value
+Year,SEX,URBANISATION,Value
+2017,,,35
+2017,,R,33
+2017,F,,32
+2017,M,,39

@@ -12,11 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_ACCOUNTABILITY",
+                "_L_UG_AGRICULTURE",
+                "_L_UG_EDUCATION",
+                "_L_UG_ENERGY_AND_MINERAL_DEVELOPMENT",
+                "_L_UG_HEALTH",
+                "_L_UG_ICT",
+                "_L_UG_JLOS",
+                "_L_UG_LANDS_HOUSING_AND_URBAN_DEVELOPMENT",
+                "_L_UG_LEGISLATURE",
+                "_L_UG_PUBLIC_ADMINISTRATION",
+                "_L_UG_PUBLIC_SECTOR_MANAGEMENT",
+                "_L_UG_SECURITY",
+                "_L_UG_SOCIAL_DEVELOPMENT",
+                "_L_UG_STI",
+                "_L_UG_TOURISM_TRADE_AND_INDUSTRY",
+                "_L_UG_WATER_AND_ENVIRONMENT",
+                "_L_UG_WATER_AND_TRANSPORT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

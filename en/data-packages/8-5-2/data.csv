@@ -1,1 +1,15 @@
-Year,Value
+Year,Sex,Age,Value
+2017,,,9.0
+2020,,,8.6
+2017,,60 years old and over,5.6
+2020,,60 years old and over,3.4
+2017,,18 to 30 years old,13.4
+2020,,18 to 30 years old,13.0
+2017,,31 to 59 years old,4.7
+2020,,31 to 59 years old,5.6
+2017,,5 to 17 years old,14.7
+2020,,5 to 17 years old,19.0
+2017,Female,,13.0
+2020,Female,,8.7
+2017,Male,,5.9
+2020,Male,,8.5

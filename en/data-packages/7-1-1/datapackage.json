@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AE_NATIONAL_MINI_GRID",
-                "AE_OFF_GRID",
+                "National or Mini-grid",
+                "off grid solutions",
                 ""
               ]
             },

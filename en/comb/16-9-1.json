@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2016,2017,2016],"Sex":[null,null,"Male"],"Degree of urbanisation":[null,"Urban",null],"Time period details":["2016","2017","2016"],"Source details":[null,"NGPSS",null],"Value":[32.2,40.0,32.2]},"edges":{"From":["Time period details","Time period details","Degree of urbanisation"],"To":["Sex","Degree of urbanisation","Source details"]}}

@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AE_NATIONAL_MINI_GRID",
-                "AE_OFF_GRID",
+                "_L_UG_NOM",
+                "_L_UG_OFF",
                 ""
               ]
             }

@@ -1,1 +1,13 @@
-Year,Value
+Year,Sex,Occupation,Value
+2020,,Managers,6562
+2020,,Professionals,5319
+2020,,Technicians and associate professionals,4704
+2020,,Clerical support workers,2859
+2020,Female,Managers,6983
+2020,Female,Professionals,3822
+2020,Female,Technicians and associate professionals,3542
+2020,Female,Clerical support workers,2500
+2020,Male,Managers,6460
+2020,Male,Professionals,6082
+2020,Male,Technicians and associate professionals,5406
+2020,Male,Clerical support workers,3197

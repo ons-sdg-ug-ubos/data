@@ -12,11 +12,74 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative Data",
+                "NGPSS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCO08_2612",
+                "ISCO08_2619R",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_DISABLED_JUDICIARY",
+                "_L_UG_FEMALE_JUDICIARY",
+                "_L_UG_JUDGES_OF_THE_HIGH_COURT",
+                "_L_UG_JUSTICES_OF_THE_COURT_OF_APPEAL",
+                "_L_UG_JUSTICES_OF_THE_SUPREME_COURT",
+                "_L_UG_MAGISTRATES_GRADE_I",
+                "_L_UG_MAGISTRATES_GRADE_II",
+                "_L_UG_MALE_JUDICIARY",
+                "_L_UG_TOTAL_OFFICERS_JUDICIARY",
+                "_L_UG_REGISTRARS",
+                "_L_UG_CHIEF_MAGISTRATE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                "2017",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

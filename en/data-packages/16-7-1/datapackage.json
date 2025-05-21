@@ -12,12 +12,80 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative Data",
+                "NGPSS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Judges",
+                "Registrars included in 2619 - Legal Professionals Not Elsewhere Classified",
+                ""
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Positions In Judiciary, Disabled",
+                "Positions In Judiciary, Females",
+                "Positions In Judiciary, Hight Court",
+                "Positions In Judiciary, Court of Appeal",
+                "Positions In Judiciary, Justices of Supreme Court",
+                "Positions In Judiciary, Magistrate Grade I",
+                "Positions In Judiciary, Magistrate Grade II",
+                "Positions In Judiciary, Males",
+                "Positions In Judiciary, Officers Judiciary",
+                "Positions In Judiciary, Registrars",
+                "Positions In Judiciary, Magistrate",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                "2017",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

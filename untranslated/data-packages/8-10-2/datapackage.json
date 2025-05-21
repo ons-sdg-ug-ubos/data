@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_BANK_ACCOUNT",
+                "_L_UG_MOBILE_MONEY_ACCOUNT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

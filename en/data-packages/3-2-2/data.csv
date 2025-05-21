@@ -1,1 +1,6 @@
-Year,Value
+Year,Sex,Degree of urbanisation,Value
+2016,,,27
+2016,,Rural,26
+2016,,Urban,28
+2016,Female,,23
+2016,Male,,31

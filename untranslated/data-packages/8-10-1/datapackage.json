@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_ATM",
+                "_L_UG_COMMERCIAL_BANK",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

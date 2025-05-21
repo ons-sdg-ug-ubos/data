@@ -1,1 +1,21 @@
-Year,Value
+Year,SERIES,Sex,Degree of urbanisation,Value
+2017,Proportion of population using basic drinking water services [1.4.1],,,80.0
+2020,Proportion of population using basic drinking water services [1.4.1],,,79.0
+2017,Proportion of population using basic drinking water services [1.4.1],,Rural,74.9
+2020,Proportion of population using basic drinking water services [1.4.1],,Rural,75.0
+2017,Proportion of population using basic drinking water services [1.4.1],,Urban,92.3
+2020,Proportion of population using basic drinking water services [1.4.1],,Urban,91.0
+2017,Proportion of population using basic drinking water services [1.4.1],Female,,82.0
+2020,Proportion of population using basic drinking water services [1.4.1],Female,,80.1
+2017,Proportion of population using basic drinking water services [1.4.1],Male,,78.9
+2020,Proportion of population using basic drinking water services [1.4.1],Male,,77.5
+2017,Proportion of population using basic sanitation services [1.4.1],,,92.8
+2020,Proportion of population using basic sanitation services [1.4.1],,,95.0
+2017,Proportion of population using basic sanitation services [1.4.1],,Rural,90.7
+2020,Proportion of population using basic sanitation services [1.4.1],,Rural,97.0
+2017,Proportion of population using basic sanitation services [1.4.1],,Urban,98.0
+2020,Proportion of population using basic sanitation services [1.4.1],,Urban,91.0
+2017,Proportion of population using basic sanitation services [1.4.1],Female,,91.5
+2020,Proportion of population using basic sanitation services [1.4.1],Female,,91.0
+2017,Proportion of population using basic sanitation services [1.4.1],Male,,93.3
+2020,Proportion of population using basic sanitation services [1.4.1],Male,,94.0

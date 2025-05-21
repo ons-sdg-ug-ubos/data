@@ -1,1 +1,10 @@
-Year,Value
+Year,COMPOSITE_BREAKDOWN,Value
+2015,With a bank account,28.8
+2016,With a bank account,31.8
+2017,With a bank account,44.0
+2018,With a bank account,53.8
+2019,With a bank account,63.9
+2020,With a bank account,76.1
+2018,With a mobile money account,69.6
+2019,With a mobile money account,79.9
+2020,With a mobile money account,86.7

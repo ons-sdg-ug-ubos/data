@@ -12,7 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SKILL_ICTATCH",
+                "SKILL_ICTCDV",
+                "SKILL_ICTCMFL",
+                "SKILL_ICTCPT",
+                "SKILL_ICTPRGM",
+                "SKILL_ICTPST",
+                "SKILL_ICTSFWR",
+                "SKILL_ICTSSHT",
+                "SKILL_ICTTRFF",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_AIR_CARGO",
+                "_L_UG_RAILWAY_CARGO",
+                "_L_UG_WATER_CARGO",
+                "_L_UG_AIR_PASSENGER",
+                "_L_UG_RAILWAY_PASSENGER",
+                "_L_UG_WATER_PASSENGER",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

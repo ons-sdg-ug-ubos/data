@@ -1,1 +1,11 @@
-Year,Value
+Year,SERIES,Sex,Degree of urbanisation,Value
+2016,Infant mortality rate [3.2.1],,,43
+2016,Infant mortality rate [3.2.1],,Rural,44
+2016,Infant mortality rate [3.2.1],,Urban,39
+2016,Infant mortality rate [3.2.1],Female,,37
+2016,Infant mortality rate [3.2.1],Male,,49
+2016,Under-five mortality rate [3.2.1],,,64
+2016,Under-five mortality rate [3.2.1],,Rural,68
+2016,Under-five mortality rate [3.2.1],,Urban,52
+2016,Under-five mortality rate [3.2.1],Female,,56
+2016,Under-five mortality rate [3.2.1],Male,,72
