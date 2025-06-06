@@ -1,1 +1,1 @@
-{"Year":[2016,2016,2016],"SEX":[null,"F","M"],"Value":[28.9,26.9,30.9]}
+{"Year":[2016,2016,2016],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"SOURCE_DETAIL":["UDHS","UDHS","UDHS"],"SERIES":["SH_STA_STNT","SH_STA_STNT","SH_STA_STNT"],"REF_AREA":[null,null,null],"SEX":[null,"F","M"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[28.9,26.9,30.9]}

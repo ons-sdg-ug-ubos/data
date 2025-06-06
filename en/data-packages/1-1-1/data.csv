@@ -1,4 +1,4 @@
-Year,Degree of urbanisation,Value
-2020,,41.2
-2020,Rural,48.1
-2020,Urban,22.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2020,Normal value,Units,UNHS,Proportion of population below international poverty line [1.1.1],,,Percent,41.2
+2020,Normal value,Units,UNHS,Proportion of population below international poverty line [1.1.1],,Rural,Percent,48.1
+2020,Normal value,Units,UNHS,Proportion of population below international poverty line [1.1.1],,Urban,Percent,22.0

@@ -1,5 +1,5 @@
-Year,Value
-2018,0.0
-2019,9.0
-2020,9.0
-2021,15.9
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2018,Normal value,Units,Administrative data from MTIC,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,0.0
+2019,Normal value,Units,Administrative data from MTIC,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,9.0
+2020,Normal value,Units,Administrative data from MTIC,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,9.0
+2021,Normal value,Units,Administrative data from MTIC,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,15.9

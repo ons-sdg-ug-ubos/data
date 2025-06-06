@@ -1,7 +1,7 @@
-Year,Value
-2015,328.6
-2016,312.3
-2017,308.3
-2018,304.9
-2019,305.5
-2020,351.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Administrative data from MoGLSD,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination [10.7.1],,Percent,328.6
+2016,Normal value,Units,Administrative data from MoGLSD,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination [10.7.1],,Percent,312.3
+2017,Normal value,Units,Administrative data from MoGLSD,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination [10.7.1],,Percent,308.3
+2018,Normal value,Units,Administrative data from MoGLSD,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination [10.7.1],,Percent,304.9
+2019,Normal value,Units,Administrative data from MoGLSD,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination [10.7.1],,Percent,305.5
+2020,Normal value,Units,Administrative data from MoGLSD,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination [10.7.1],,Percent,351.0

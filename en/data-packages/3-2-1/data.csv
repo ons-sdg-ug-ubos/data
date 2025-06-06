@@ -1,11 +1,11 @@
-Year,SERIES,Sex,Degree of urbanisation,Value
-2016,Infant mortality rate [3.2.1],,,43
-2016,Infant mortality rate [3.2.1],,Rural,44
-2016,Infant mortality rate [3.2.1],,Urban,39
-2016,Infant mortality rate [3.2.1],Female,,37
-2016,Infant mortality rate [3.2.1],Male,,49
-2016,Under-five mortality rate [3.2.1],,,64
-2016,Under-five mortality rate [3.2.1],,Rural,68
-2016,Under-five mortality rate [3.2.1],,Urban,52
-2016,Under-five mortality rate [3.2.1],Female,,56
-2016,Under-five mortality rate [3.2.1],Male,,72
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2016,Normal value,Units,UDHS,Infant mortality rate [3.2.1],,,,"Per 1,000 live births",43
+2016,Normal value,Units,UDHS,Infant mortality rate [3.2.1],,,Rural,"Per 1,000 live births",44
+2016,Normal value,Units,UDHS,Infant mortality rate [3.2.1],,,Urban,"Per 1,000 live births",39
+2016,Normal value,Units,UDHS,Infant mortality rate [3.2.1],,Female,,"Per 1,000 live births",37
+2016,Normal value,Units,UDHS,Infant mortality rate [3.2.1],,Male,,"Per 1,000 live births",49
+2016,Normal value,Units,UDHS,Under-five mortality rate [3.2.1],,,,"Per 1,000 live births",64
+2016,Normal value,Units,UDHS,Under-five mortality rate [3.2.1],,,Rural,"Per 1,000 live births",68
+2016,Normal value,Units,UDHS,Under-five mortality rate [3.2.1],,,Urban,"Per 1,000 live births",52
+2016,Normal value,Units,UDHS,Under-five mortality rate [3.2.1],,Female,,"Per 1,000 live births",56
+2016,Normal value,Units,UDHS,Under-five mortality rate [3.2.1],,Male,,"Per 1,000 live births",72

@@ -1,7 +1,7 @@
-Year,Sex,Value
-2017,,84.9
-2020,,88.1
-2017,Female,85.6
-2020,Female,90.6
-2017,Male,84.5
-2020,Male,86.5
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2017,Normal value,Units,UNHS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,,Percent,84.9
+2020,Normal value,Units,UNHS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,,Percent,88.1
+2017,Normal value,Units,UNHS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,Female,Percent,85.6
+2020,Normal value,Units,UNHS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,Female,Percent,90.6
+2017,Normal value,Units,UNHS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,Male,Percent,84.5
+2020,Normal value,Units,UNHS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,Male,Percent,86.5

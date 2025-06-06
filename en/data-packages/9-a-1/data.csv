@@ -1,6 +1,6 @@
-Year,Value
-2017,558129873
-2018,969371644
-2019,870800141
-2020,479896705
-2021,648388662
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2017,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,558129873
+2018,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,969371644
+2019,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,870800141
+2020,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,479896705
+2021,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,648388662

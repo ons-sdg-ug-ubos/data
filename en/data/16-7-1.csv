@@ -1,79 +1,79 @@
-Year,Source details,Sex,Occupation,COMPOSITE_BREAKDOWN,Time period details,Value
-2015,Administrative Data,,,"Positions In Judiciary, Disabled",2021,1
-2016,Administrative Data,,,"Positions In Judiciary, Disabled",2021,1
-2017,Administrative Data,,,"Positions In Judiciary, Disabled",2021,1
-2018,Administrative Data,,,"Positions In Judiciary, Disabled",2021,1
-2019,Administrative Data,,,"Positions In Judiciary, Disabled",2021,1
-2020,Administrative Data,,,"Positions In Judiciary, Disabled",2021,1
-2021,Administrative Data,,,"Positions In Judiciary, Disabled",2021,1
-2015,Administrative Data,,,"Positions In Judiciary, Females",2021,211
-2016,Administrative Data,,,"Positions In Judiciary, Females",2021,228
-2017,Administrative Data,,,"Positions In Judiciary, Females",2021,220
-2018,Administrative Data,,,"Positions In Judiciary, Females",2021,207
-2019,Administrative Data,,,"Positions In Judiciary, Females",2021,212
-2020,Administrative Data,,,"Positions In Judiciary, Females",2021,201
-2021,Administrative Data,,,"Positions In Judiciary, Females",2021,200
-2015,Administrative Data,,,"Positions In Judiciary, Hight Court",2021,51
-2016,Administrative Data,,,"Positions In Judiciary, Hight Court",2021,48
-2017,Administrative Data,,,"Positions In Judiciary, Hight Court",2021,48
-2018,Administrative Data,,,"Positions In Judiciary, Hight Court",2021,53
-2019,Administrative Data,,,"Positions In Judiciary, Hight Court",2021,52
-2020,Administrative Data,,,"Positions In Judiciary, Hight Court",2021,60
-2021,Administrative Data,,,"Positions In Judiciary, Hight Court",2021,60
-2015,Administrative Data,,,"Positions In Judiciary, Court of Appeal",2021,12
-2016,Administrative Data,,,"Positions In Judiciary, Court of Appeal",2021,13
-2017,Administrative Data,,,"Positions In Judiciary, Court of Appeal",2021,13
-2018,Administrative Data,,,"Positions In Judiciary, Court of Appeal",2021,14
-2019,Administrative Data,,,"Positions In Judiciary, Court of Appeal",2021,12
-2020,Administrative Data,,,"Positions In Judiciary, Court of Appeal",2021,14
-2021,Administrative Data,,,"Positions In Judiciary, Court of Appeal",2021,14
-2015,Administrative Data,,,"Positions In Judiciary, Justices of Supreme Court",2021,8
-2016,Administrative Data,,,"Positions In Judiciary, Justices of Supreme Court",2021,9
-2017,Administrative Data,,,"Positions In Judiciary, Justices of Supreme Court",2021,8
-2018,Administrative Data,,,"Positions In Judiciary, Justices of Supreme Court",2021,11
-2019,Administrative Data,,,"Positions In Judiciary, Justices of Supreme Court",2021,11
-2020,Administrative Data,,,"Positions In Judiciary, Justices of Supreme Court",2021,11
-2021,Administrative Data,,,"Positions In Judiciary, Justices of Supreme Court",2021,10
-2015,Administrative Data,,,"Positions In Judiciary, Magistrate Grade I",2021,167
-2016,Administrative Data,,,"Positions In Judiciary, Magistrate Grade I",2021,195
-2017,Administrative Data,,,"Positions In Judiciary, Magistrate Grade I",2021,190
-2018,Administrative Data,,,"Positions In Judiciary, Magistrate Grade I",2021,187
-2019,Administrative Data,,,"Positions In Judiciary, Magistrate Grade I",2021,190
-2020,Administrative Data,,,"Positions In Judiciary, Magistrate Grade I",2021,190
-2021,Administrative Data,,,"Positions In Judiciary, Magistrate Grade I",2021,169
-2015,Administrative Data,,,"Positions In Judiciary, Magistrate Grade II",2021,60
-2016,Administrative Data,,,"Positions In Judiciary, Magistrate Grade II",2021,51
-2017,Administrative Data,,,"Positions In Judiciary, Magistrate Grade II",2021,46
-2018,Administrative Data,,,"Positions In Judiciary, Magistrate Grade II",2021,37
-2019,Administrative Data,,,"Positions In Judiciary, Magistrate Grade II",2021,33
-2020,Administrative Data,,,"Positions In Judiciary, Magistrate Grade II",2021,28
-2021,Administrative Data,,,"Positions In Judiciary, Magistrate Grade II",2021,24
-2015,Administrative Data,,,"Positions In Judiciary, Males",2021,155
-2016,Administrative Data,,,"Positions In Judiciary, Males",2021,179
-2017,Administrative Data,,,"Positions In Judiciary, Males",2021,170
-2018,Administrative Data,,,"Positions In Judiciary, Males",2021,178
-2019,Administrative Data,,,"Positions In Judiciary, Males",2021,179
-2020,Administrative Data,,,"Positions In Judiciary, Males",2021,183
-2021,Administrative Data,,,"Positions In Judiciary, Males",2021,175
-2015,Administrative Data,,,"Positions In Judiciary, Officers Judiciary",2021,366
-2016,Administrative Data,,,"Positions In Judiciary, Officers Judiciary",2021,407
-2017,Administrative Data,,,"Positions In Judiciary, Officers Judiciary",2021,390
-2018,Administrative Data,,,"Positions In Judiciary, Officers Judiciary",2021,385
-2019,Administrative Data,,,"Positions In Judiciary, Officers Judiciary",2021,391
-2020,Administrative Data,,,"Positions In Judiciary, Officers Judiciary",2021,384
-2021,Administrative Data,,,"Positions In Judiciary, Officers Judiciary",2021,375
-2015,Administrative Data,,Judges,"Positions In Judiciary, Registrars",2021,22
-2016,Administrative Data,,Judges,"Positions In Judiciary, Registrars",2021,44
-2017,Administrative Data,,Judges,"Positions In Judiciary, Registrars",2021,45
-2018,Administrative Data,,Judges,"Positions In Judiciary, Registrars",2021,46
-2019,Administrative Data,,Judges,"Positions In Judiciary, Registrars",2021,47
-2020,Administrative Data,,Judges,"Positions In Judiciary, Registrars",2021,33
-2021,Administrative Data,,Judges,"Positions In Judiciary, Registrars",2021,48
-2015,Administrative Data,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",2021,46
-2016,Administrative Data,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",2021,47
-2017,Administrative Data,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",2021,40
-2018,Administrative Data,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",2021,37
-2019,Administrative Data,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",2021,46
-2020,Administrative Data,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",2021,48
-2021,Administrative Data,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",2021,50
-2017,NGPSS,Female,,,2017,30
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Occupation,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Disabled",Percent,2021,1
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Disabled",Percent,2021,1
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Disabled",Percent,2021,1
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Disabled",Percent,2021,1
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Disabled",Percent,2021,1
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Disabled",Percent,2021,1
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Disabled",Percent,2021,1
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Females",Percent,2021,211
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Females",Percent,2021,228
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Females",Percent,2021,220
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Females",Percent,2021,207
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Females",Percent,2021,212
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Females",Percent,2021,201
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Females",Percent,2021,200
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Hight Court",Percent,2021,51
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Hight Court",Percent,2021,48
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Hight Court",Percent,2021,48
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Hight Court",Percent,2021,53
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Hight Court",Percent,2021,52
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Hight Court",Percent,2021,60
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Hight Court",Percent,2021,60
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Court of Appeal",Percent,2021,12
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Court of Appeal",Percent,2021,13
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Court of Appeal",Percent,2021,13
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Court of Appeal",Percent,2021,14
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Court of Appeal",Percent,2021,12
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Court of Appeal",Percent,2021,14
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Court of Appeal",Percent,2021,14
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Justices of Supreme Court",Percent,2021,8
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Justices of Supreme Court",Percent,2021,9
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Justices of Supreme Court",Percent,2021,8
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Justices of Supreme Court",Percent,2021,11
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Justices of Supreme Court",Percent,2021,11
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Justices of Supreme Court",Percent,2021,11
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Justices of Supreme Court",Percent,2021,10
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade I",Percent,2021,167
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade I",Percent,2021,195
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade I",Percent,2021,190
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade I",Percent,2021,187
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade I",Percent,2021,190
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade I",Percent,2021,190
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade I",Percent,2021,169
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade II",Percent,2021,60
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade II",Percent,2021,51
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade II",Percent,2021,46
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade II",Percent,2021,37
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade II",Percent,2021,33
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade II",Percent,2021,28
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Magistrate Grade II",Percent,2021,24
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Males",Percent,2021,155
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Males",Percent,2021,179
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Males",Percent,2021,170
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Males",Percent,2021,178
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Males",Percent,2021,179
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Males",Percent,2021,183
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Males",Percent,2021,175
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Officers Judiciary",Percent,2021,366
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Officers Judiciary",Percent,2021,407
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Officers Judiciary",Percent,2021,390
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Officers Judiciary",Percent,2021,385
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Officers Judiciary",Percent,2021,391
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Officers Judiciary",Percent,2021,384
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,,"Positions In Judiciary, Officers Judiciary",Percent,2021,375
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Judges,"Positions In Judiciary, Registrars",Percent,2021,22
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Judges,"Positions In Judiciary, Registrars",Percent,2021,44
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Judges,"Positions In Judiciary, Registrars",Percent,2021,45
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Judges,"Positions In Judiciary, Registrars",Percent,2021,46
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Judges,"Positions In Judiciary, Registrars",Percent,2021,47
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Judges,"Positions In Judiciary, Registrars",Percent,2021,33
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Judges,"Positions In Judiciary, Registrars",Percent,2021,48
+2015,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",Percent,2021,46
+2016,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",Percent,2021,47
+2017,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",Percent,2021,40
+2018,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",Percent,2021,37
+2019,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",Percent,2021,46
+2020,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",Percent,2021,48
+2021,Normal value,Units,Administrative Data,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,"Positions In Judiciary, Magistrate",Percent,2021,50
+2017,Normal value,Units,NGPSS,"Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",,Female,,,Percent,2017,30

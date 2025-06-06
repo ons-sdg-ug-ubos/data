@@ -1,2 +1,2 @@
-Year,Value
-2018,155.17
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2018,Normal value,Units,UN Water Data Portal,"Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries [6.a.1]",,Percent,155.17

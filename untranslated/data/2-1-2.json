@@ -1,1 +1,1 @@
-{"Year":[2015,2015],"SERIES":["AG_PRD_FIESMS","AG_PRD_FIESS"],"Value":[37,8]}
+{"Year":[2015,2015],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["UNPS","UNPS"],"SERIES":["AG_PRD_FIESMS","AG_PRD_FIESS"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"Value":[37,8]}

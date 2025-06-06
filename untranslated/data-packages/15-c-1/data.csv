@@ -1,8 +1,8 @@
-Year,Value
-2015,0.4
-2016,0.36
-2017,0.25
-2018,0.32
-2019,0.33
-2020,0.19
-2021,0.38
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,Administrative data from UWA,ER_WLD_TRPOACH,,PT,0.4
+2016,A,0,Administrative data from UWA,ER_WLD_TRPOACH,,PT,0.36
+2017,A,0,Administrative data from UWA,ER_WLD_TRPOACH,,PT,0.25
+2018,A,0,Administrative data from UWA,ER_WLD_TRPOACH,,PT,0.32
+2019,A,0,Administrative data from UWA,ER_WLD_TRPOACH,,PT,0.33
+2020,A,0,Administrative data from UWA,ER_WLD_TRPOACH,,PT,0.19
+2021,A,0,Administrative data from UWA,ER_WLD_TRPOACH,,PT,0.38

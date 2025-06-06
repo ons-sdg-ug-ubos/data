@@ -1,5 +1,5 @@
-Year,Value
-2015,743.304
-2016,624.19
-2017,584.36
-2018,576.5
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Energy Balance,Energy intensity level of primary energy [7.3.1],,Megajoules per USD constant PPP GDP,743.304
+2016,Normal value,Units,Energy Balance,Energy intensity level of primary energy [7.3.1],,Megajoules per USD constant PPP GDP,624.19
+2017,Normal value,Units,Energy Balance,Energy intensity level of primary energy [7.3.1],,Megajoules per USD constant PPP GDP,584.36
+2018,Normal value,Units,Energy Balance,Energy intensity level of primary energy [7.3.1],,Megajoules per USD constant PPP GDP,576.5

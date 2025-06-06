@@ -1,1 +1,1 @@
-{"Year":[2019,2020],"Value":[28,30]}
+{"Year":[2019,2020],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Administrative data from NWSC","Administrative data from NWSC"],"SERIES":["EN_WWT_GEN","EN_WWT_GEN"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"Value":[28,30]}

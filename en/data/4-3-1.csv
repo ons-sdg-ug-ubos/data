@@ -1,4 +1,4 @@
-Year,Sex,Value
-2018,,15.4
-2018,Female,15.7
-2018,Male,15.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2018,Normal value,Units,UNHS,Participation rate in formal and non-formal education and training [4.3.1],,,Percent,15.4
+2018,Normal value,Units,UNHS,Participation rate in formal and non-formal education and training [4.3.1],,Female,Percent,15.7
+2018,Normal value,Units,UNHS,Participation rate in formal and non-formal education and training [4.3.1],,Male,Percent,15.0

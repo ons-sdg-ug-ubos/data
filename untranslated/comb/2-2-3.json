@@ -1,1 +1,1 @@
-{"data":{"Year":[2016,2016,2016],"SERIES":["SH_STA_ANEM","SH_STA_ANEM_NPRG","SH_STA_ANEM_PREG"],"Value":[31.7,29.9,39.2]},"edges":[]}
+{"data":{"Year":[2016,2016,2016],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"SOURCE_DETAIL":["UDHS","UDHS","UDHS"],"SERIES":["SH_STA_ANEM","SH_STA_ANEM_NPRG","SH_STA_ANEM_PREG"],"REF_AREA":[null,null,null],"SEX":["F","F","F"],"AGE":["Y15T49","Y15T49","Y15T49"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[31.7,29.9,39.2]},"edges":{"From":["OBS_STATUS","UNIT_MULT","SOURCE_DETAIL","SEX"],"To":["UNIT_MULT","SOURCE_DETAIL","SEX","AGE"]}}

@@ -1,4 +1,4 @@
-Year,Value
-2019,0.065
-2020,0.144
-2021,0.134
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,Value
+2019,A,0,Administrative data from Internet Service Providers,IT_NET_BBND,,PER_100_POP,2021,0.065
+2020,A,0,Administrative data from Internet Service Providers,IT_NET_BBND,,PER_100_POP,2021,0.144
+2021,A,0,Administrative data from Internet Service Providers,IT_NET_BBND,,PER_100_POP,2021,0.134

@@ -1,11 +1,11 @@
-Year,COMPOSITE_BREAKDOWN,Value
-2015,Automated teller machines,4.7
-2016,Automated teller machines,4.6
-2017,Automated teller machines,4.2
-2018,Automated teller machines,4.2
-2019,Automated teller machines,4.7
-2015,commercial bank branches,3.0
-2016,commercial bank branches,2.9
-2017,commercial bank branches,2.7
-2018,commercial bank branches,2.6
-2019,commercial bank branches,3.1
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2015,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Automated teller machines,"Per 100,000 population",4.7
+2016,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Automated teller machines,"Per 100,000 population",4.6
+2017,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Automated teller machines,"Per 100,000 population",4.2
+2018,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Automated teller machines,"Per 100,000 population",4.2
+2019,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Automated teller machines,"Per 100,000 population",4.7
+2015,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,commercial bank branches,"Per 100,000 population",3.0
+2016,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,commercial bank branches,"Per 100,000 population",2.9
+2017,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,commercial bank branches,"Per 100,000 population",2.7
+2018,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,commercial bank branches,"Per 100,000 population",2.6
+2019,Normal value,Units,Survey by BOU,"Number of commercial bank branches per 100,000 adults [8.10.1]",,commercial bank branches,"Per 100,000 population",3.1

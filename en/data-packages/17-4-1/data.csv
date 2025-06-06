@@ -1,7 +1,7 @@
-Year,Value
-2015,3.0
-2016,3.1
-2017,4.8
-2018,6.0
-2019,5.3
-2020,6.5
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Balance of Payments statistics compiled by BOU,Debt service as a proportion of exports of goods and services [17.4.1],,Percent,2020,3.0
+2016,Normal value,Units,Balance of Payments statistics compiled by BOU,Debt service as a proportion of exports of goods and services [17.4.1],,Percent,2020,3.1
+2017,Normal value,Units,Balance of Payments statistics compiled by BOU,Debt service as a proportion of exports of goods and services [17.4.1],,Percent,2020,4.8
+2018,Normal value,Units,Balance of Payments statistics compiled by BOU,Debt service as a proportion of exports of goods and services [17.4.1],,Percent,2020,6.0
+2019,Normal value,Units,Balance of Payments statistics compiled by BOU,Debt service as a proportion of exports of goods and services [17.4.1],,Percent,2020,5.3
+2020,Normal value,Units,Balance of Payments statistics compiled by BOU,Debt service as a proportion of exports of goods and services [17.4.1],,Percent,2020,6.5

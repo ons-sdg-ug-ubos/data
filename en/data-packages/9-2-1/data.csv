@@ -1,13 +1,13 @@
-Year,SERIES,Value
-2015,Manufacturing value added as a proportion of GDP [9.2.1],17.5
-2016,Manufacturing value added as a proportion of GDP [9.2.1],15.3
-2017,Manufacturing value added as a proportion of GDP [9.2.1],15.6
-2018,Manufacturing value added as a proportion of GDP [9.2.1],15.6
-2019,Manufacturing value added as a proportion of GDP [9.2.1],15.3
-2020,Manufacturing value added as a proportion of GDP [9.2.1],16.0
-2015,Manufacturing value added per capita [9.2.1],149.0
-2016,Manufacturing value added per capita [9.2.1],127.0
-2017,Manufacturing value added per capita [9.2.1],130.0
-2018,Manufacturing value added per capita [9.2.1],136.0
-2019,Manufacturing value added per capita [9.2.1],142.0
-2020,Manufacturing value added per capita [9.2.1],146.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,National Accounts Statistics,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,17.5
+2016,Normal value,Units,National Accounts Statistics,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,15.3
+2017,Normal value,Units,National Accounts Statistics,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,15.6
+2018,Normal value,Units,National Accounts Statistics,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,15.6
+2019,Normal value,Units,National Accounts Statistics,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,15.3
+2020,Normal value,Units,National Accounts Statistics,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,16.0
+2015,Normal value,Units,National Accounts Statistics,Manufacturing value added per capita [9.2.1],,Percent,149.0
+2016,Normal value,Units,National Accounts Statistics,Manufacturing value added per capita [9.2.1],,Percent,127.0
+2017,Normal value,Units,National Accounts Statistics,Manufacturing value added per capita [9.2.1],,Percent,130.0
+2018,Normal value,Units,National Accounts Statistics,Manufacturing value added per capita [9.2.1],,Percent,136.0
+2019,Normal value,Units,National Accounts Statistics,Manufacturing value added per capita [9.2.1],,Percent,142.0
+2020,Normal value,Units,National Accounts Statistics,Manufacturing value added per capita [9.2.1],,Percent,146.0

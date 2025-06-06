@@ -1,4 +1,4 @@
-Year,Sex,Value
-2017,,66
-2017,Female,67
-2017,Male,65
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,Value
+2017,Normal value,Units,NGPSS,Proportion of population satisfied with their last experience of public services [16.6.2],,,Percent,2017,66
+2017,Normal value,Units,NGPSS,Proportion of population satisfied with their last experience of public services [16.6.2],,Female,Percent,2017,67
+2017,Normal value,Units,NGPSS,Proportion of population satisfied with their last experience of public services [16.6.2],,Male,Percent,2017,65

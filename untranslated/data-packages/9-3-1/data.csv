@@ -1,5 +1,5 @@
-Year,Value
-2018,20
-2019,60
-2020,176
-2021,380
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2018,A,0,Administrative data from MTIC,NV_IND_SSIS,,PT,20
+2019,A,0,Administrative data from MTIC,NV_IND_SSIS,,PT,60
+2020,A,0,Administrative data from MTIC,NV_IND_SSIS,,PT,176
+2021,A,0,Administrative data from MTIC,NV_IND_SSIS,,PT,380

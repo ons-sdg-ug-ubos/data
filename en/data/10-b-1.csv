@@ -1,6 +1,6 @@
-Year,Value
-2017,1210819832
-2018,1518625338
-2019,1542000000
-2020,2354000000
-2021,1766000000
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2017,Normal value,Units,Administrative data from MOFPED,"Total resource flows for development, by recipient and donor countries [10.b.1]",,USD,1210819832
+2018,Normal value,Units,Administrative data from MOFPED,"Total resource flows for development, by recipient and donor countries [10.b.1]",,USD,1518625338
+2019,Normal value,Units,Administrative data from MOFPED,"Total resource flows for development, by recipient and donor countries [10.b.1]",,USD,1542000000
+2020,Normal value,Units,Administrative data from MOFPED,"Total resource flows for development, by recipient and donor countries [10.b.1]",,USD,2354000000
+2021,Normal value,Units,Administrative data from MOFPED,"Total resource flows for development, by recipient and donor countries [10.b.1]",,USD,1766000000

@@ -16,9 +16,64 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-performing loans to total gross loans (%) [10.5.1]",
+                "Return on assets (%) [10.5.1]",
+                "Regulatory capital to assets (%) [10.5.1]",
+                "Non-performing loans net of provisions to capital (%) [10.5.1]",
+                "Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1]",
+                "Liquid assets to short term liabilities (%) [10.5.1]",
+                "Net open position in foreign exchange to capital (%) [10.5.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

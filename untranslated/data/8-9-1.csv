@@ -1,2 +1,2 @@
-Year,Value
-2019,3.6
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2019,A,0,Uganda Tourism Satellite account report,ST_GDP_ZS,,PT,3.6

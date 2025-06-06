@@ -1,1 +1,1 @@
-{"data":{"Year":[2017],"Value":[84]},"edges":[]}
+{"data":{"Year":[2017],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["Administrative data from MOWE"],"SERIES":["EG_TBA_H2CO"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[84]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

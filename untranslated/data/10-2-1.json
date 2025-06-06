@@ -1,1 +1,1 @@
-{"Year":[2017,2020,2017,2020],"DISABILITY_STATUS":[null,null,"PD","PD"],"TIME_DETAIL":["2020","2020",null,null],"Value":[9.3,10.8,9.3,10.8]}
+{"Year":[2017,2020,2017,2020],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"SOURCE_DETAIL":["UNHS","UNHS","UNHS","UNHS"],"SERIES":["SI_POV_50MI","SI_POV_50MI","SI_POV_50MI","SI_POV_50MI"],"REF_AREA":[null,null,null,null],"DISABILITY_STATUS":[null,null,"PD","PD"],"UNIT_MEASURE":["PT","PT","PT","PT"],"TIME_DETAIL":["2020","2020",null,null],"Value":[9.3,10.8,9.3,10.8]}

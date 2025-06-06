@@ -1,10 +1,10 @@
-Year,COMPOSITE_BREAKDOWN,Value
-2019,Proportion of individuals using fixed internet,9929
-2020,Proportion of individuals using fixed internet,27351
-2021,Proportion of individuals using fixed internet,29412
-2019,Proportion of individuals using mobile  internet,15155921
-2020,Proportion of individuals using mobile  internet,18917120
-2021,Proportion of individuals using mobile  internet,21886806
-2019,,15165850
-2020,,18944471
-2021,,21916218
+Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
+2019,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Number,2021,9929
+2020,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Number,2021,27351
+2021,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Number,2021,29412
+2019,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Number,2021,15155921
+2020,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Number,2021,18917120
+2021,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Number,2021,21886806
+2019,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,,Number,2021,15165850
+2020,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,,Number,2021,18944471
+2021,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,,Number,2021,21916218

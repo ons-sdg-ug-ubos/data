@@ -1,3 +1,3 @@
-Year,Value
-2017,3.9
-2020,27.6
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2017,A,0,National Accounts Statistics,SL_EMP_PCAP,,PT,3.9
+2020,A,0,National Accounts Statistics,SL_EMP_PCAP,,PT,27.6

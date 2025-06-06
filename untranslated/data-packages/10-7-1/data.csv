@@ -1,7 +1,7 @@
-Year,Value
-2015,328.6
-2016,312.3
-2017,308.3
-2018,304.9
-2019,305.5
-2020,351.0
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,Administrative data from MoGLSD,SL_EMP_RCOST,,PT,328.6
+2016,A,0,Administrative data from MoGLSD,SL_EMP_RCOST,,PT,312.3
+2017,A,0,Administrative data from MoGLSD,SL_EMP_RCOST,,PT,308.3
+2018,A,0,Administrative data from MoGLSD,SL_EMP_RCOST,,PT,304.9
+2019,A,0,Administrative data from MoGLSD,SL_EMP_RCOST,,PT,305.5
+2020,A,0,Administrative data from MoGLSD,SL_EMP_RCOST,,PT,351.0

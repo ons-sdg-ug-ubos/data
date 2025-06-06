@@ -1,4 +1,4 @@
-Year,Value
-2019,0.065
-2020,0.144
-2021,0.134
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2019,Normal value,Units,Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,2021,0.065
+2020,Normal value,Units,Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,2021,0.144
+2021,Normal value,Units,Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Per 100 population,2021,0.134

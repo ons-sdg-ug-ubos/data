@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2020],"Value":[86.0,90.5]},"edges":[]}
+{"data":{"Year":[2017,2020],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Administrative data from MEMD","Administrative data from MEMD"],"SERIES":["EG_FEC_RNEW","EG_FEC_RNEW"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"Value":[86.0,90.5]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

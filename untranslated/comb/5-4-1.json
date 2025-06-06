@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2017,2017],"SEX":[null,"F","M"],"Value":[13.3,14.6,8.8]},"edges":[]}
+{"data":{"Year":[2017,2017,2017],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"SOURCE_DETAIL":["Time Use Survey","Time Use Survey","Time Use Survey"],"SERIES":["SL_DOM_TSPD","SL_DOM_TSPD","SL_DOM_TSPD"],"REF_AREA":[null,null,null],"SEX":[null,"F","M"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[13.3,14.6,8.8]},"edges":{"From":["OBS_STATUS","UNIT_MULT","SOURCE_DETAIL"],"To":["UNIT_MULT","SOURCE_DETAIL","SEX"]}}

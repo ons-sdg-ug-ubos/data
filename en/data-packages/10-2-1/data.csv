@@ -1,5 +1,5 @@
-Year,Disability status,Time period details,Value
-2017,,2020,9.3
-2020,,2020,10.8
-2017,Persons with disability,,9.3
-2020,Persons with disability,,10.8
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Disability status,UNIT_MEASURE,Time period details,Value
+2017,Normal value,Units,UNHS,Proportion of people living below 50 percent of median income [10.2.1],,,Percent,2020,9.3
+2020,Normal value,Units,UNHS,Proportion of people living below 50 percent of median income [10.2.1],,,Percent,2020,10.8
+2017,Normal value,Units,UNHS,Proportion of people living below 50 percent of median income [10.2.1],,Persons with disability,Percent,,9.3
+2020,Normal value,Units,UNHS,Proportion of people living below 50 percent of median income [10.2.1],,Persons with disability,Percent,,10.8

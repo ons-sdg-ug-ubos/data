@@ -1,13 +1,1 @@
-Year,Value,SERIES
-2015,17.5,Manufacturing value added as a proportion of GDP [9.2.1]
-2016,15.3,Manufacturing value added as a proportion of GDP [9.2.1]
-2017,15.6,Manufacturing value added as a proportion of GDP [9.2.1]
-2018,15.6,Manufacturing value added as a proportion of GDP [9.2.1]
-2019,15.3,Manufacturing value added as a proportion of GDP [9.2.1]
-2020,16.0,Manufacturing value added as a proportion of GDP [9.2.1]
-2015,149.0,Manufacturing value added per capita [9.2.1]
-2016,127.0,Manufacturing value added per capita [9.2.1]
-2017,130.0,Manufacturing value added per capita [9.2.1]
-2018,136.0,Manufacturing value added per capita [9.2.1]
-2019,142.0,Manufacturing value added per capita [9.2.1]
-2020,146.0,Manufacturing value added per capita [9.2.1]
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

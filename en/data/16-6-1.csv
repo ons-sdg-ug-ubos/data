@@ -1,101 +1,101 @@
-Year,COMPOSITE_BREAKDOWN,Value
-2016,Accountability-Primary government expenditures as a proportion of original approved budget,77
-2017,Accountability-Primary government expenditures as a proportion of original approved budget,100
-2018,Accountability-Primary government expenditures as a proportion of original approved budget,102
-2019,Accountability-Primary government expenditures as a proportion of original approved budget,83
-2020,Accountability-Primary government expenditures as a proportion of original approved budget,95
-2021,Accountability-Primary government expenditures as a proportion of original approved budget,132
-2016,Primary Government expenditure on Agriculture,79
-2017,Primary Government expenditure on Agriculture,84
-2018,Primary Government expenditure on Agriculture,85
-2019,Primary Government expenditure on Agriculture,82
-2020,Primary Government expenditure on Agriculture,83
-2021,Primary Government expenditure on Agriculture,67
-2016,Primary Government expenditure on Education,83
-2017,Primary Government expenditure on Education,80
-2018,Primary Government expenditure on Education,81
-2019,Primary Government expenditure on Education,86
-2020,Primary Government expenditure on Education,93
-2021,Primary Government expenditure on Education,91
-2016,Primary Government expenditure on Energy and Mineral Development,18
-2017,Primary Government expenditure on Energy and Mineral Development,25
-2018,Primary Government expenditure on Energy and Mineral Development,33
-2019,Primary Government expenditure on Energy and Mineral Development,47
-2020,Primary Government expenditure on Energy and Mineral Development,32
-2021,Primary Government expenditure on Energy and Mineral Development,38
-2016,Primary Government expenditure on Health,81
-2017,Primary Government expenditure on Health,61
-2018,Primary Government expenditure on Health,57
-2019,Primary Government expenditure on Health,67
-2020,Primary Government expenditure on Health,76
-2021,Primary Government expenditure on Health,100
-2016,Primary Government expenditure on ICT,31
-2017,Primary Government expenditure on ICT,103
-2018,Primary Government expenditure on ICT,83
-2019,Primary Government expenditure on ICT,88
-2020,Primary Government expenditure on ICT,125
-2021,Primary Government expenditure on ICT,106
-2016,Primary Government expenditure on JLOS,106
-2017,Primary Government expenditure on JLOS,93
-2018,Primary Government expenditure on JLOS,92
-2019,Primary Government expenditure on JLOS,97
-2020,Primary Government expenditure on JLOS,107
-2021,Primary Government expenditure on JLOS,100
-2016,"Primary Government expenditure on Lands, Housing and Urban Development",152
-2017,"Primary Government expenditure on Lands, Housing and Urban Development",83
-2018,"Primary Government expenditure on Lands, Housing and Urban Development",115
-2019,"Primary Government expenditure on Lands, Housing and Urban Development",111
-2020,"Primary Government expenditure on Lands, Housing and Urban Development",41
-2021,"Primary Government expenditure on Lands, Housing and Urban Development",109
-2016,Primary Government expenditure on Legislature,112
-2017,Primary Government expenditure on Legislature,108
-2018,Primary Government expenditure on Legislature,115
-2019,Primary Government expenditure on Legislature,114
-2020,Primary Government expenditure on Legislature,92
-2021,Primary Government expenditure on Legislature,87
-2016,Primary Government expenditure on Public Administration,119
-2017,Primary Government expenditure on Public Administration,105
-2018,Primary Government expenditure on Public Administration,120
-2019,Primary Government expenditure on Public Administration,132
-2020,Primary Government expenditure on Public Administration,117
-2021,Primary Government expenditure on Public Administration,141
-2016,Primary Government expenditure on Public Sector Management,123
-2017,Primary Government expenditure on Public Sector Management,90
-2018,Primary Government expenditure on Public Sector Management,86
-2019,Primary Government expenditure on Public Sector Management,84
-2020,Primary Government expenditure on Public Sector Management,76
-2021,Primary Government expenditure on Public Sector Management,72
-2016,Primary Government expenditure on Security,101
-2017,Primary Government expenditure on Security,96
-2018,Primary Government expenditure on Security,120
-2019,Primary Government expenditure on Security,114
-2020,Primary Government expenditure on Security,120
-2021,Primary Government expenditure on Security,126
-2016,Primary Government expenditure on Social Development,78
-2017,Primary Government expenditure on Social Development,64
-2018,Primary Government expenditure on Social Development,90
-2019,Primary Government expenditure on Social Development,83
-2020,Primary Government expenditure on Social Development,64
-2021,Primary Government expenditure on Social Development,84
-2018,"Primary Government expenditure on Science, Technology and Innovation",93
-2019,"Primary Government expenditure on Science, Technology and Innovation",32
-2020,"Primary Government expenditure on Science, Technology and Innovation",103
-2021,"Primary Government expenditure on Science, Technology and Innovation",60
-2016,"Primary Government expenditure on Tourism, Trade and Industry",52
-2017,"Primary Government expenditure on Tourism, Trade and Industry",48
-2018,"Primary Government expenditure on Tourism, Trade and Industry",57
-2019,"Primary Government expenditure on Tourism, Trade and Industry",42
-2020,"Primary Government expenditure on Tourism, Trade and Industry",53
-2021,"Primary Government expenditure on Tourism, Trade and Industry",83
-2016,Primary Government expenditure on Water and Environment,104
-2017,Primary Government expenditure on Water and Environment,79
-2018,Primary Government expenditure on Water and Environment,106
-2019,Primary Government expenditure on Water and Environment,86
-2020,Primary Government expenditure on Water and Environment,76
-2021,Primary Government expenditure on Water and Environment,63
-2016,Primary Government expenditure on Water and Transport,64
-2017,Primary Government expenditure on Water and Transport,64
-2018,Primary Government expenditure on Water and Transport,74
-2019,Primary Government expenditure on Water and Transport,80
-2020,Primary Government expenditure on Water and Transport,61
-2021,Primary Government expenditure on Water and Transport,89
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Accountability-Primary government expenditures as a proportion of original approved budget,Percent,2021,77
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Accountability-Primary government expenditures as a proportion of original approved budget,Percent,2021,100
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Accountability-Primary government expenditures as a proportion of original approved budget,Percent,2021,102
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Accountability-Primary government expenditures as a proportion of original approved budget,Percent,2021,83
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Accountability-Primary government expenditures as a proportion of original approved budget,Percent,2021,95
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Accountability-Primary government expenditures as a proportion of original approved budget,Percent,2021,132
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Agriculture,Percent,2021,79
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Agriculture,Percent,2021,84
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Agriculture,Percent,2021,85
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Agriculture,Percent,2021,82
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Agriculture,Percent,2021,83
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Agriculture,Percent,2021,67
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Education,Percent,2021,83
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Education,Percent,2021,80
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Education,Percent,2021,81
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Education,Percent,2021,86
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Education,Percent,2021,93
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Education,Percent,2021,91
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Energy and Mineral Development,Percent,2021,18
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Energy and Mineral Development,Percent,2021,25
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Energy and Mineral Development,Percent,2021,33
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Energy and Mineral Development,Percent,2021,47
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Energy and Mineral Development,Percent,2021,32
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Energy and Mineral Development,Percent,2021,38
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Health,Percent,2021,81
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Health,Percent,2021,61
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Health,Percent,2021,57
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Health,Percent,2021,67
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Health,Percent,2021,76
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Health,Percent,2021,100
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on ICT,Percent,2021,31
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on ICT,Percent,2021,103
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on ICT,Percent,2021,83
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on ICT,Percent,2021,88
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on ICT,Percent,2021,125
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on ICT,Percent,2021,106
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on JLOS,Percent,2021,106
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on JLOS,Percent,2021,93
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on JLOS,Percent,2021,92
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on JLOS,Percent,2021,97
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on JLOS,Percent,2021,107
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on JLOS,Percent,2021,100
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Lands, Housing and Urban Development",Percent,2021,152
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Lands, Housing and Urban Development",Percent,2021,83
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Lands, Housing and Urban Development",Percent,2021,115
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Lands, Housing and Urban Development",Percent,2021,111
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Lands, Housing and Urban Development",Percent,2021,41
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Lands, Housing and Urban Development",Percent,2021,109
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Legislature,Percent,2021,112
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Legislature,Percent,2021,108
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Legislature,Percent,2021,115
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Legislature,Percent,2021,114
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Legislature,Percent,2021,92
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Legislature,Percent,2021,87
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Administration,Percent,2021,119
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Administration,Percent,2021,105
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Administration,Percent,2021,120
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Administration,Percent,2021,132
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Administration,Percent,2021,117
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Administration,Percent,2021,141
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Sector Management,Percent,2021,123
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Sector Management,Percent,2021,90
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Sector Management,Percent,2021,86
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Sector Management,Percent,2021,84
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Sector Management,Percent,2021,76
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Public Sector Management,Percent,2021,72
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Security,Percent,2021,101
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Security,Percent,2021,96
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Security,Percent,2021,120
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Security,Percent,2021,114
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Security,Percent,2021,120
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Security,Percent,2021,126
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Social Development,Percent,2021,78
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Social Development,Percent,2021,64
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Social Development,Percent,2021,90
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Social Development,Percent,2021,83
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Social Development,Percent,2021,64
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Social Development,Percent,2021,84
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Science, Technology and Innovation",Percent,2021,93
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Science, Technology and Innovation",Percent,2021,32
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Science, Technology and Innovation",Percent,2021,103
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Science, Technology and Innovation",Percent,2021,60
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Tourism, Trade and Industry",Percent,2021,52
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Tourism, Trade and Industry",Percent,2021,48
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Tourism, Trade and Industry",Percent,2021,57
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Tourism, Trade and Industry",Percent,2021,42
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Tourism, Trade and Industry",Percent,2021,53
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,"Primary Government expenditure on Tourism, Trade and Industry",Percent,2021,83
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Environment,Percent,2021,104
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Environment,Percent,2021,79
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Environment,Percent,2021,106
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Environment,Percent,2021,86
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Environment,Percent,2021,76
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Environment,Percent,2021,63
+2016,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Transport,Percent,2021,64
+2017,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Transport,Percent,2021,64
+2018,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Transport,Percent,2021,74
+2019,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Transport,Percent,2021,80
+2020,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Transport,Percent,2021,61
+2021,Normal value,Units,Administrative data from MOFPED,Primary government expenditures as a proportion of original approved budget [16.6.1],,Primary Government expenditure on Water and Transport,Percent,2021,89

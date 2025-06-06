@@ -1,10 +1,10 @@
-Year,COMPOSITE_BREAKDOWN,Value
-2015,With a bank account,28.8
-2016,With a bank account,31.8
-2017,With a bank account,44.0
-2018,With a bank account,53.8
-2019,With a bank account,63.9
-2020,With a bank account,76.1
-2018,With a mobile money account,69.6
-2019,With a mobile money account,79.9
-2020,With a mobile money account,86.7
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Age,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2015,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a bank account,Percent,28.8
+2016,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a bank account,Percent,31.8
+2017,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a bank account,Percent,44.0
+2018,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a bank account,Percent,53.8
+2019,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a bank account,Percent,63.9
+2020,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a bank account,Percent,76.1
+2018,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a mobile money account,Percent,69.6
+2019,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a mobile money account,Percent,79.9
+2020,Normal value,Units,Survey by BOU,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,With a mobile money account,Percent,86.7

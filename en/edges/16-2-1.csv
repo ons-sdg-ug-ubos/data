@@ -1,2 +1,4 @@
 From,To
-Age,Sex
+Source details,Age
+Time period details,Sex
+Age,Time period details

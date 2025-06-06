@@ -1,6 +1,6 @@
-Year,Value
-2017,0.5
-2018,0.6
-2019,0.5
-2020,0.4
-2021,0.4
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2017,Normal value,Units,Administrative data and secondary data from surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.5
+2018,Normal value,Units,Administrative data and secondary data from surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.6
+2019,Normal value,Units,Administrative data and secondary data from surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.5
+2020,Normal value,Units,Administrative data and secondary data from surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.4
+2021,Normal value,Units,Administrative data and secondary data from surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.4

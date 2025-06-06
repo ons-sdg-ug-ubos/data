@@ -1,13 +1,13 @@
-Year,Sex,Value
-2015,,3224
-2018,,3698
-2019,,3880
-2021,,4159
-2015,Female,690
-2018,Female,769
-2019,Female,918
-2021,Female,808
-2015,Male,2534
-2018,Male,2920
-2019,Male,2962
-2021,Male,3351
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2015,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,,Number,3224
+2018,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,,Number,3698
+2019,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,,Number,3880
+2021,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,,Number,4159
+2015,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,Female,Number,690
+2018,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,Female,Number,769
+2019,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,Female,Number,918
+2021,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,Female,Number,808
+2015,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,Male,Number,2534
+2018,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,Male,Number,2920
+2019,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,Male,Number,2962
+2021,Normal value,Units,Annual Crime Report,Number of deaths rate due to road traffic injuries [3.6.1],,Male,Number,3351

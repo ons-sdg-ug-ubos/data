@@ -1,1 +1,1 @@
-{"Year":[2015,2016,2017,2018,2019],"Value":[42,74,105,60,85]}
+{"Year":[2015,2016,2017,2018,2019],"OBS_STATUS":["A","A","A","A","A"],"UNIT_MULT":["0","0","0","0","0"],"SOURCE_DETAIL":["Reported Crime data","Reported Crime data","Reported Crime data","Reported Crime data","Reported Crime data"],"SERIES":["SH_STA_SCIDE","SH_STA_SCIDE","SH_STA_SCIDE","SH_STA_SCIDE","SH_STA_SCIDE"],"REF_AREA":[null,null,null,null,null],"UNIT_MEASURE":["PER_100000_POP","PER_100000_POP","PER_100000_POP","PER_100000_POP","PER_100000_POP"],"Value":[42,74,105,60,85]}

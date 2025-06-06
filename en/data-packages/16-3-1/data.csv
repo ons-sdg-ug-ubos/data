@@ -1,4 +1,4 @@
-Year,Sex,Value
-2017,,48
-2017,Female,52
-2017,Male,44
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,Value
+2017,Normal value,Units,Crime Victims Survey,"Police reporting rate for physical violence in the previous 12 months, by sex (%) [16.3.1]",,,Percent,2017,48
+2017,Normal value,Units,Crime Victims Survey,"Police reporting rate for physical violence in the previous 12 months, by sex (%) [16.3.1]",,Female,Percent,2017,52
+2017,Normal value,Units,Crime Victims Survey,"Police reporting rate for physical violence in the previous 12 months, by sex (%) [16.3.1]",,Male,Percent,2017,44

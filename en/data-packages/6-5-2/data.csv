@@ -1,2 +1,2 @@
-Year,Value
-2017,84
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2017,Normal value,Units,Administrative data from MOWE,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,84

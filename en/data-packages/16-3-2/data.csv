@@ -1,8 +1,8 @@
-Year,Value
-2015,54.9
-2016,55.1
-2017,51.8
-2018,51.8
-2019,48.1
-2020,54.5
-2021,51.6
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,UPS Statistical Abstracts,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2021,54.9
+2016,Normal value,Units,UPS Statistical Abstracts,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2021,55.1
+2017,Normal value,Units,UPS Statistical Abstracts,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2021,51.8
+2018,Normal value,Units,UPS Statistical Abstracts,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2021,51.8
+2019,Normal value,Units,UPS Statistical Abstracts,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2021,48.1
+2020,Normal value,Units,UPS Statistical Abstracts,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2021,54.5
+2021,Normal value,Units,UPS Statistical Abstracts,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,2021,51.6

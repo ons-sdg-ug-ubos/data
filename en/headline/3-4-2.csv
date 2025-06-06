@@ -1,6 +1,1 @@
-Year,Value
-2015,42
-2016,74
-2017,105
-2018,60
-2019,85
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

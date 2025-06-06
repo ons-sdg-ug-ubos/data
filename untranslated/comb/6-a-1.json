@@ -1,1 +1,1 @@
-{"data":{"Year":[2018],"Value":[155.17]},"edges":[]}
+{"data":{"Year":[2018],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["UN Water Data Portal"],"SERIES":["DC_TOF_WASHL"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[155.17]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

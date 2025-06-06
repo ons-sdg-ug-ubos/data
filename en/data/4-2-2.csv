@@ -1,2 +1,2 @@
-Year,Value
-2015,63
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Education survey,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Percent,63

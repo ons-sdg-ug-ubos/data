@@ -1,1 +1,1 @@
-{"Year":[2016,2016,2016],"SOURCE_DETAIL":["UDHS","UFHS","UDHS"],"SEX":[null,"F","M"],"Value":[63.3,64.6,62.0]}
+{"Year":[2016,2016,2016],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"SOURCE_DETAIL":["UDHS","UFHS","UDHS"],"SERIES":["SE_DEV_ONTRK","SE_DEV_ONTRK","SE_DEV_ONTRK"],"REF_AREA":[null,null,null],"SEX":[null,"F","M"],"UNIT_MEASURE":["PT","PT","PT"],"Value":[63.3,64.6,62.0]}

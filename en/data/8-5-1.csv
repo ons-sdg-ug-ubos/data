@@ -1,13 +1,13 @@
-Year,Sex,Occupation,Value
-2020,,Managers,6562
-2020,,Professionals,5319
-2020,,Technicians and associate professionals,4704
-2020,,Clerical support workers,2859
-2020,Female,Managers,6983
-2020,Female,Professionals,3822
-2020,Female,Technicians and associate professionals,3542
-2020,Female,Clerical support workers,2500
-2020,Male,Managers,6460
-2020,Male,Professionals,6082
-2020,Male,Technicians and associate professionals,5406
-2020,Male,Clerical support workers,3197
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Occupation,UNIT_MEASURE,Value
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,,Managers,Percent,6562
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,,Professionals,Percent,5319
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,,Technicians and associate professionals,Percent,4704
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,,Clerical support workers,Percent,2859
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,Female,Managers,Percent,6983
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,Female,Professionals,Percent,3822
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,Female,Technicians and associate professionals,Percent,3542
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,Female,Clerical support workers,Percent,2500
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,Male,Managers,Percent,6460
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,Male,Professionals,Percent,6082
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,Male,Technicians and associate professionals,Percent,5406
+2020,Normal value,Units,UNHS,Average hourly earnings [8.5.1],,Male,Clerical support workers,Percent,3197

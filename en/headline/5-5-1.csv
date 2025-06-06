@@ -1,5 +1,1 @@
-Year,Value,SERIES
-2017,45.7,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1]
-2021,46.0,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1]
-2017,34.9,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]
-2021,33.8,Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

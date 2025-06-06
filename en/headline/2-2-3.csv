@@ -1,4 +1,1 @@
-Year,Value,SERIES
-2016,31.7,Proportion of women aged 15-49 years with anaemia [2.2.3]
-2016,29.9,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]"
-2016,39.2,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]"
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

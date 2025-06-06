@@ -1,4 +1,4 @@
-Year,Sex,Degree of urbanisation,Time period details,Source details,Value
-2016,,,2016,,32.2
-2017,,Urban,2017,NGPSS,40.0
-2016,Male,,2016,,32.2
+Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,Source details,Value
+2016,Normal value,Units,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,2016,,32.2
+2017,Normal value,Units,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Urban,Percent,2017,NGPSS,40.0
+2016,Normal value,Units,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,,Percent,2016,,32.2

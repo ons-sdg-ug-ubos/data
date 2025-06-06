@@ -1,8 +1,8 @@
-Year,Value
-2015,10
-2016,10
-2017,12
-2018,12
-2019,13
-2020,13
-2021,13
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,NFA Land use land cover biomass study,AG_LND_FRST,,PT,10
+2016,A,0,NFA Land use land cover biomass study,AG_LND_FRST,,PT,10
+2017,A,0,NFA Land use land cover biomass study,AG_LND_FRST,,PT,12
+2018,A,0,NFA Land use land cover biomass study,AG_LND_FRST,,PT,12
+2019,A,0,NFA Land use land cover biomass study,AG_LND_FRST,,PT,13
+2020,A,0,NFA Land use land cover biomass study,AG_LND_FRST,,PT,13
+2021,A,0,NFA Land use land cover biomass study,AG_LND_FRST,,PT,13

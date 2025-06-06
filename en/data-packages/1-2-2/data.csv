@@ -1,7 +1,7 @@
-Year,Degree of urbanisation,Value
-2017,,44.3
-2020,,42.1
-2017,Rural,54.0
-2020,Rural,50.2
-2017,Urban,14.1
-2020,Urban,19.7
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2017,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,,Percent,44.3
+2020,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,,Percent,42.1
+2017,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,Rural,Percent,54.0
+2020,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,Rural,Percent,50.2
+2017,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,Urban,Percent,14.1
+2020,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,Urban,Percent,19.7

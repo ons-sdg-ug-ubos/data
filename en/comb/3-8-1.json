@@ -1,1 +1,1 @@
-{"data":{"Year":[2018,2020],"Value":[44.0,48.2]},"edges":[]}
+{"data":{"Year":[2018,2020],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["HMIS","HMIS"],"SERIES":["Universal health coverage (UHC) service coverage index [3.8.1]","Universal health coverage (UHC) service coverage index [3.8.1]"],"Reference area":[null,null],"UNIT_MEASURE":["Percent","Percent"],"Value":[44.0,48.2]},"edges":[]}

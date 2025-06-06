@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2016,2017,2018,2019],"Value":[8,7,8,9,7]},"edges":[]}
+{"data":{"Year":[2015,2016,2017,2018,2019],"OBS_STATUS":["A","A","A","A","A"],"UNIT_MULT":["0","0","0","0","0"],"SOURCE_DETAIL":["HMIS","HMIS","HMIS","HMIS","HMIS"],"SERIES":["SH_STA_POISN","SH_STA_POISN","SH_STA_POISN","SH_STA_POISN","SH_STA_POISN"],"REF_AREA":[null,null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT","PT"],"Value":[8,7,8,9,7]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

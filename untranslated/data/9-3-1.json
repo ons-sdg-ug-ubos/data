@@ -1,1 +1,1 @@
-{"Year":[2018,2019,2020,2021],"Value":[20,60,176,380]}
+{"Year":[2018,2019,2020,2021],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"SOURCE_DETAIL":["Administrative data from MTIC","Administrative data from MTIC","Administrative data from MTIC","Administrative data from MTIC"],"SERIES":["NV_IND_SSIS","NV_IND_SSIS","NV_IND_SSIS","NV_IND_SSIS"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT"],"Value":[20,60,176,380]}

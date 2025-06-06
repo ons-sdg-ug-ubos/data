@@ -1,3 +1,1 @@
-Year,Value,SERIES
-2016,43,Infant mortality rate [3.2.1]
-2016,64,Under-five mortality rate [3.2.1]
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

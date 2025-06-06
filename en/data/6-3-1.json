@@ -1,1 +1,1 @@
-{"Year":[2019,2020],"Value":[28,30]}
+{"Year":[2019,2020],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["Administrative data from NWSC","Administrative data from NWSC"],"SERIES":["Total wastewater generated (million m3/year) [6.3.1]","Total wastewater generated (million m3/year) [6.3.1]"],"Reference area":[null,null],"UNIT_MEASURE":["Percent","Percent"],"Value":[28,30]}

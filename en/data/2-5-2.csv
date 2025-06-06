@@ -1,7 +1,7 @@
-Year,Value
-2015,0
-2016,0
-2017,0
-2018,0
-2019,0
-2020,0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,NAGRIC,Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%) [2.5.2],,Percent,0
+2016,Normal value,Units,NAGRIC,Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%) [2.5.2],,Percent,0
+2017,Normal value,Units,NAGRIC,Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%) [2.5.2],,Percent,0
+2018,Normal value,Units,NAGRIC,Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%) [2.5.2],,Percent,0
+2019,Normal value,Units,NAGRIC,Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%) [2.5.2],,Percent,0
+2020,Normal value,Units,NAGRIC,Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%) [2.5.2],,Percent,0
