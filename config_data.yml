@@ -56,11 +56,11 @@ inputs:
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
-  - class: InputWordMeta
-    path_pattern: meta/*-*.docm
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.yml
