@@ -1,21 +1,25 @@
-SDG_GOAL: 'Goal 1: End poverty in all its forms everywhere'
+SDG_GOAL: <p>End poverty in all its forms everywhere</p>
 SDG_TARGET: >-
-  Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
-  currently measured as people living on less than $1.25 a day
+  <p>By 2030, eradicate extreme poverty for all people everywhere, currently
+  measured as people living on</p><p>less than US$1.9 a day</p>
 SDG_INDICATOR: >-
-  Indicator 1.1.1: Proportion of the population living below the international
-  poverty line by sex, age, employment status and geographic location
-  (urban/rural)
-SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: ''
-SDG_RELATED_INDICATORS: ''
-SDG_CUSTODIAN_AGENCIES: ''
+  <p>1.1.1: Proportion Of Population Below The International Poverty
+  Line,</p><p>By Sex, Age, Employment Status And Geographical Location
+  (Urban/Rural) </p>
+SDG_SERIES_DESCR: >-
+  <p>1.1.1 Proportion of population below international poverty line [1.1.1]
+  (SI_POV_DAY1)</p>
+META_LAST_UPDATE: <p>November 2021</p>
+SDG_RELATED_INDICATORS: <p>1.3.1, 8.2.1, 8.3.1, 8.5.1, 10.4.1</p>
+SDG_CUSTODIAN_AGENCIES: <p>World Bank</p>
 CONTACT: <p>Uganda Bureau of Statistics (UBOS)</p>
-CONTACT_ORGANISATION: ''
-CONTACT_NAME: ''
-CONTACT_FUNCT: ''
-CONTACT_PHONE: ''
-CONTACT_EMAIL: ''
+CONTACT_ORGANISATION: <p>Uganda Bureau of Statistics (UBOS)</p>
+CONTACT_NAME: <p>Dr. Ssennono Vincent</p>
+CONTACT_FUNCT: <p>Deputy Executive Director, Uganda Bureau of Statistics</p>
+CONTACT_PHONE: <p>+256 773 312792</p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:Vincent.ssennono@ubos.org">Vincent.ssennono@ubos.org</a></p>
 IND_DEF_CON_CLASS: >-
   <p>The proportion of the employed population below the international poverty
   line of US$1.90 per day. Uganda’s poverty</p><p>line was derived based on the
@@ -24,44 +28,22 @@ IND_DEF_CON_CLASS: >-
   in households living below the international poverty line</p><p>of
   US$1.90.</p>
 STAT_CONC_DEF: >-
-  ## Definition:
-
-  The proportion of the employed population below the international poverty line
-  of US$1.90 per day, also referred to as the working poverty rate, is defined
-  as the share of employed persons living in households with per-capita
-  consumption or income that is below the international poverty line of US$1.90.
-
-  ## Concepts:
-
-  **Employment:** All persons of working age who, during a short reference
-  period (one week), were engaged in any activity to produce goods or provide
-  services for pay or profit.
-
-
-  **Poverty Line:** Threshold below which individuals in the reference
-  population are considered poor and above which they are considered non-poor.
-  The threshold is generally defined as the per-capita monetary requirements an
-  individual needs to afford the purchase of a basic bundle of goods and
-  services. For the purpose of this indicator, an absolute international poverty
-  line of US$1.90 per day is used.
-
-
-  **Household in poverty:** Households are defined as poor if their income or
-  consumption expenditure is below the poverty line taking into account the
-  number of household members and composition (e.g., number of adults and
-  children).
-
-
-  **Working poor:** Employed persons living in households that are classified as
-  poor, that is, that have income or consumption levels below the poverty line
-  used for measurement.
-UNIT_MEASURE: ''
-SOURCE_TYPE: ''
-FREQ_COLL: ''
-REL_CAL_POLICY: ''
-DATA_SOURCE: ''
-COMPILING_ORG: ''
-national_metadata_updated_date: '2023-12-07'
+  <p>A poverty line is a threshold below which individuals in the reference
+  population are considered poor and above</p><p>which they are considered
+  non-poor. The threshold is generally defined as the per-capita monetary
+  requirements an individual needs to afford the purchase of a basic bundle of
+  goods and services. For the purpose of this indicator, an</p><p>absolute
+  international poverty line of US$1.90 per day was used. Households in poverty:
+  Households are defined as poor if their income or consumption expenditure is
+  below the international poverty line taking into account the number of
+  household members and composition (e.g. number of adults and children).</p>
+UNIT_MEASURE: <p>Percent</p>
+SOURCE_TYPE: <p>Uganda National Household Survey (UNHS)</p>
+FREQ_COLL: <p>Every 3 years</p>
+REL_CAL_POLICY: <p>2023/24</p>
+DATA_SOURCE: <p>Uganda Bureau of Statistics</p>
+COMPILING_ORG: <p>Uganda Bureau of Statistics and Economic Policy Research Center</p>
+national_metadata_updated_date: '2025-05-22'
 national_data_updated_date: '2023-12-07'
 composite_breakdown_label: ''
 computation_units: ''
