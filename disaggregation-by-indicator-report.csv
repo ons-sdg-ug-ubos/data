@@ -9,3 +9,4 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-2,"OBS_STATUS, UNIT_MULT",2
 #2-2-1,"OBS_STATUS, UNIT_MULT, SEX",3
 #2-2-2,"OBS_STATUS, UNIT_MULT, SEX",3
+#2-2-3,"OBS_STATUS, UNIT_MULT, SEX, AGE",4

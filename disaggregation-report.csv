@@ -1,5 +1,6 @@
 Disaggregation,Number of indicators,Number of values
-OBS_STATUS,10,1
-SEX,4,2
-UNIT_MULT,10,1
+AGE,1,1
+OBS_STATUS,11,1
+SEX,5,2
+UNIT_MULT,11,1
 URBANISATION,4,2
