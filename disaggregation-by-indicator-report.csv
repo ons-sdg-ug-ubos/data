@@ -50,3 +50,4 @@ Indicator,Disaggregations,Number of disaggregations
 #5-5-1,"OBS_STATUS, UNIT_MULT",2
 #5-5-2,"OBS_STATUS, UNIT_MULT",2
 #5-6-1,"OBS_STATUS, UNIT_MULT",2
+#5-a-1,"OBS_STATUS, UNIT_MULT, COMPOSITE_BREAKDOWN, SEX",4
