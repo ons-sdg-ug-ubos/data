@@ -61,3 +61,4 @@ Indicator,Disaggregations,Number of disaggregations
 #6-a-1,"OBS_STATUS, UNIT_MULT",2
 #6-b-1,"OBS_STATUS, UNIT_MULT",2
 #7-1-1,"OBS_STATUS, UNIT_MULT, COMPOSITE_BREAKDOWN",3
+#7-1-2,"OBS_STATUS, UNIT_MULT, SEX",3
