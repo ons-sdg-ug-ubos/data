@@ -1,6 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
 _L_UG_ATM,1,1
+_L_UG_BANK_ACCOUNT,1,1
 _L_UG_COMMERCIAL_BANK,1,1
+_L_UG_MOBILE_MONEY_ACCOUNT,1,1
 _L_UG_NOM,1,1
 _L_UG_OFF,1,1
 _L_UG_TOT_C,1,1
