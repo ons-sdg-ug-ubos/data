@@ -12604,6 +12604,28 @@
       "title": "Volume of official development assistance flows for scholarships"
     },
     {
+      "path": "11-5-3/data.csv",
+      "name": "11-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
+    },
+    {
       "path": "14-5-1/data.csv",
       "name": "14-5-1",
       "profile": "tabular-data-resource",
@@ -13746,28 +13768,6 @@
         ]
       },
       "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
-    },
-    {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
     }
   ]
 }
