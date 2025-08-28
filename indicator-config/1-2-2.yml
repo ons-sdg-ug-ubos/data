@@ -1,7 +1,7 @@
 auto_progress_calculation: false
 composite_breakdown_label: ''
 computation_units: ''
-copyright: ''
+copyright: Uganda Bureau of Statistics
 data_footnote: ''
 data_non_statistical: false
 data_notice_class: ''
@@ -23,7 +23,7 @@ graph_stacked_disaggregation: ''
 graph_target_lines: []
 graph_title: global_indicators.1-2-2-title
 graph_titles: []
-graph_type: line
+graph_type: bar
 graph_types: []
 indicator_available: ''
 indicator_name: global_indicators.1-2-2-title
