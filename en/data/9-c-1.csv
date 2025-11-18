@@ -1,10 +1,16 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2019,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,90
-2020,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,98
-2021,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,98
-2019,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,83
-2020,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,86
-2021,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,89
-2019,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,25
-2020,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,31
+2019,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,56
+2020,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,62
+2021,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,73
+2022,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,74
+2023,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,76
+2019,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,48
+2020,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,54
+2021,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,70
+2022,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,71
+2023,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,72
+2019,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,34
+2020,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,39
 2021,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,47
+2022,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,52
+2023,Normal value,Units,Administrative data from UCC,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,55

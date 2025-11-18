@@ -1,8 +1,11 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2021,3.6
-2016,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2021,4.1
-2017,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2021,3.9
-2018,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2021,3.9
-2019,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2021,4.1
-2020,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2021,3.4
-2021,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2021,2.8
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,3.6
+2016,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,4.1
+2017,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,3.9
+2018,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,3.9
+2019,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,4.1
+2020,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,3.4
+2021,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2.8
+2022,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2.6
+2023,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2.8
+2024,Normal value,Units,Annual Personal Transfers Survey conducted by BOU,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,Percent,2.5

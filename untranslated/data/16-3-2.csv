@@ -1,8 +1,11 @@
-Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,Value
-2015,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,2021,54.9
-2016,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,2021,55.1
-2017,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,2021,51.8
-2018,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,2021,51.8
-2019,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,2021,48.1
-2020,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,2021,54.5
-2021,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,2021,51.6
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,54.9
+2016,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,55.1
+2017,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,51.8
+2018,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,51.8
+2019,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,48.1
+2020,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,54.5
+2021,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,51.6
+2022,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,47.5
+2023,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,47.4
+2024,A,0,UPS Statistical Abstracts,VC_PRS_UNSNT,,PT,47.2

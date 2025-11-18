@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Administrative Data,Ratio of land consumption rate to population growth rate [11.3.1],,Hectares,135593
+2017,Normal value,Units,Administrative Data,Ratio of land consumption rate to population growth rate [11.3.1],,Hectares,138722
+2019,Normal value,Units,Administrative Data,Ratio of land consumption rate to population growth rate [11.3.1],,Hectares,259502
+2021,Normal value,Units,Administrative Data,Ratio of land consumption rate to population growth rate [11.3.1],,Hectares,279876

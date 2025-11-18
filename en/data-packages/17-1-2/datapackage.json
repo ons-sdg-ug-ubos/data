@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IFMS and DMFAS",
+                "Administrative data (GFS data by MoFPED",
                 ""
               ]
             },
@@ -81,19 +81,8 @@
             "title": "Unit of measure"
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

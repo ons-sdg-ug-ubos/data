@@ -1,1 +1,9 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2017,Normal value,Units,Administrative Data,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],,Percent,9.6
+2019,Normal value,Units,Administrative Data,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],,Percent,8.14
+2021,Normal value,Units,Administrative Data,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],,Percent,8.3
+2023,Normal value,Units,Administrative Data,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],,Percent,8.7
+2017,Normal value,Units,Administrative Data,Forest area within legally established protected areas [15.2.1],,Percent,104.0
+2019,Normal value,Units,Administrative Data,Forest area within legally established protected areas [15.2.1],,Percent,141.0
+2021,Normal value,Units,Administrative Data,Forest area within legally established protected areas [15.2.1],,Percent,127.0
+2023,Normal value,Units,Administrative Data,Forest area within legally established protected areas [15.2.1],,Percent,132.0

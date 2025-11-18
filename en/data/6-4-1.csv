@@ -1,1 +1,10 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,42.291
+2016,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,31.287
+2017,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,35.395
+2018,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,28.493
+2019,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,31.674
+2020,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,29.133
+2021,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,18.851
+2022,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,24.29
+2023,Normal value,Units,Administrative Data,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,10.397

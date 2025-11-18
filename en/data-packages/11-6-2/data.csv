@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2024,Normal value,Units,Administrative Data,"Annual mean levels of fine particulate matter (population-weighted), by location [11.6.2]",,Micrograms per cubic meter,42.26

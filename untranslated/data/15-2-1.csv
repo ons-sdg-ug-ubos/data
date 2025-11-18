@@ -1,1 +1,9 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2017,A,0,Administrative Data,AG_LND_FRSTCERT,,PT,9.6
+2019,A,0,Administrative Data,AG_LND_FRSTCERT,,PT,8.14
+2021,A,0,Administrative Data,AG_LND_FRSTCERT,,PT,8.3
+2023,A,0,Administrative Data,AG_LND_FRSTCERT,,PT,8.7
+2017,A,0,Administrative Data,AG_LND_FRSTPRCTN,,PT,104.0
+2019,A,0,Administrative Data,AG_LND_FRSTPRCTN,,PT,141.0
+2021,A,0,Administrative Data,AG_LND_FRSTPRCTN,,PT,127.0
+2023,A,0,Administrative Data,AG_LND_FRSTPRCTN,,PT,132.0
