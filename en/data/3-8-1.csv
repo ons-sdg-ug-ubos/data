@@ -1,3 +1,4 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2018,Normal value,Units,HMIS,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,44.0
-2020,Normal value,Units,HMIS,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,48.2
+2018,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,44.0
+2020,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,48.2
+2022,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,50.0

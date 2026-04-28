@@ -54,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportions of positions in the judiciary compared to national distributions, Higher Courts [16.7.1]",
+                "\"Proportions of positions in the judiciary compared to national distributions",
                 ""
               ]
             },
@@ -98,17 +98,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Positions In Judiciary, Disabled",
-                "Positions In Judiciary, Females",
-                "Positions In Judiciary, Hight Court",
-                "Positions In Judiciary, Court of Appeal",
-                "Positions In Judiciary, Justices of Supreme Court",
-                "Positions In Judiciary, Magistrate Grade I",
-                "Positions In Judiciary, Magistrate Grade II",
-                "Positions In Judiciary, Males",
-                "Positions In Judiciary, Officers Judiciary",
-                "Positions In Judiciary, Registrars",
-                "Positions In Judiciary, Magistrate",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
                 ""
               ]
             },

@@ -1,1 +1,1 @@
-{"Year":[2016],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["UDHS"],"SERIES":["SH_FPL_INFM"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[58.5]}
+{"Year":[2016,2016],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["UDHS","Uganda Demographic and Health Survey"],"SERIES":["SH_FPL_INFM","SH_FPL_INFM"],"REF_AREA":[null,null],"AGE":[null,"Y15T19"],"UNIT_MEASURE":["PT","PT"],"Value":[58.5,58.5]}

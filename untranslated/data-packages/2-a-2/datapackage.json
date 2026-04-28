@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GFS",
+                "Government Finance Statistics (Administrative data)",
                 ""
               ]
             }
@@ -68,14 +68,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "USD",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GFS",
+                "Government Finance Statistics (Administrative data)",
                 ""
               ]
             }
@@ -70,6 +70,7 @@
             "constraints": {
               "enum": [
                 "PT",
+                "RO",
                 ""
               ]
             }

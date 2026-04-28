@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2017,Normal value,Units,UNITED NATIONS ENVIRONMENT PROGRAMME (UNEP),Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO) [12.1.1],,Number,1
+2015,Normal value,Units,,"""Number of policies",,Percent,100
+2020,Normal value,Units,,"""Number of policies",,Percent,100

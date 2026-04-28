@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual Country HIV Estimates by UAC",
+                "Annual Country HIV estimates from Uganda AIDS Commission",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of new HIV infections per 1,000 uninfected population [3.3.1]",
+                "\"Number of new HIV infections per 1",
                 ""
               ]
             },

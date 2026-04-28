@@ -1,1 +1,15 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,United Nations Environment Programme,SG_HAZ_CMRBASEL,,PT,39.22
+2020,A,0,United Nations Environment Programme,SG_HAZ_CMRBASEL,,PT,34.48
+2025,A,0,United Nations Environment Programme,SG_HAZ_CMRBASEL,,PT,32.8
+2015,A,0,United Nations Environment Programme,SG_HAZ_CMRMNMT,,PT,50.0
+2020,A,0,United Nations Environment Programme,SG_HAZ_CMRMNMT,,PT,75.0
+2025,A,0,United Nations Environment Programme,SG_HAZ_CMRMNMT,,PT,40.0
+2015,A,0,United Nations Environment Programme,SG_HAZ_CMRMNTRL,,PT,16.67
+2020,A,0,United Nations Environment Programme,SG_HAZ_CMRMNTRL,,PT,20.0
+2025,A,0,United Nations Environment Programme,SG_HAZ_CMRMNTRL,,PT,60.0
+2020,A,0,United Nations Environment Programme,SG_HAZ_CMRROTDAM,,PT,66.67
+2025,A,0,United Nations Environment Programme,SG_HAZ_CMRROTDAM,,PT,66.7
+2015,A,0,United Nations Environment Programme,SG_HAZ_CMRSTHOLM,,PT,100.0
+2020,A,0,United Nations Environment Programme,SG_HAZ_CMRSTHOLM,,PT,100.0
+2025,A,0,United Nations Environment Programme,SG_HAZ_CMRSTHOLM,,PT,100.0

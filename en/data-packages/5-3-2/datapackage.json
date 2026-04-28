@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Uganda Demographic Health Survey",
                 "UDHS",
                 ""
               ]
@@ -53,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",
+                "\"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation",
                 ""
               ]
             },
@@ -86,6 +87,7 @@
             "constraints": {
               "enum": [
                 "15 to 49 years old",
+                "15 to 50 years old",
                 ""
               ]
             },

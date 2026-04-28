@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SURVEY BY BANK OF UGANDA",
                 "Survey by BOU",
                 ""
               ]
@@ -49,6 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "FB_ATM_TOTL",
                 "FB_CBK_BRCH",
                 ""
               ]

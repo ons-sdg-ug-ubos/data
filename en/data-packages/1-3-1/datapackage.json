@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MGLSD",
+                "Ministry of Gender, Labour and Social Development",
                 ""
               ]
             },
@@ -90,6 +90,7 @@
             "constraints": {
               "enum": [
                 "Percent",
+                "Number",
                 ""
               ]
             },

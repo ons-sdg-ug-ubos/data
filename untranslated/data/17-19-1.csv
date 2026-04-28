@@ -1,1 +1,9 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,The Organisation for Economic Co-operation and Development (OECD),SG_STT_CAPTY,,USD,3913911
+2016,A,0,The Organisation for Economic Co-operation and Development (OECD),SG_STT_CAPTY,,USD,5142365
+2017,A,0,The Organisation for Economic Co-operation and Development (OECD),SG_STT_CAPTY,,USD,8273564
+2018,A,0,The Organisation for Economic Co-operation and Development (OECD),SG_STT_CAPTY,,USD,5737299
+2019,A,0,The Organisation for Economic Co-operation and Development (OECD),SG_STT_CAPTY,,USD,3744904
+2020,A,0,The Organisation for Economic Co-operation and Development (OECD),SG_STT_CAPTY,,USD,1682353
+2021,A,0,The Organisation for Economic Co-operation and Development (OECD),SG_STT_CAPTY,,USD,3437911
+2022,A,0,The Organisation for Economic Co-operation and Development (OECD),SG_STT_CAPTY,,USD,6578958

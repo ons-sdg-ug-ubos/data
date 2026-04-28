@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2023,Normal value,Units,UNESCO Report on Public Access to Information; Global Right to Information Rating (Access Info & Center for Law and Democracy),"""Countries that adopt and implement constitutional",,Boolean or binary measure,1

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy Balance",
+                "MINISTRY OF ENERGY AND MINERAL DEVELOPMENT",
                 ""
               ]
             },

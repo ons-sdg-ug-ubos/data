@@ -74,16 +74,6 @@
             }
           },
           {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

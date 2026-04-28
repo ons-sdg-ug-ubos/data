@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from Internet Service Providers",
+                "UCC",
                 ""
               ]
             }
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100_POP",
+                "PT",
                 ""
               ]
             }

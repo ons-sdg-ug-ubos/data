@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Uganda Demograhic Health Survey",
                 "UDHS",
                 ""
               ]

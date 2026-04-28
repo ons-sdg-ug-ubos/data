@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UDHS",
+                "Uganda Demographic and Health Survey",
                 ""
               ]
             }
@@ -70,6 +70,7 @@
               "enum": [
                 "Y10T14",
                 "Y15T19",
+                "Y15T20",
                 ""
               ]
             }
@@ -79,14 +80,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "PER_1000_POP",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

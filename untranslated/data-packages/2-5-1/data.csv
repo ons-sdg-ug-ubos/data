@@ -5,9 +5,19 @@ Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
 2018,A,0,NAGRIC Administrative data,ER_GRF_ANIMRCNT,,PT,6
 2019,A,0,NAGRIC Administrative data,ER_GRF_ANIMRCNT,,PT,6
 2020,A,0,NAGRIC Administrative data,ER_GRF_ANIMRCNT,,PT,7
-2015,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,PT,515
-2016,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,PT,255
-2017,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,PT,362
-2018,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,PT,520
-2019,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,PT,11
-2020,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,PT,296
+2015,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,6
+2016,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,6
+2017,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,6
+2018,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,6
+2019,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,6
+2020,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,7
+2021,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,7
+2022,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,7
+2023,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,7
+2024,A,0,Administrative data from National Animal Genetic Resources Centre and Data Bank,ER_GRF_ANIMRCNTN,,NUMBER,8
+2015,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,NUMBER,515
+2016,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,NUMBER,255
+2017,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,NUMBER,362
+2018,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,NUMBER,520
+2019,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,NUMBER,11
+2020,A,0,NAGRIC Administrative data,ER_GRF_PLNTSTOR,,NUMBER,296

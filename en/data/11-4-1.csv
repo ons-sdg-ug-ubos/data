@@ -1,22 +1,22 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Normal value,Units,"Total expenditure per capita spent on cultural heritage, public and private [11.4.1]",,Constant PPP USD,42.7
-2016,Normal value,Units,"Total expenditure per capita spent on cultural heritage, public and private [11.4.1]",,Constant PPP USD,57.9
-2017,Normal value,Units,"Total expenditure per capita spent on cultural heritage, public and private [11.4.1]",,Constant PPP USD,67.7
-2018,Normal value,Units,"Total expenditure per capita spent on cultural heritage, public and private [11.4.1]",,Constant PPP USD,104.7
-2019,Normal value,Units,"Total expenditure per capita spent on cultural heritage, public and private [11.4.1]",,Constant PPP USD,78.2
-2020,Normal value,Units,"Total expenditure per capita spent on cultural heritage, public and private [11.4.1]",,Constant PPP USD,129.7
-2021,Normal value,Units,"Total expenditure per capita spent on cultural heritage, public and private [11.4.1]",,Constant PPP USD,119.5
-2015,Normal value,Units,"Total expenditure per capita spent on cultural and natural heritage, public and private [11.4.1]",,Constant PPP USD,2.0
-2016,Normal value,Units,"Total expenditure per capita spent on cultural and natural heritage, public and private [11.4.1]",,Constant PPP USD,2.7
-2017,Normal value,Units,"Total expenditure per capita spent on cultural and natural heritage, public and private [11.4.1]",,Constant PPP USD,3.2
-2018,Normal value,Units,"Total expenditure per capita spent on cultural and natural heritage, public and private [11.4.1]",,Constant PPP USD,3.9
-2019,Normal value,Units,"Total expenditure per capita spent on cultural and natural heritage, public and private [11.4.1]",,Constant PPP USD,5.2
-2020,Normal value,Units,"Total expenditure per capita spent on cultural and natural heritage, public and private [11.4.1]",,Constant PPP USD,9.9
-2021,Normal value,Units,"Total expenditure per capita spent on cultural and natural heritage, public and private [11.4.1]",,Constant PPP USD,13.2
-2015,Normal value,Units,"Total expenditure per capita spent on natural heritage, public and private [11.4.1]",,Constant PPP USD,47.1
-2016,Normal value,Units,"Total expenditure per capita spent on natural heritage, public and private [11.4.1]",,Constant PPP USD,63.9
-2017,Normal value,Units,"Total expenditure per capita spent on natural heritage, public and private [11.4.1]",,Constant PPP USD,74.9
-2018,Normal value,Units,"Total expenditure per capita spent on natural heritage, public and private [11.4.1]",,Constant PPP USD,111.6
-2019,Normal value,Units,"Total expenditure per capita spent on natural heritage, public and private [11.4.1]",,Constant PPP USD,86.2
-2020,Normal value,Units,"Total expenditure per capita spent on natural heritage, public and private [11.4.1]",,Constant PPP USD,143.7
-2021,Normal value,Units,"Total expenditure per capita spent on natural heritage, public and private [11.4.1]",,Constant PPP USD,138.1
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural heritage",,Number,1276.0
+2016,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural heritage",,Number,1673.0
+2017,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural heritage",,Number,1920.0
+2018,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural heritage",,Number,2723.0
+2019,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural heritage",,Number,2018.0
+2020,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural heritage",,Number,3265.0
+2021,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural heritage",,Number,3069.0
+2015,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural and natural heritage",,Number,2.0
+2016,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural and natural heritage",,Number,2.7
+2017,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural and natural heritage",,Number,3.2
+2018,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural and natural heritage",,Number,3.9
+2019,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural and natural heritage",,Number,5.2
+2020,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural and natural heritage",,Number,9.9
+2021,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on cultural and natural heritage",,Number,13.2
+2015,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Number,47.1
+2016,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Number,63.9
+2017,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Number,74.9
+2018,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Number,111.6
+2019,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Number,86.2
+2020,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Number,143.7
+2021,Normal value,Units,Uganda  Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Number,138.1

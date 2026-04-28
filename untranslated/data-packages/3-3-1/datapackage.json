@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual Country HIV Estimates by UAC",
+                "Annual Country HIV estimates from Uganda AIDS Commission",
                 ""
               ]
             }

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TB Survey",
+                "TB survey from the Ministry of Health",
                 ""
               ]
             }

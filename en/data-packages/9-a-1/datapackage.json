@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from MOFPED",
+                "Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official flows for infrastructure, by recipient countries [9.a.1]",
+                "\"Total official flows for infrastructure",
                 ""
               ]
             },
@@ -74,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constant USD",
+                "USD",
                 ""
               ]
             },
@@ -82,7 +82,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

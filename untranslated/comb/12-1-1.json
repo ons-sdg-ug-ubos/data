@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2017,2015,2020],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"SOURCE_DETAIL":["UNITED NATIONS ENVIRONMENT PROGRAMME (UNEP)",null,null],"SERIES":["SG_SCP_CNTRY","SG_SCP_TOTLN","SG_SCP_TOTLN"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["NUMBER","PT","PT"],"Value":[1,100,100]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

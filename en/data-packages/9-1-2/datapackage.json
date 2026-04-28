@@ -54,6 +54,7 @@
             "constraints": {
               "enum": [
                 "Freight volume (tonne kilometres) [9.1.2]",
+                "Freight loaded and unloaded (metric tons) [9.1.2]",
                 "Passenger volume (passenger kilometres) [9.1.2]",
                 ""
               ]
@@ -78,6 +79,9 @@
                 "Cargo volume for Air transport",
                 "Cargo volume for Railway transport",
                 "Cargo volume for water transport",
+                "Mode of Transport: Air",
+                "Mode of transport: Inland waterway transport",
+                "Mode of Transport: Rail",
                 "Passenger volume for Air transport",
                 "Passenger volume for Railway transport",
                 "Passenger volume for water transport",
@@ -92,6 +96,7 @@
             "constraints": {
               "enum": [
                 "Tonne kilometres",
+                "Metric Tons",
                 "Number",
                 ""
               ]

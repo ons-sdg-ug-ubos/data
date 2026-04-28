@@ -1,11 +1,11 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,3.6
-2016,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,4.1
-2017,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,3.9
-2018,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,3.9
-2019,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,4.1
-2020,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,3.4
-2021,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,2.8
-2022,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,2.6
-2023,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,2.8
-2024,A,0,Annual Personal Transfers Survey conducted by BOU,BX_TRF_PWKR,,PT,2.5
+2015,A,0,BOU,BX_TRF_PWKR,,PT,3.6
+2016,A,0,BOU,BX_TRF_PWKR,,PT,4.1
+2017,A,0,BOU,BX_TRF_PWKR,,PT,3.9
+2018,A,0,BOU,BX_TRF_PWKR,,PT,3.9
+2019,A,0,BOU,BX_TRF_PWKR,,PT,4.1
+2020,A,0,BOU,BX_TRF_PWKR,,PT,3.4
+2021,A,0,BOU,BX_TRF_PWKR,,PT,2.8
+2022,A,0,BOU,BX_TRF_PWKR,,PT,2.595270344555598
+2023,A,0,BOU,BX_TRF_PWKR,,PT,2.7967529948496326
+2024,A,0,BOU,BX_TRF_PWKR,,PT,2.516649209154332

@@ -1,3 +1,7 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2016,Normal value,Units,Uganda Demographic Health Survey; AGE Y20T24,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,,20 to 24 years old,Percent,7.3
+2022,Normal value,Units,Uganda Demographic Health Survey; AGE Y20T25,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,,20 to 26 years old,Percent,5.8
 2016,Normal value,Units,UDHS,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Female,20 to 24 years old,Percent,7.3
+2016,Normal value,Units,Uganda Demographic Health Survey; AGE Y20T24,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,,20 to 25 years old,Percent,34.0
+2022,Normal value,Units,Uganda Demographic Health Survey; AGE Y20T26,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,,20 to 27 years old,Percent,32.8
 2016,Normal value,Units,UDHS,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Female,20 to 24 years old,Percent,34.0

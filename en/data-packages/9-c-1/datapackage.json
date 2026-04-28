@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from UCC",
+                "Administrative data from Uganda Communication Commission",
                 ""
               ]
             },

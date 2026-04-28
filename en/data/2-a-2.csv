@@ -1,6 +1,11 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2017,Normal value,Units,GFS,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]",,Percent,56872020
-2018,Normal value,Units,GFS,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]",,Percent,53297249
-2019,Normal value,Units,GFS,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]",,Percent,53321833
-2020,Normal value,Units,GFS,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]",,Percent,72353784
-2021,Normal value,Units,GFS,"Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]",,Percent,35971934
+2015,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,46547403.0
+2016,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,26302205.05
+2017,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,54089872.83
+2018,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,54109384.038349
+2019,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,63535793.352969006
+2020,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,86728789.15
+2021,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,145288000.0
+2022,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,92331891.64
+2023,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,89925638.95
+2024,Normal value,Units,Government Finance Statistics (Administrative data),"""Total official flows (disbursements) for agriculture",,USD,94160746.0

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNPS",
+                "Uganda National Panel Survey",
                 ""
               ]
             },
@@ -83,7 +83,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Uganda National Household Survey",
                 "UNHS",
                 ""
               ]
@@ -90,17 +91,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

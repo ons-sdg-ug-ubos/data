@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NGPSS",
+                "UBOS",
                 ""
               ]
             }
@@ -80,16 +80,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017",
                 ""
               ]
             }

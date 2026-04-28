@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",
+                "\"Proportion of informal employment",
                 ""
               ]
             },

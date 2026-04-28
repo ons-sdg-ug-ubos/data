@@ -50,6 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "IU_DMK_ICRS",
                 "IU_DMK_RESP",
                 ""
               ]

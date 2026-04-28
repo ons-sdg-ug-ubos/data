@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "UDHS",
+                "Uganda Demographic Health Survey",
                 ""
               ]
             },

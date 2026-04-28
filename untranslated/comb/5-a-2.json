@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2018,2021,2024],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"SOURCE_DETAIL":["Food and Agriculture Organization of the United Nations (FAO)","Food and Agriculture Organization of the United Nations (FAO)","Food and Agriculture Organization of the United Nations (FAO)"],"SERIES":["SG_LGL_LNDWMN","SG_LGL_LNDWMN","SG_LGL_LNDWMN"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["SCORE","SCORE","SCORE"],"Value":[1,2,2]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

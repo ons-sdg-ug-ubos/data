@@ -1,5 +1,9 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2016,A,0,UDHS,VC_VAW_MARR,,PT,18.0
-2016,A,0,UDHS,VC_VAW_PHYV,,PT,22.5
-2016,A,0,UDHS,VC_VAW_PSYV,,PT,29.3
-2016,A,0,UDHS,VC_VAW_SEXV,,PT,16.6
+2016,A,0,Uganda Demographic Health Survey,VC_VAW_MARR,,PT,9.3
+2022,A,0,Uganda Demographic Health Survey,VC_VAW_MARR,,PT,7.9
+2016,A,0,Uganda Demographic Health Survey,VC_VAW_PHYV,,PT,22.5
+2022,A,0,Uganda Demographic Health Survey,VC_VAW_PHYV,,PT,24.8
+2016,A,0,Uganda Demographic Health Survey,VC_VAW_PSYV,,PT,29.3
+2022,A,0,Uganda Demographic Health Survey,VC_VAW_PSYV,,PT,32.7
+2016,A,0,Uganda Demographic Health Survey,VC_VAW_SEXV,,PT,16.6
+2022,A,0,Uganda Demographic Health Survey,VC_VAW_SEXV,,PT,12.7

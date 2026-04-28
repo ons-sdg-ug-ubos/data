@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NAGRIC",
+                "Administrative data from National Animal Genetic Resources Centre and Data Bank",
                 ""
               ]
             }
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "NUMBER",
                 ""
               ]
             }

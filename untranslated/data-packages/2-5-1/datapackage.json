@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "NAGRIC Administrative data",
+                "Administrative data from National Animal Genetic Resources Centre and Data Bank",
                 ""
               ]
             }
@@ -50,6 +51,7 @@
             "constraints": {
               "enum": [
                 "ER_GRF_ANIMRCNT",
+                "ER_GRF_ANIMRCNTN",
                 "ER_GRF_PLNTSTOR",
                 ""
               ]
@@ -70,6 +72,7 @@
             "constraints": {
               "enum": [
                 "PT",
+                "NUMBER",
                 ""
               ]
             }

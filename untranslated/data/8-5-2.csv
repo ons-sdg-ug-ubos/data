@@ -1,4 +1,24 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
+2013,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,,PT,10.0
+2017,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,,PT,9.0
+2020,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,,PT,8.6
+2024,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,,PT,11.1
+2013,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,Y_GE60,PT,6.0
+2017,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,Y_GE60,PT,5.6
+2020,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,Y_GE60,PT,3.4
+2024,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,Y_GE60,PT,4.8
+2013,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,Y15T17,PT,31.1
+2017,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,Y15T17,PT,14.7
+2020,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,Y15T17,PT,19.0
+2024,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,,Y15T17,PT,19.4
+2013,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,F,,PT,13.2
+2017,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,F,,PT,13.0
+2020,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,F,,PT,8.7
+2024,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,F,,PT,10.3
+2013,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,M,,PT,7.2
+2017,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,M,,PT,5.9
+2020,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,M,,PT,8.5
+2024,A,0,Uganda National Household Survey,SL_TLF_UEM_19ICLS,,M,,PT,12.2
 2017,A,0,UNHS,SL_TLF_UEMDIS_19ICLS,,,,PT,9.0
 2020,A,0,UNHS,SL_TLF_UEMDIS_19ICLS,,,,PT,8.6
 2017,A,0,UNHS,SL_TLF_UEMDIS_19ICLS,,,Y_GE60,PT,5.6

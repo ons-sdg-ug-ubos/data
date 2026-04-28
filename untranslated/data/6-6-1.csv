@@ -1,1 +1,3 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2016,A,0,Ministry of Water and Environment,EN_WBE_PMPR,,PT,-0.0088
+2017,A,0,Ministry of Water and Environment,EN_WBE_PMPR,,PT,0.01

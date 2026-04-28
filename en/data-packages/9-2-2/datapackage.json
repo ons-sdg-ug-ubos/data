@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "NLFS",
+                "NATIONAL LABOUR FORCE SURVEY",
                 ""
               ]
             },
@@ -54,6 +55,7 @@
             "constraints": {
               "enum": [
                 "Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2]",
+                "Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2]",
                 ""
               ]
             },

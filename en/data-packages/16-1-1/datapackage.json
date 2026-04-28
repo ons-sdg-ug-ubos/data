@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "Administrative data from UPF",
+                "Uganda Police Force",
                 ""
               ]
             },
@@ -53,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of victims of intentional homicide per 100,000 population [16.1.1]",
+                "\"Number of victims of intentional homicide per 100",
                 ""
               ]
             },
@@ -98,7 +99,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "victims of intentional homicide per 100,000 population",
+                "\"victims of intentional homicide per 100",
                 ""
               ]
             },
@@ -122,6 +123,7 @@
             "constraints": {
               "enum": [
                 "2020",
+                "2019",
                 ""
               ]
             },

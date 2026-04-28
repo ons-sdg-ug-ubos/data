@@ -1,16 +1,19 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2019,A,0,Administrative data from UCC,IT_MOB_2GNTWK,,PT,56
-2020,A,0,Administrative data from UCC,IT_MOB_2GNTWK,,PT,62
-2021,A,0,Administrative data from UCC,IT_MOB_2GNTWK,,PT,73
-2022,A,0,Administrative data from UCC,IT_MOB_2GNTWK,,PT,74
-2023,A,0,Administrative data from UCC,IT_MOB_2GNTWK,,PT,76
-2019,A,0,Administrative data from UCC,IT_MOB_3GNTWK,,PT,48
-2020,A,0,Administrative data from UCC,IT_MOB_3GNTWK,,PT,54
-2021,A,0,Administrative data from UCC,IT_MOB_3GNTWK,,PT,70
-2022,A,0,Administrative data from UCC,IT_MOB_3GNTWK,,PT,71
-2023,A,0,Administrative data from UCC,IT_MOB_3GNTWK,,PT,72
-2019,A,0,Administrative data from UCC,IT_MOB_4GNTWK,,PT,34
-2020,A,0,Administrative data from UCC,IT_MOB_4GNTWK,,PT,39
-2021,A,0,Administrative data from UCC,IT_MOB_4GNTWK,,PT,47
-2022,A,0,Administrative data from UCC,IT_MOB_4GNTWK,,PT,52
-2023,A,0,Administrative data from UCC,IT_MOB_4GNTWK,,PT,55
+2019,A,0,Administrative data from Uganda Communication Commission,IT_MOB_2GNTWK,,PT,56
+2020,A,0,Administrative data from Uganda Communication Commission,IT_MOB_2GNTWK,,PT,62
+2021,A,0,Administrative data from Uganda Communication Commission,IT_MOB_2GNTWK,,PT,73
+2022,A,0,Administrative data from Uganda Communication Commission,IT_MOB_2GNTWK,,PT,74
+2023,A,0,Administrative data from Uganda Communication Commission,IT_MOB_2GNTWK,,PT,76
+2024,A,0,Administrative data from Uganda Communication Commission,IT_MOB_2GNTWK,,PT,75
+2019,A,0,Administrative data from Uganda Communication Commission,IT_MOB_3GNTWK,,PT,48
+2020,A,0,Administrative data from Uganda Communication Commission,IT_MOB_3GNTWK,,PT,54
+2021,A,0,Administrative data from Uganda Communication Commission,IT_MOB_3GNTWK,,PT,70
+2022,A,0,Administrative data from Uganda Communication Commission,IT_MOB_3GNTWK,,PT,71
+2023,A,0,Administrative data from Uganda Communication Commission,IT_MOB_3GNTWK,,PT,72
+2024,A,0,Administrative data from Uganda Communication Commission,IT_MOB_3GNTWK,,PT,72
+2019,A,0,Administrative data from Uganda Communication Commission,IT_MOB_4GNTWK,,PT,34
+2020,A,0,Administrative data from Uganda Communication Commission,IT_MOB_4GNTWK,,PT,39
+2021,A,0,Administrative data from Uganda Communication Commission,IT_MOB_4GNTWK,,PT,47
+2022,A,0,Administrative data from Uganda Communication Commission,IT_MOB_4GNTWK,,PT,52
+2023,A,0,Administrative data from Uganda Communication Commission,IT_MOB_4GNTWK,,PT,55
+2024,A,0,Administrative data from Uganda Communication Commission,IT_MOB_4GNTWK,,PT,58

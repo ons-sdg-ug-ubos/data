@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "AAS",
+                "Annual Agriculture Survey",
                 ""
               ]
             },
@@ -53,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",
+                "\"Share of women among owners or rights-bearers of agricultural land",
                 "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
                 ""
               ]

@@ -1,3 +1,7 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2020,Normal value,Units,UNHS,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Percent,19.07
-2020,Normal value,Units,UNHS,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Percent,36.35
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2020,Normal value,Units,UNHS,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,,Percent,19.07
+2020,Normal value,Units,Uganda National Household Survey,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,19.07
+2024,Normal value,Units,Uganda National Household Survey,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,34.64
+2020,Normal value,Units,UNHS,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,,Percent,36.35
+2020,Normal value,Units,Uganda National Household Survey,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,Percent,36.35
+2024,Normal value,Units,Uganda National Household Survey,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,Percent,31.75

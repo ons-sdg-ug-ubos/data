@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]",
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%)  [17.15.1]",
                 ""
               ]
             },
@@ -79,6 +80,17 @@
               ]
             },
             "title": "Time period details"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "OPM",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

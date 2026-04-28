@@ -35,6 +35,16 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uganda  Wildlife Education Center",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -60,7 +70,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CON_PPP_USD",
+                "NUMBER",
                 ""
               ]
             }

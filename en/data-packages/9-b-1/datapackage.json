@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from MTIC",
+                "Administrative data from Ministry of Trade, Industry and Cooperatives",
                 ""
               ]
             },

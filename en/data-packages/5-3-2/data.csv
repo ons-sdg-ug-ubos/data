@@ -1,2 +1,4 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2016,Normal value,Units,UDHS,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,15 to 49 years old,Percent,0.3
+2016,Normal value,Units,Uganda Demographic Health Survey,"""Proportion of girls and women aged 15-49 years who have undergone female genital mutilation",,,15 to 49 years old,Percent,0.3
+2022,Normal value,Units,Uganda Demographic Health Survey,"""Proportion of girls and women aged 15-49 years who have undergone female genital mutilation",,,15 to 50 years old,Percent,0.2
+2016,Normal value,Units,UDHS,"""Proportion of girls and women aged 15-49 years who have undergone female genital mutilation",,Female,15 to 49 years old,Percent,0.3

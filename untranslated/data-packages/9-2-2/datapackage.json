@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "NLFS",
+                "NATIONAL LABOUR FORCE SURVEY",
                 ""
               ]
             }
@@ -50,6 +51,7 @@
             "constraints": {
               "enum": [
                 "SL_TLF_MANF",
+                "SL_TLF_MANF_19ICLS",
                 ""
               ]
             }

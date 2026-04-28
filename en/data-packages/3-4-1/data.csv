@@ -1,6 +1,11 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Normal value,Units,HMIS,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,Percent,38
-2016,Normal value,Units,HMIS,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,Percent,36
-2017,Normal value,Units,HMIS,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,Percent,37
-2018,Normal value,Units,HMIS,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,Percent,37
-2019,Normal value,Units,HMIS,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",,Percent,45
+2015,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,38.0
+2016,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,36.0
+2017,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,37.0
+2018,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,37.0
+2019,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,45.0
+2020,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,9.063072776280324
+2021,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,13.226154510142424
+2022,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,9.612430320853267
+2023,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,11.362144296289587
+2024,Normal value,Units,Health Management Information System (HMIS) from Ministry of Health,"""Mortality rate attributed to cardiovascular disease",,Percent,12.791184573002754

@@ -1,3 +1,5 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Normal value,Units,UNPS,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Percent,37
-2015,Normal value,Units,UNPS,Prevalence of severe food insecurity in the population [2.1.2],,Percent,8
+2015,Normal value,Units,Uganda National Panel Survey,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Percent,37.0
+2024,Normal value,Units,Uganda National Panel Survey,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Percent,46.0
+2015,Normal value,Units,Uganda National Panel Survey,Prevalence of severe food insecurity in the population [2.1.2],,Percent,8.0
+2024,Normal value,Units,Uganda National Panel Survey,Prevalence of severe food insecurity in the population [2.1.2],,Percent,30.7

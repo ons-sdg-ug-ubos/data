@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "NATIONAL LABOUR FORCE SURVEY",
                 "NLFS",
                 ""
               ]
@@ -53,6 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of children engaged in economic activity [8.7.1]",
                 "Proportion of children engaged in economic activity and household chores [8.7.1]",
                 ""
               ]

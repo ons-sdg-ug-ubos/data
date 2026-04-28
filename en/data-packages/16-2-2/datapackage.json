@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual Crime Report",
+                "Uganda Police Force",
                 ""
               ]
             },
@@ -53,7 +53,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",
+                "Detected victims of human trafficking (number) [16.2.2]",
+                "\"Detected victims of human trafficking",
+                "Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]",
                 ""
               ]
             },
@@ -74,7 +76,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 1,000 population",
+                "Number",
+                "Per 100,000 population",
                 ""
               ]
             },

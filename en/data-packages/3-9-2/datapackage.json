@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HMIS",
+                "Health Management Information System (HMIS) from Ministry of Health",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene [3.9.2]",
+                "\"Mortality rate attributed to unsafe water",
                 ""
               ]
             },

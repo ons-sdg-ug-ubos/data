@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NAPE",
+                "UNEB",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",
+                "\"Completion rate",
                 ""
               ]
             },

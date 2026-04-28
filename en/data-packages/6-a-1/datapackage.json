@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries [6.a.1]",
+                "\"Total official development assistance (gross disbursement) for water supply and sanitation",
                 ""
               ]
             },
@@ -74,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "USD",
                 ""
               ]
             },

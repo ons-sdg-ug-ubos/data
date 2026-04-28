@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from MOFPED",
+                "Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development",
                 ""
               ]
             }
@@ -68,14 +68,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CON_USD",
+                "USD",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

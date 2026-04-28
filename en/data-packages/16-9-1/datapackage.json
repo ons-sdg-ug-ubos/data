@@ -38,6 +38,18 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uganda Demographic Health Survey",
+                "NGPSS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -63,6 +75,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Female",
                 "Male",
                 ""
               ]
@@ -96,23 +109,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
                 "2017",
                 ""
               ]
             },
             "title": "Time period details"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NGPSS",
-                ""
-              ]
-            },
-            "title": "Source details"
           },
           {
             "name": "Value",

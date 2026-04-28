@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "Administrative Data",
+                "National Forestry Authority",
                 ""
               ]
             },
@@ -54,6 +55,8 @@
             "constraints": {
               "enum": [
                 "Forest area certified under an independently verified certification scheme (hectares) [15.2.1]",
+                "Annual forest area change rate (%) [15.2.1]",
+                "Proportion of forest area within legally established protected areas [15.2.1]",
                 "Forest area within legally established protected areas [15.2.1]",
                 ""
               ]

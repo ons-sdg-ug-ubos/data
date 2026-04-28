@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "NLFS",
+                "NATIONAL LABOUR FORCE SURVEY",
                 ""
               ]
             }
@@ -50,6 +51,7 @@
             "constraints": {
               "enum": [
                 "SL_EMP_FTLINJUR",
+                "SL_EMP_INJUR",
                 ""
               ]
             }
@@ -80,6 +82,7 @@
             "constraints": {
               "enum": [
                 "PT",
+                "PER_100000_WKRS_EXPD",
                 ""
               ]
             }

@@ -1,9 +1,14 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2017,A,0,GFS,SG_XPD_EDUC,,PT,13.3
-2018,A,0,GFS,SG_XPD_EDUC,,PT,13.0
-2019,A,0,GFS,SG_XPD_EDUC,,PT,12.2
-2020,A,0,GFS,SG_XPD_EDUC,,PT,12.1
-2021,A,0,GFS,SG_XPD_EDUC,,PT,14.7
+2015,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,5.657319728535548
+2016,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,6.16337999938845
+2017,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,5.1234992344376336
+2018,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,4.901363373179059
+2019,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,4.864279706879871
+2020,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,4.263768222580806
+2021,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,3.696255585204828
+2022,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,4.281953589590268
+2023,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,4.753499619466972
+2024,A,0,Government Finance Statistics (Administrative data),SG_XPD_EDUC,,PT,5.534706347732294
 2017,A,0,GFS,SG_XPD_HLTH,,PT,6.5
 2018,A,0,GFS,SG_XPD_HLTH,,PT,6.2
 2019,A,0,GFS,SG_XPD_HLTH,,PT,6.4

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HMIS",
+                "Health Management Information System (HMIS) from Ministry of Health",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease [3.4.1]",
+                "\"Mortality rate attributed to cardiovascular disease",
                 ""
               ]
             },
@@ -82,7 +82,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HMIS",
+                "Health Management Information System (HMIS) from Ministry of Health",
                 ""
               ]
             }

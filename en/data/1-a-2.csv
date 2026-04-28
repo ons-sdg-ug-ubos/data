@@ -1,16 +1,21 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2017,Normal value,Units,GFS,"Proportion of total government spending on essential services, education [1.a.2]",,Percent,13.3
-2018,Normal value,Units,GFS,"Proportion of total government spending on essential services, education [1.a.2]",,Percent,13.0
-2019,Normal value,Units,GFS,"Proportion of total government spending on essential services, education [1.a.2]",,Percent,12.2
-2020,Normal value,Units,GFS,"Proportion of total government spending on essential services, education [1.a.2]",,Percent,12.1
-2021,Normal value,Units,GFS,"Proportion of total government spending on essential services, education [1.a.2]",,Percent,14.7
-2017,Normal value,Units,GFS,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,6.5
-2018,Normal value,Units,GFS,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,6.2
-2019,Normal value,Units,GFS,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,6.4
-2020,Normal value,Units,GFS,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,9.2
-2021,Normal value,Units,GFS,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,7.3
-2017,Normal value,Units,GFS,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,1.1
-2018,Normal value,Units,GFS,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,1.2
-2019,Normal value,Units,GFS,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,1.0
-2020,Normal value,Units,GFS,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,1.1
-2021,Normal value,Units,GFS,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,1.2
+2015,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,5.657319728535548
+2016,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,6.16337999938845
+2017,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,5.1234992344376336
+2018,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,4.901363373179059
+2019,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,4.864279706879871
+2020,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,4.263768222580806
+2021,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,3.696255585204828
+2022,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,4.281953589590268
+2023,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,4.753499619466972
+2024,Normal value,Units,Government Finance Statistics (Administrative data),"""Proportion of total government spending on essential services",,Percent,5.534706347732294
+2017,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,6.5
+2018,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,6.2
+2019,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,6.4
+2020,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,9.2
+2021,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,7.3
+2017,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,1.1
+2018,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,1.2
+2019,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,1.0
+2020,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,1.1
+2021,Normal value,Units,GFS,"""Proportion of total government spending on essential services",,Percent,1.2

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HMIS",
+                "Health Management Information System (HMIS) from Ministry of Health",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Malaria incidence per 1,000 population at risk [3.3.3]",
+                "\"Malaria incidence per 1",
                 ""
               ]
             },

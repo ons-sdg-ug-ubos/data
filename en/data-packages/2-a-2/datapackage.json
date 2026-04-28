@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GFS",
+                "Government Finance Statistics (Administrative data)",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official flows (disbursements) for agriculture, by recipient countries [2.a.2]",
+                "\"Total official flows (disbursements) for agriculture",
                 ""
               ]
             },
@@ -74,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "USD",
                 ""
               ]
             },
@@ -82,7 +82,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

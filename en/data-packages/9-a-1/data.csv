@@ -1,11 +1,17 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,110574297
-2016,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,106552128
-2017,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,74282909
-2018,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,97228232
-2019,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,52901572
-2020,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,46988225
-2021,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,35775604
-2022,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,23894157
-2023,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,43983372
-2024,Normal value,Units,Administrative data from MOFPED,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Constant USD,54019489
+2010,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,54101007.76404999
+2011,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,133375196.713959
+2012,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,87525682.414249
+2013,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,78876103.523978
+2014,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,97307241.0083
+2015,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,110574296.877584
+2016,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,106552127.520803
+2017,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,74282909.135458
+2018,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,97228231.591905
+2019,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,52901571.89952101
+2020,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,46988224.80657101
+2021,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,35775604.133221
+2022,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,23894156.991087005
+2023,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,43983371.952668
+2024,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,54019489.224774
+2025,Normal value,Units,"Administrative data (Donor Disbursements) From Ministry of Finance, Planning and Economic Development","""Total official flows for infrastructure",,USD,128690539.2

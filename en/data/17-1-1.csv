@@ -1,6 +1,21 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,2019,0.107583
-2016,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,2019,0.110886
-2017,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,2019,0.11485
-2018,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,2019,0.117392
-2019,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,2019,0.125783
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2006,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,12.947042342769096
+2007,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.383572678337735
+2008,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.895969173551864
+2009,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,9.650268276915936
+2010,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,10.975292945989782
+2011,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,11.46150310662798
+2012,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,10.89366970218007
+2013,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,11.617787875239223
+2014,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,11.813234666412953
+2015,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,12.840514005816548
+2016,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,11.549953262466792
+2017,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,11.93415768331096
+2018,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,12.220173293497066
+2019,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,12.837711711936777
+2020,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,12.258457816492616
+2021,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.249186838379073
+2022,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.78874980008111
+2023,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.973762731046849
+2024,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,13.78145478425115
+2025,Normal value,Units,URA,Total government revenue as a proportion of GDP [17.1.1],,Percent,14.295703

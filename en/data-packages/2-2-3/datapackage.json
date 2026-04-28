@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Uganda Demographic and Health Survey",
                 "UDHS",
                 ""
               ]
@@ -54,8 +55,8 @@
             "constraints": {
               "enum": [
                 "Proportion of women aged 15-49 years with anaemia [2.2.3]",
-                "Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",
-                "Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",
+                "\"Proportion of women aged 15-49 years with anaemia",
+                "\"Proportion of women aged 15-49 years with anaemia",
                 ""
               ]
             },
@@ -88,6 +89,8 @@
             "constraints": {
               "enum": [
                 "15 to 49 years old",
+                "15 to 50 years old",
+                "15 to 51 years old",
                 ""
               ]
             },

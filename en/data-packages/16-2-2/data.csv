@@ -1,11 +1,21 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
-2015,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,0.977
-2016,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,0.772
-2017,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,0.885
-2018,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,1.664
-2019,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,1.129
-2020,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,0.27
-2021,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,0.84
-2022,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,1.51
-2023,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,1.09
-2024,Normal value,Units,Annual Crime Report,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 1,000 population",2019,1.03
+2020,Normal value,Units,Uganda Police Force,Detected victims of human trafficking (number) [16.2.2],,Number,,41583600.0
+2021,Normal value,Units,Uganda Police Force,Detected victims of human trafficking (number) [16.2.2],,Number,,42885900.0
+2022,Normal value,Units,Uganda Police Force,Detected victims of human trafficking (number) [16.2.2],,Number,,44212800.0
+2023,Normal value,Units,Uganda Police Force,Detected victims of human trafficking (number) [16.2.2],,Number,,45562000.0
+2024,Normal value,Units,Uganda Police Force,Detected victims of human trafficking (number) [16.2.2],,Number,,45935046.0
+2015,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,0.977
+2016,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,0.772
+2017,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,0.885
+2018,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,1.664
+2019,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,1.129
+2020,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,0.27174174
+2021,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,0.84410028
+2022,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,1.51087468
+2023,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,1.08862649
+2024,Normal value,Units,Uganda Police Force,"""Detected victims of human trafficking",,"Per 100,000 population",2019,1.0253609
+2020,Normal value,Units,Uganda Police Force,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Number,,113.0
+2021,Normal value,Units,Uganda Police Force,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Number,,362.0
+2022,Normal value,Units,Uganda Police Force,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Number,,668.0
+2023,Normal value,Units,Uganda Police Force,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Number,,496.0
+2024,Normal value,Units,Uganda Police Force,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Number,,471.0

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative Data",
+                "National Forestry Authority",
                 ""
               ]
             }
@@ -68,14 +68,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "HA",
+                "RO",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

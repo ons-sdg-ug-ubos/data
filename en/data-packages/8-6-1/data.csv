@@ -1,7 +1,17 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
-2017,Normal value,Units,UNHS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,,15 to 24 years old,Percent,43.6
-2020,Normal value,Units,UNHS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,,15 to 24 years old,Percent,45.8
-2017,Normal value,Units,UNHS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,Female,15 to 24 years old,Percent,43.6
-2020,Normal value,Units,UNHS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,Female,15 to 24 years old,Percent,54.2
-2017,Normal value,Units,UNHS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,Male,15 to 24 years old,Percent,27.0
-2020,Normal value,Units,UNHS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,Male,15 to 24 years old,Percent,36.1
+2017,Normal value,Units,UNHS,"""Proportion of youth not in education",,,15 to 24 years old,Percent,43.6
+2020,Normal value,Units,UNHS,"""Proportion of youth not in education",,,15 to 24 years old,Percent,45.8
+2017,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,,15 to 26 years old,Percent,43.6
+2020,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,,15 to 26 years old,Percent,45.8
+2023,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,,15 to 26 years old,Percent,45.8
+2024,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,,15 to 26 years old,Percent,34.1
+2017,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,Female,15 to 24 years old,Percent,43.6
+2020,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,Female,15 to 24 years old,Percent,54.2
+2023,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,Female,15 to 24 years old,Percent,54.2
+2024,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,Female,15 to 24 years old,Percent,41.8
+2017,Normal value,Units,UNHS,"""Proportion of youth not in education",,Male,15 to 24 years old,Percent,27.0
+2020,Normal value,Units,UNHS,"""Proportion of youth not in education",,Male,15 to 24 years old,Percent,36.1
+2017,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,Male,15 to 25 years old,Percent,27.0
+2020,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,Male,15 to 25 years old,Percent,36.1
+2023,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,Male,15 to 25 years old,Percent,36.1
+2024,Normal value,Units,Uganda National Household Survey,"""Proportion of youth not in education",,Male,15 to 25 years old,Percent,25.7

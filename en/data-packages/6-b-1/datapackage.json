@@ -38,12 +38,24 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Water and Environment",
+                "Indicator 6.6.1 thematic report 2017",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
               "enum": [
                 "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1]",
-                "Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA) [6.b.1]",
+                "\"Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply",
                 ""
               ]
             },
@@ -70,17 +82,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Indicator 6.6.1 thematic report 2017",
-                ""
-              ]
-            },
-            "title": "Source details"
           },
           {
             "name": "Value",

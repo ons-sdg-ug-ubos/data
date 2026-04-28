@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data (GFS data by MoFPED",
+                "MoFPED",
                 ""
               ]
             }
@@ -75,7 +75,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

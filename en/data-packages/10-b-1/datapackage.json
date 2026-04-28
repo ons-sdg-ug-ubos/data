@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from MOFPED",
+                "Ministry of Finance and Economic Development",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total resource flows for development, by recipient and donor countries [10.b.1]",
+                "\"Total resource flows for development",
                 ""
               ]
             },
@@ -82,7 +82,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

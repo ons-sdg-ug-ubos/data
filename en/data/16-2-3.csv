@@ -1,3 +1,7 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Time period details,Value
+2016,Normal value,Units,Uganda Demograhic Health Survey,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,,Percent,,5.3
+2022,Normal value,Units,Uganda Demograhic Health Survey,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,,Percent,,4.2
 2016,Normal value,Units,UDHS,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,18 to 29 years old,Percent,2016,5.2
+2016,Normal value,Units,Uganda Demograhic Health Survey,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,,Percent,,1.1
+2022,Normal value,Units,Uganda Demograhic Health Survey,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,,Percent,,0.5
 2016,Normal value,Units,UDHS,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,18 to 29 years old,Percent,2016,1.3

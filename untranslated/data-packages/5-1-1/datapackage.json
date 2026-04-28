@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UN WOMEN",
+                "Ministry of Gender, Labour and Social Development",
                 ""
               ]
             }
@@ -75,7 +75,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

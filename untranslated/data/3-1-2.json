@@ -1,1 +1,1 @@
-{"Year":[2016],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["UDHS"],"SERIES":["SH_STA_BRTC"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[74]}
+{"Year":[2016,2022],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Uganda Demographic Health Survey","Uganda Demographic Health Survey"],"SERIES":["SH_STA_BRTC","SH_STA_BRTC"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"Value":[74.2,88.4]}

@@ -39,7 +39,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Uganda Demographic Health Survey; AGE Y20T24",
+                "Uganda Demographic Health Survey; AGE Y20T25",
                 "UDHS",
+                "Uganda Demographic Health Survey; AGE Y20T26",
                 ""
               ]
             }
@@ -80,6 +83,9 @@
             "constraints": {
               "enum": [
                 "Y20T24",
+                "Y20T26",
+                "Y20T25",
+                "Y20T27",
                 ""
               ]
             }

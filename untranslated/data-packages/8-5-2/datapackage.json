@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Uganda National Household Survey",
                 "UNHS",
                 ""
               ]
@@ -49,6 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SL_TLF_UEM_19ICLS",
                 "SL_TLF_UEMDIS_19ICLS",
                 ""
               ]
@@ -80,6 +82,7 @@
             "constraints": {
               "enum": [
                 "Y_GE60",
+                "Y15T17",
                 "Y18T30",
                 "Y31T59",
                 "Y5T17",

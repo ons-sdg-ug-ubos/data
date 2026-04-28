@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "National Accounts Statistics",
+                "UBOS",
                 ""
               ]
             }

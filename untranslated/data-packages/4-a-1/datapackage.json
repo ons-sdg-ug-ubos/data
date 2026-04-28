@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ministry of Education and Sports",
                 "MoES",
                 ""
               ]
@@ -70,6 +71,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "AGG_0_1",
                 "ISCED11_1",
                 "ISCED11_2",
                 "ISCED11_3",

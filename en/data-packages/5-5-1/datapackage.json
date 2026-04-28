@@ -42,7 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Election Administrative data",
+                "Electoral Commission",
+                "Parliament",
                 ""
               ]
             },

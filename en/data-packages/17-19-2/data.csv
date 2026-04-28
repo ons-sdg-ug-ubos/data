@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2020,Normal value,Units,"Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],,Boolean or binary measure,0
+2021,Normal value,Units,"Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],,Boolean or binary measure,0
+2024,Normal value,Units,"Demographic and Social Statistics Branch, United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2],,Boolean or binary measure,1

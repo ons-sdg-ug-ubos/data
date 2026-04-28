@@ -95,6 +95,17 @@
             "title": "Time period details"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uganda Demographic Health Survey",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

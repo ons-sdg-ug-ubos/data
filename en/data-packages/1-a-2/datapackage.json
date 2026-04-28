@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Government Finance Statistics (Administrative data)",
                 "GFS",
                 ""
               ]
@@ -53,9 +54,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total government spending on essential services, education [1.a.2]",
-                "Proportion of total government spending on essential services, health [1.a.2]",
-                "Proportion of total government spending on essential services, social protection [1.a.2]",
+                "\"Proportion of total government spending on essential services",
+                "\"Proportion of total government spending on essential services",
+                "\"Proportion of total government spending on essential services",
                 ""
               ]
             },

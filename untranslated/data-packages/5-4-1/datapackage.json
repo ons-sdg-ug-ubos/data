@@ -50,6 +50,7 @@
             "constraints": {
               "enum": [
                 "SL_DOM_TSPD",
+                "SL_DOM_TSPDDC",
                 ""
               ]
             }

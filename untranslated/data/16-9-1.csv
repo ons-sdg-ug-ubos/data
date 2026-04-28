@@ -1,4 +1,11 @@
-Year,OBS_STATUS,UNIT_MULT,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,SOURCE_DETAIL,Value
-2016,A,0,SG_REG_BRTH,,,,PT,2016,,32.2
-2017,A,0,SG_REG_BRTH,,,U,PT,2017,NGPSS,40.0
-2016,A,0,SG_REG_BRTH,,M,,PT,2016,,32.2
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,Value
+2016,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,,,PT,,32.2
+2022,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,,,PT,,40.4
+2024,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,,,PT,,10.3
+2017,A,0,NGPSS,SG_REG_BRTH,,,U,PT,2017,40.0
+2016,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,F,,PT,,32.2
+2022,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,F,,PT,,40.0
+2024,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,F,,PT,,10.3
+2016,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,M,,PT,,32.2
+2022,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,M,,PT,,40.7
+2024,A,0,Uganda Demographic Health Survey,SG_REG_BRTH,,M,,PT,,10.3

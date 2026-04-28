@@ -1,5 +1,24 @@
-Year,OBS_STATUS,UNIT_MULT,SERIES,REF_AREA,UNIT_MEASURE,Value
-2017,A,0,SH_SAN_HNDWSH,,PT,8.3
-2020,A,0,SH_SAN_HNDWSH,,PT,7.6
-2017,A,0,SH_SAN_SAFE,,PT,17.9
-2020,A,0,SH_SAN_SAFE,,PT,20.7
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,Value
+2017,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,,,PT,6.2
+2020,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,,,PT,7.6
+2024,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,,,PT,6.8
+2017,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,F,,PT,6.0
+2020,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,F,,PT,5.4
+2024,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,F,,PT,7.0
+2017,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,M,,PT,6.4
+2020,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,M,,PT,6.0
+2024,A,0,Uganda National Household Survey,SH_SAN_HNDWSH,,M,,PT,6.6
+2015,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,,PT,18.7
+2016,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,,PT,20.8
+2017,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,,PT,17.9
+2020,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,,PT,20.7
+2022,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,,PT,34.2
+2024,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,,PT,41.2
+2015,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,R,PT,17.4
+2022,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,R,PT,32.8
+2015,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,U,PT,26.3
+2022,A,0,Uganda National Household Survey,SH_SAN_SAFE,,,U,PT,37.8
+2016,A,0,Uganda National Household Survey,SH_SAN_SAFE,,F,,PT,17.7
+2024,A,0,Uganda National Household Survey,SH_SAN_SAFE,,F,,PT,41.5
+2016,A,0,Uganda National Household Survey,SH_SAN_SAFE,,M,,PT,31.7
+2024,A,0,Uganda National Household Survey,SH_SAN_SAFE,,M,,PT,40.8

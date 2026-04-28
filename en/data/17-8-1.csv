@@ -1,10 +1,22 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
-2019,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Number,2021,9929
-2020,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Number,2021,27351
-2021,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Number,2021,29412
-2019,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Number,2021,15155921
-2020,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Number,2021,18917120
-2021,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Number,2021,21886806
-2019,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,,Number,2021,15165850
-2020,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,,Number,2021,18944471
-2021,Normal value,Units,Proportion of individuals using the Internet [17.8.1],,,Number,2021,21916218
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
+2019,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.02501008
+2020,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.21213447
+2021,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.24196437
+2022,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.27011778
+2023,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.29404036
+2024,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.42696078
+2019,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,"""Proportion of individuals using internet",Number,,15165850.0
+2020,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,"""Proportion of individuals using internet",Number,,27756763.0
+2021,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,"""Proportion of individuals using internet",Number,,29541867.0
+2022,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,"""Proportion of individuals using internet",Number,,33186961.0
+2023,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,"""Proportion of individuals using internet",Number,,37121142.0
+2024,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,"""Proportion of individuals using internet",Number,,41795975.0
+2019,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Percent,,66.97733
+2020,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Percent,,67.6528117
+2021,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Percent,,69.9287411
+2022,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Percent,,76.3741339
+2023,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Percent,,82.9372197
+2024,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using mobile  internet,Percent,,90.6318083
+2019,Normal value,Units,,Proportion of individuals using the Internet [17.8.1],,,Number,2021,15165850.0
+2020,Normal value,Units,,Proportion of individuals using the Internet [17.8.1],,,Number,2021,18944471.0
+2021,Normal value,Units,,Proportion of individuals using the Internet [17.8.1],,,Number,2021,21916218.0

@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "NATIONAL LABOUR FORCE SURVEY",
                 "NLFS",
                 ""
               ]
@@ -49,6 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SL_TLF_CHLDEA",
                 "SL_TLF_CHLDEC",
                 ""
               ]

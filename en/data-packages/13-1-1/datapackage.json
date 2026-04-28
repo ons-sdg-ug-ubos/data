@@ -54,8 +54,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",
-                "Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",
+                "\"Number of directly affected persons attributed to disasters per 100",
+                "\"Number of deaths and missing persons attributed to disasters per 100",
                 ""
               ]
             },
@@ -76,7 +76,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
                 "Per 100,000 population",
                 ""
               ]

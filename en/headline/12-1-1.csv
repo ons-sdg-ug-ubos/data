@@ -1,1 +1,3 @@
-Year,Value
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2015,100,Normal value,Units,Percent,"""Number of policies"
+2020,100,Normal value,Units,Percent,"""Number of policies"

@@ -1,6 +1,11 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2017,A,0,GFS,DC_TOF_AGRL,,PT,56872020
-2018,A,0,GFS,DC_TOF_AGRL,,PT,53297249
-2019,A,0,GFS,DC_TOF_AGRL,,PT,53321833
-2020,A,0,GFS,DC_TOF_AGRL,,PT,72353784
-2021,A,0,GFS,DC_TOF_AGRL,,PT,35971934
+2015,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,46547403.0
+2016,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,26302205.05
+2017,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,54089872.83
+2018,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,54109384.038349
+2019,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,63535793.352969006
+2020,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,86728789.15
+2021,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,145288000.0
+2022,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,92331891.64
+2023,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,89925638.95
+2024,A,0,Government Finance Statistics (Administrative data),DC_TOF_AGRL,,USD,94160746.0

@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "Administrative Data",
+                "National Forestry Authority",
                 ""
               ]
             }
@@ -50,6 +51,8 @@
             "constraints": {
               "enum": [
                 "AG_LND_FRSTCERT",
+                "AG_LND_FRSTCHG",
+                "AG_LND_FRSTPRCT",
                 "AG_LND_FRSTPRCTN",
                 ""
               ]

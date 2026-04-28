@@ -35,6 +35,17 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Water and Environment",
+                "Indicator 6.6.1 thematic report 2017",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -61,16 +72,6 @@
               "enum": [
                 "PT",
                 "NUMBER",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Indicator 6.6.1 thematic report 2017",
                 ""
               ]
             }

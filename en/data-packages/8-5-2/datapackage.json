@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Uganda National Household Survey",
                 "UNHS",
                 ""
               ]
@@ -53,7 +54,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",
+                "\"Unemployment rate",
+                "\"Unemployment rate",
                 ""
               ]
             },
@@ -87,6 +89,7 @@
             "constraints": {
               "enum": [
                 "60 years old and over",
+                "15 to 17 years old",
                 "18 to 30 years old",
                 "31 to 59 years old",
                 "5 to 17 years old",

@@ -1,3 +1,10 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2017,Normal value,Units,UNHS,Proportion of population using safely managed drinking water services [6.1.1],,Percent,79.8
-2020,Normal value,Units,UNHS,Proportion of population using safely managed drinking water services [6.1.1],,Percent,9.3
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2017,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,79.8
+2020,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,79.3
+2024,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,81.1
+2017,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,Female,Percent,82.0
+2020,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,Female,Percent,80.1
+2024,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,Female,Percent,82.6
+2017,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,Male,Percent,78.9
+2020,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,Male,Percent,77.5
+2024,Normal value,Units,Uganda National Household Survey,Proportion of population using safely managed drinking water services [6.1.1],,Male,Percent,80.3

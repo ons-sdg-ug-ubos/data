@@ -1,4 +1,7 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
-2016,A,0,UDHS,SH_PRV_SMOK,,,PT,5.1
-2016,A,0,UDHS,SH_PRV_SMOK,,F,PT,0.8
-2016,A,0,UDHS,SH_PRV_SMOK,,M,PT,9.4
+2016,A,0,Uganda Demographic Health Survey,SH_PRV_SMOK,,,PT,5.1
+2022,A,0,Uganda Demographic Health Survey,SH_PRV_SMOK,,,PT,4.5
+2016,A,0,Uganda Demographic Health Survey,SH_PRV_SMOK,,F,PT,0.8
+2022,A,0,Uganda Demographic Health Survey,SH_PRV_SMOK,,F,PT,1.5
+2016,A,0,Uganda Demographic Health Survey,SH_PRV_SMOK,,M,PT,9.4
+2022,A,0,Uganda Demographic Health Survey,SH_PRV_SMOK,,M,PT,7.6

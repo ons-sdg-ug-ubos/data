@@ -1,10 +1,11 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.98
-2016,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.9
-2017,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.7
-2018,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.48
-2019,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.38
-2020,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.29
-2021,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.1
-2022,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,0.97
-2023,A,0,Annual Country HIV Estimates by UAC,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,0.86
+2015,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.98
+2016,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.9
+2017,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.7
+2018,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.48
+2019,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.38
+2020,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.29
+2021,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,1.1
+2022,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,0.97
+2023,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,0.86
+2024,A,0,Annual Country HIV estimates from Uganda AIDS Commission,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,0.79

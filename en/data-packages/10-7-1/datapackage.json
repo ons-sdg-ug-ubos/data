@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from MoGLSD",
+                "Ministry of Gender and Social Development",
                 ""
               ]
             },
@@ -74,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "USD",
                 ""
               ]
             },

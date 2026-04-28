@@ -1,4 +1,7 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,Value
-2017,Normal value,Units,NGPSS,Prevalence rate of bribery [16.5.1],,,Percent,2017,16
-2017,Normal value,Units,NGPSS,Prevalence rate of bribery [16.5.1],,Female,Percent,2017,13
-2017,Normal value,Units,NGPSS,Prevalence rate of bribery [16.5.1],,Male,Percent,2017,21
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
+2017,Normal value,Units,UBOS,Prevalence rate of bribery [16.5.1],,,Percent,16
+2025,Normal value,Units,UBOS,Prevalence rate of bribery [16.5.1],,,Percent,14
+2017,Normal value,Units,UBOS,Prevalence rate of bribery [16.5.1],,Female,Percent,21
+2025,Normal value,Units,UBOS,Prevalence rate of bribery [16.5.1],,Female,Percent,18
+2017,Normal value,Units,UBOS,Prevalence rate of bribery [16.5.1],,Male,Percent,13
+2025,Normal value,Units,UBOS,Prevalence rate of bribery [16.5.1],,Male,Percent,12

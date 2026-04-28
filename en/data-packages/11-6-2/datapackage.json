@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative Data",
+                "Airqo",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual mean levels of fine particulate matter (population-weighted), by location [11.6.2]",
+                "\"Annual mean levels of fine particulate matter (population-weighted)",
                 ""
               ]
             },

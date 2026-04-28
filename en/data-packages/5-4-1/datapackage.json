@@ -54,6 +54,7 @@
             "constraints": {
               "enum": [
                 "Proportion of time spent on unpaid domestic chores and care work [5.4.1]",
+                "Proportion of time spent on unpaid domestic chores [5.4.1]",
                 ""
               ]
             },

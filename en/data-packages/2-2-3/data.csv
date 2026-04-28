@@ -1,4 +1,7 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2016,Normal value,Units,Uganda Demographic and Health Survey,Proportion of women aged 15-49 years with anaemia [2.2.3],,,15 to 49 years old,Percent,31.7
 2016,Normal value,Units,UDHS,Proportion of women aged 15-49 years with anaemia [2.2.3],,Female,15 to 49 years old,Percent,31.7
-2016,Normal value,Units,UDHS,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",,Female,15 to 49 years old,Percent,29.9
-2016,Normal value,Units,UDHS,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",,Female,15 to 49 years old,Percent,39.2
+2016,Normal value,Units,Uganda Demographic and Health Survey,"""Proportion of women aged 15-49 years with anaemia",,,15 to 50 years old,Percent,29.9
+2016,Normal value,Units,UDHS,"""Proportion of women aged 15-49 years with anaemia",,Female,15 to 49 years old,Percent,29.9
+2016,Normal value,Units,Uganda Demographic and Health Survey,"""Proportion of women aged 15-49 years with anaemia",,,15 to 51 years old,Percent,39.2
+2016,Normal value,Units,UDHS,"""Proportion of women aged 15-49 years with anaemia",,Female,15 to 49 years old,Percent,39.2

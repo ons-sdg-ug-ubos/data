@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from MOFPED",
+                "Ministry of Finance and Economic Development",
                 ""
               ]
             }
@@ -75,7 +75,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

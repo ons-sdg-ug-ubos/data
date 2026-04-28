@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNHS",
+                "Uganda National Household Survey",
                 ""
               ]
             },
@@ -68,6 +68,18 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

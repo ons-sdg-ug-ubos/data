@@ -1,8 +1,11 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,A,0,HMIS,SH_HAP_HBSAG,,PER_100000_POP,54.4
-2016,A,0,HMIS,SH_HAP_HBSAG,,PER_100000_POP,1.2
-2017,A,0,HMIS,SH_HAP_HBSAG,,PER_100000_POP,1.0
-2018,A,0,HMIS,SH_HAP_HBSAG,,PER_100000_POP,0.6
-2019,A,0,HMIS,SH_HAP_HBSAG,,PER_100000_POP,0.8
-2020,A,0,HMIS,SH_HAP_HBSAG,,PER_100000_POP,25.0
-2021,A,0,HMIS,SH_HAP_HBSAG,,PER_100000_POP,60.0
+2015,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,54.4
+2016,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,1.2
+2017,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,1.0
+2018,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,0.6
+2019,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,0.8
+2020,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,81.0
+2021,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,65.0
+2022,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,62.0
+2023,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,86.0
+2024,A,0,Health Management Information System (HMIS) from Ministry of Health,SH_HAP_HBSAG,,PT,78.0

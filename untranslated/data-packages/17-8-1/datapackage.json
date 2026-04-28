@@ -35,6 +35,16 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UCC",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -59,6 +69,7 @@
             "constraints": {
               "enum": [
                 "_L_UG_FIXED_INTERNET",
+                "_L_UG_INTERNET",
                 "_L_UG_MOBILE_INTERNET",
                 ""
               ]
@@ -69,6 +80,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "PT",
                 "NUMBER",
                 ""
               ]
@@ -86,7 +98,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

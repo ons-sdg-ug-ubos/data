@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NFA Land use land cover biomass study",
+                "National Forestry Authority",
                 ""
               ]
             },
@@ -82,7 +82,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

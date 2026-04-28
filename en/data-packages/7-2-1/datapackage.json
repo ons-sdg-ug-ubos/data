@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from MEMD",
+                "MINISTRY OF ENERGY AND MINERAL DEVELOPMENT",
                 ""
               ]
             },

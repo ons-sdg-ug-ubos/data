@@ -1,4 +1,6 @@
-Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2016,A,0,NPHC,SP_LGL_LNDDOC,,PT,21.7
-2017,A,0,NPHC,SP_LGL_LNDDOC,,PT,36.0
-2024,A,0,NPHC,SP_LGL_LNDDOC,,PT,58.0
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2016,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,,PT,21.7
+2017,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,,PT,36.0
+2024,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,,PT,58.0
+2024,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,F,PT,57.0
+2024,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,M,PT,58.8

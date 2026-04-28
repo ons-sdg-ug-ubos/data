@@ -1,21 +1,26 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
-2017,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,,,Percent,80.0
-2020,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,,,Percent,79.0
-2017,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,,Rural,Percent,74.9
-2020,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,,Rural,Percent,75.0
-2017,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,,Urban,Percent,92.3
-2020,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,,Urban,Percent,91.0
-2017,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,Female,,Percent,82.0
-2020,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,Female,,Percent,80.1
-2017,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,Male,,Percent,78.9
-2020,Normal value,Units,UNHS,Proportion of population using basic drinking water services [1.4.1],,Male,,Percent,77.5
-2017,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,,,Percent,92.8
-2020,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,,,Percent,95.0
-2017,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,,Rural,Percent,90.7
-2020,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,,Rural,Percent,97.0
-2017,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,,Urban,Percent,98.0
-2020,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,,Urban,Percent,91.0
-2017,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,Female,,Percent,91.5
-2020,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,Female,,Percent,91.0
-2017,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,Male,,Percent,93.3
-2020,Normal value,Units,UNHS,Proportion of population using basic sanitation services [1.4.1],,Male,,Percent,94.0
+Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Source details,Value
+2017,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,,Percent,UNHS,80.0
+2020,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,,Percent,UNHS,79.0
+2024,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,,Percent,UNHS,70.9
+2017,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,Rural,Percent,UNHS,74.9
+2020,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,Rural,Percent,UNHS,75.0
+2024,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,Rural,Percent,UNHS,65.8
+2017,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,Urban,Percent,UNHS,92.3
+2020,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,Urban,Percent,UNHS,91.0
+2024,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,,Urban,Percent,UNHS,79.6
+2017,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,Female,,Percent,UNHS,82.0
+2020,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,Female,,Percent,UNHS,80.1
+2024,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,Female,,Percent,UNHS,71.2
+2017,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,Male,,Percent,UNHS,78.9
+2020,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,Male,,Percent,UNHS,77.5
+2024,Normal value,Units,Proportion of population using basic drinking water services [1.4.1],,Male,,Percent,UNHS,70.7
+2017,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,,,Percent,UNHS,92.8
+2020,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,,,Percent,UNHS,95.0
+2017,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,,Rural,Percent,UNHS,90.7
+2020,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,,Rural,Percent,UNHS,97.0
+2017,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,,Urban,Percent,UNHS,98.0
+2020,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,,Urban,Percent,UNHS,91.0
+2017,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,Female,,Percent,UNHS,91.5
+2020,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,Female,,Percent,UNHS,91.0
+2017,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,Male,,Percent,UNHS,93.3
+2020,Normal value,Units,Proportion of population using basic sanitation services [1.4.1],,Male,,Percent,UNHS,94.0

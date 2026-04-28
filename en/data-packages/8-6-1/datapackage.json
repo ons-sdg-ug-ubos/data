@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "UNHS",
+                "Uganda National Household Survey",
                 ""
               ]
             },
@@ -53,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",
+                "\"Proportion of youth not in education",
                 ""
               ]
             },
@@ -87,6 +88,8 @@
             "constraints": {
               "enum": [
                 "15 to 24 years old",
+                "15 to 26 years old",
+                "15 to 25 years old",
                 ""
               ]
             },

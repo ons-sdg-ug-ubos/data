@@ -54,6 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of population who believe decision-making is inclusive and responsive [16.7.2]",
                 "Proportion of population who believe decision-making is responsive [16.7.2]",
                 ""
               ]

@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "NLFS",
+                "NATIONAL LABOUR FORCE SURVEY",
                 ""
               ]
             },
@@ -54,6 +55,7 @@
             "constraints": {
               "enum": [
                 "Fatal occupational injuries among employees (rate) [8.8.1]",
+                "Non-fatal occupational injuries among employees (rate) [8.8.1]",
                 ""
               ]
             },
@@ -87,6 +89,7 @@
             "constraints": {
               "enum": [
                 "Percent",
+                "Per 100,000 workers exposed to risk",
                 ""
               ]
             },

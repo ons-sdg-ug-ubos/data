@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2018,Normal value,Units,Food and Agriculture Organization of the United Nations (FAO),Proportion of countries where the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control [5.a.2],,Score,1
+2021,Normal value,Units,Food and Agriculture Organization of the United Nations (FAO),Proportion of countries where the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control [5.a.2],,Score,2
+2024,Normal value,Units,Food and Agriculture Organization of the United Nations (FAO),Proportion of countries where the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control [5.a.2],,Score,2

@@ -87,6 +87,16 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uganda Demographic Health Survey",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

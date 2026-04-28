@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual Crime Report",
+                "Uganda Police Force",
                 ""
               ]
             }
@@ -49,7 +49,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "VC_HTF_DETV",
                 "VC_HTF_DETVR",
+                "VC_VAW_DIST",
                 ""
               ]
             }
@@ -68,7 +70,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_1000_POP",
+                "NUMBER",
+                "PER_100000_POP",
                 ""
               ]
             }

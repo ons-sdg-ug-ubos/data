@@ -35,6 +35,17 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uganda Demographic Health Survey",
+                "NGPSS",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -58,6 +69,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "F",
                 "M",
                 ""
               ]
@@ -88,18 +100,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
                 "2017",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NGPSS",
                 ""
               ]
             }

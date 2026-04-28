@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NGPSS",
+                "UBOS",
                 ""
               ]
             },
@@ -91,17 +91,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017",
-                ""
-              ]
-            },
-            "title": "Time period details"
           },
           {
             "name": "Value",

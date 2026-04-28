@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "UNHS",
+                "Uganda National Household Survey",
                 ""
               ]
             }
@@ -80,6 +81,8 @@
             "constraints": {
               "enum": [
                 "Y15T24",
+                "Y15T26",
+                "Y15T25",
                 ""
               ]
             }

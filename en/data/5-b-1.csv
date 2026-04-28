@@ -1,7 +1,10 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2017,Normal value,Units,UNHS,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,73.0
-2020,Normal value,Units,UNHS,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,49.5
-2017,Normal value,Units,UNHS,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,62.0
-2020,Normal value,Units,UNHS,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,42.1
-2017,Normal value,Units,UNHS,Proportion of individuals who own a mobile telephone [5.b.1],,Male,Percent,81.0
-2020,Normal value,Units,UNHS,Proportion of individuals who own a mobile telephone [5.b.1],,Male,Percent,57.6
+2017,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,73.0
+2020,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,49.5
+2024,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,56.5
+2017,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,62.0
+2020,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,42.1
+2024,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,50.5
+2017,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,Male,Percent,81.0
+2020,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,Male,Percent,57.6
+2024,Normal value,Units,Uganda National Health Survey,Proportion of individuals who own a mobile telephone [5.b.1],,Male,Percent,63.4

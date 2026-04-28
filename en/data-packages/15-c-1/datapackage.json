@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data from UWA",
+                "Uganda Wildlife Authority",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1,15.c.1]",
+                "\"Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1",
                 ""
               ]
             },

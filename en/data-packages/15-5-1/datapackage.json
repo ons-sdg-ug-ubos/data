@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Red List Report of threatened species in Uganda 2018",
+                "Uganda Wildlife Authority",
                 ""
               ]
             },

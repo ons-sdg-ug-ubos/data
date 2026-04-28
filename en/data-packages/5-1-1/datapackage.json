@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UN WOMEN",
+                "Ministry of Gender, Labour and Social Development",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life. [5.1.1]",
+                "\"Legal frameworks that promote",
                 ""
               ]
             },
@@ -82,7 +82,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

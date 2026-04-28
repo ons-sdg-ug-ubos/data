@@ -1,1 +1,1 @@
-{"Year":[2017],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SERIES":["SG_PLN_PRPOLRES"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"TIME_DETAIL":["2017"],"Value":[88]}
+{"Year":[2017,2017],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SERIES":["SG_PLN_PRPOLRES","SG_PLN_REPOLRES"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"TIME_DETAIL":["2017",null],"SOURCE_DETAIL":[null,"OPM"],"Value":[88,88]}

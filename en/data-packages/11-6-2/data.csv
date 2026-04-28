@@ -1,2 +1,10 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2024,Normal value,Units,Administrative Data,"Annual mean levels of fine particulate matter (population-weighted), by location [11.6.2]",,Micrograms per cubic meter,42.26
+2017,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,53.71
+2018,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,59.1
+2019,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,55.18
+2020,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,42.74
+2021,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,36.95
+2022,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,34.32
+2023,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,39.92
+2024,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,42.26
+2025,Normal value,Units,Airqo,"""Annual mean levels of fine particulate matter (population-weighted)",,Micrograms per cubic meter,37.81

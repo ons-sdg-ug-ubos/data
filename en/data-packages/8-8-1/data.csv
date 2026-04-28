@@ -11,3 +11,6 @@ Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex
 2018,Normal value,Units,NLFS,Fatal occupational injuries among employees (rate) [8.8.1],,Male,Percent,9
 2019,Normal value,Units,NLFS,Fatal occupational injuries among employees (rate) [8.8.1],,Male,Percent,0
 2020,Normal value,Units,NLFS,Fatal occupational injuries among employees (rate) [8.8.1],,Male,Percent,1
+2017,Normal value,Units,NATIONAL LABOUR FORCE SURVEY,Non-fatal occupational injuries among employees (rate) [8.8.1],,,"Per 100,000 workers exposed to risk",29650
+2017,Normal value,Units,NATIONAL LABOUR FORCE SURVEY,Non-fatal occupational injuries among employees (rate) [8.8.1],,Female,"Per 100,000 workers exposed to risk",29320
+2017,Normal value,Units,NATIONAL LABOUR FORCE SURVEY,Non-fatal occupational injuries among employees (rate) [8.8.1],,Male,"Per 100,000 workers exposed to risk",29750
