@@ -54,9 +54,13 @@ inputs:
     import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
+    indicator_id_map:
+     ER_WLD_TRPOACH: 15-7-1
+     VC_DSR_DAFF: 1-5-1
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
+ 
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
@@ -180,6 +184,4 @@ indicator_options:
   observation_attributes:
     - COMMENT_OBS
     - SOURCE_DETAIL
-indicator_id_map:
- ER_WLD_TRPOACH: 15-7-1
- VC_DSR_DAFF: 1-5-1
+
