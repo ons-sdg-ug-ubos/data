@@ -1,9 +1,4 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Normal value,Units,Sendai Framework database,"""Number of directly affected persons attributed to disasters per 100",,"Per 100,000 population",1.24
-2016,Normal value,Units,Sendai Framework database,"""Number of directly affected persons attributed to disasters per 100",,"Per 100,000 population",0.34
-2017,Normal value,Units,Sendai Framework database,"""Number of directly affected persons attributed to disasters per 100",,"Per 100,000 population",1.48
-2018,Normal value,Units,Sendai Framework database,"""Number of directly affected persons attributed to disasters per 100",,"Per 100,000 population",103.0
-2020,Normal value,Units,Sendai Framework database,"""Number of directly affected persons attributed to disasters per 100",,"Per 100,000 population",130.0
 2015,Normal value,Units,NDP III,"""Number of deaths and missing persons attributed to disasters per 100",,"Per 100,000 population",1.24
 2016,Normal value,Units,NDP III,"""Number of deaths and missing persons attributed to disasters per 100",,"Per 100,000 population",0.34
 2017,Normal value,Units,NDP III,"""Number of deaths and missing persons attributed to disasters per 100",,"Per 100,000 population",1.48

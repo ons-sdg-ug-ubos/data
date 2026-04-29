@@ -39,7 +39,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sendai Framework database",
                 "NDP III",
                 ""
               ]
@@ -50,7 +49,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "VC_DSR_DAFF",
                 "VC_DSR_MTMP",
                 ""
               ]

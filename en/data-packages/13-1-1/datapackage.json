@@ -42,7 +42,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sendai Framework database",
                 "NDP III",
                 ""
               ]
@@ -54,7 +53,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Number of directly affected persons attributed to disasters per 100",
                 "\"Number of deaths and missing persons attributed to disasters per 100",
                 ""
               ]
