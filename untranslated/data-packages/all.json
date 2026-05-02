@@ -42,6 +42,7 @@
             "constraints": {
               "enum": [
                 "_L_160103_01",
+                "_L_UG_160103_3",
                 "VC_VOV_PHYL",
                 "VC_VOV_SEXL",
                 ""
