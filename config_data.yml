@@ -66,6 +66,8 @@ inputs:
      SG_HAZ_CMRSTHOLM: 12-4-1
      SG_HAZ_CMRBASEL: 12-4-1
      SG_HAZ_CMRMNMT: 12-4-1
+     ER_CBD_ORSPGRFA: 15-6-1
+     ER_CBD_ABSCLRHS: 15-6-1
      
     request_params: 
       headers: 
