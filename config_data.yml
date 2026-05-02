@@ -58,6 +58,11 @@ inputs:
      ER_WLD_TRPOACH: 15-7-1
      VC_DSR_DAFF: 1-5-1
      _L_UG_100A01_1: 10-a-1
+     _L_UG_110401_1: 11-4-1
+     _L_UG_110401_2: 11-4-1
+     GB_XPD_CULNAT_PBPV: 11-4-1
+     GB_XPD_NAT_PBPV: 11-4-1
+     
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
