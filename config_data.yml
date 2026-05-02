@@ -62,6 +62,10 @@ inputs:
      _L_UG_110401_2: 11-4-1
      GB_XPD_CULNAT_PBPV: 11-4-1
      GB_XPD_NAT_PBPV: 11-4-1
+     SG_HAZ_CMRMNTRL: 12-4-1
+     SG_HAZ_CMRSTHOLM: 12-4-1
+     SG_HAZ_CMRBASEL: 12-4-1
+     SG_HAZ_CMRMNMT: 12-4-1
      
     request_params: 
       headers: 
