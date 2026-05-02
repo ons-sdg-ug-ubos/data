@@ -290,6 +290,293 @@
       "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
     },
     {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minitry of Finance, Planning and Economic Development",
+                "Administrative data from MOFPED",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_160601_1",
+                "GF_XPD_GBPC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_ACCOUNTABILITY",
+                "_L_UG_ADMINISTRATION_OF_JUSTICE",
+                "_L_UG_AGRICULTURE",
+                "_L_UG_AGRO_INDUSTRIALIZATION",
+                "_L_UG_COMM_MOBILIZATION_AND_MINDSET_CHANGE",
+                "_L_UG_DEVELOPMENT_PLAN_IMPLEMENTATION",
+                "_L_UG_DIGITAL_TRANSFORMATION",
+                "_L_UG_EDUCATION",
+                "_L_UG_ENERGY_AND_MINERAL_DEVELOPMENT",
+                "_L_UG_GOVERNANCE_AND_SECURITY",
+                "_L_UG_HEALTH",
+                "_L_UG_HUMAN_CAPITAL_DEVELOPMENT",
+                "_L_UG_ICT",
+                "_L_UG_ITIS",
+                "_L_UG_JLOS",
+                "_L_UG_LANDS_HOUSING_AND_URBAN_DEVELOPMENT",
+                "_L_UG_LEGISLATURE",
+                "_L_UG_MANUFACTURING",
+                "_L_UG_MINERAL_DEVELOPMENT",
+                "_L_UG_NECCLAWM",
+                "_L_UG_PRIVATESECTORDEVELOPMENT",
+                "_L_UG_PUBLIC_ADMINISTRATION",
+                "_L_UG_PUBLIC_SECTOR_MANAGEMENT",
+                "_L_UG_PUBLIC_SECTOR_TRANSFORMATION",
+                "_L_UG_REGIONAL_BALANCED_DEVELOPMENT",
+                "_L_UG_SECURITY",
+                "_L_UG_SOCIAL_DEVELOPMENT",
+                "_L_UG_STI",
+                "_L_UG_SUSTAINABLE_ENERGY_DEVELOPMENT",
+                "_L_UG_SUSTAINABLE_PETROLEUM_DEVELOPMENT",
+                "_L_UG_SUSTAINABLE_URBAN_DEVELOPMENT",
+                "_L_UG_TECHNOLOGY_TRANSFER_AND_DEVELOPMENT",
+                "_L_UG_TOURISM_DEVELOPMENT",
+                "_L_UG_TOURISM_TRADE_AND_INDUSTRY",
+                "_L_UG_WATER_AND_ENVIRONMENT",
+                "_L_UG_WORKS_AND_TRANSPORT",
+                "_L_UG_WATER_AND_TRANSPORT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Parliament of Uganda",
+                "Administrative Data",
+                "NGPSS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_160701_1",
+                "SG_DMK_JDC_HGR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCO08_2612",
+                "ISCO08_2619R",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_UG_DISABLED_JUDICIARY",
+                "_L_UG_FEMALE_JUDICIARY",
+                "_L_UG_JUDGES_OF_THE_HIGH_COURT",
+                "_L_UG_JUSTICES_OF_THE_COURT_OF_APPEAL",
+                "_L_UG_JUSTICES_OF_THE_SUPREME_COURT",
+                "_L_UG_MAGISTRATES_GRADE_I",
+                "_L_UG_MAGISTRATES_GRADE_II",
+                "_L_UG_MALE_JUDICIARY",
+                "_L_UG_TOTAL_OFFICERS_JUDICIARY",
+                "_L_UG_REGISTRARS",
+                "_L_UG_CHIEF_MAGISTRATE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PWD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                "2017",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+    },
+    {
       "path": "15-1-1/data.csv",
       "name": "15-1-1",
       "profile": "tabular-data-resource",
@@ -3282,123 +3569,6 @@
       "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Administrative data from MOFPED",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "GF_XPD_GBPC",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_UG_ACCOUNTABILITY",
-                "_L_UG_AGRICULTURE",
-                "_L_UG_EDUCATION",
-                "_L_UG_ENERGY_AND_MINERAL_DEVELOPMENT",
-                "_L_UG_HEALTH",
-                "_L_UG_ICT",
-                "_L_UG_JLOS",
-                "_L_UG_LANDS_HOUSING_AND_URBAN_DEVELOPMENT",
-                "_L_UG_LEGISLATURE",
-                "_L_UG_PUBLIC_ADMINISTRATION",
-                "_L_UG_PUBLIC_SECTOR_MANAGEMENT",
-                "_L_UG_SECURITY",
-                "_L_UG_SOCIAL_DEVELOPMENT",
-                "_L_UG_STI",
-                "_L_UG_TOURISM_TRADE_AND_INDUSTRY",
-                "_L_UG_WATER_AND_ENVIRONMENT",
-                "_L_UG_WATER_AND_TRANSPORT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
-    },
-    {
       "path": "17-1-1/data.csv",
       "name": "17-1-1",
       "profile": "tabular-data-resource",
@@ -5786,140 +5956,6 @@
         ]
       },
       "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
-    },
-    {
-      "path": "16-7-1/data.csv",
-      "name": "16-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Administrative Data",
-                "NGPSS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SG_DMK_JDC_HGR",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCO08_2612",
-                "ISCO08_2619R",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_L_UG_DISABLED_JUDICIARY",
-                "_L_UG_FEMALE_JUDICIARY",
-                "_L_UG_JUDGES_OF_THE_HIGH_COURT",
-                "_L_UG_JUSTICES_OF_THE_COURT_OF_APPEAL",
-                "_L_UG_JUSTICES_OF_THE_SUPREME_COURT",
-                "_L_UG_MAGISTRATES_GRADE_I",
-                "_L_UG_MAGISTRATES_GRADE_II",
-                "_L_UG_MALE_JUDICIARY",
-                "_L_UG_TOTAL_OFFICERS_JUDICIARY",
-                "_L_UG_REGISTRARS",
-                "_L_UG_CHIEF_MAGISTRATE",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                "2017",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "5-c-1/data.csv",

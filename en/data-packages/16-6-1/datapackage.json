@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Minitry of Finance, Planning and Economic Development",
                 "Administrative data from MOFPED",
                 ""
               ]
@@ -53,6 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "\"Primary government expenditures as a proportion of original approved budget",
                 "Primary government expenditures as a proportion of original approved budget [16.6.1]",
                 ""
               ]
@@ -75,21 +77,41 @@
             "constraints": {
               "enum": [
                 "Primary Government Expenditure on Accountability",
+                "Primary Government Expenditure on Administration of justice",
                 "Primary Government expenditure on Agriculture",
+                "Primary Government Expenditure on Agro-Industrialization",
+                "Primary Government Expenditure on Community Mobilization and Mindset Change",
+                "Primary Government Expenditure on Development plan implementation",
+                "Primary Government Expenditure on Digital Transformation",
                 "Primary Government expenditure on Education",
                 "Primary Government expenditure on Energy and Mineral Development",
+                "Primary Government Expenditure on Governance and Security",
                 "Primary Government expenditure on Health",
+                "Primary Government Expenditure on Human Capital Development",
                 "Primary Government expenditure on ICT",
+                "Primary Government Expenditure on Integrated Transport Infrastructure and Services",
                 "Primary Government expenditure on JLOS",
                 "\"Primary Government expenditure on Lands",
                 "Primary Government expenditure on Legislature",
+                "Primary Government Expenditure on Manufacturing",
+                "Primary Government Expenditure on Mineral Development",
+                "\"Primary Government Expenditure on Natural Resources",
+                "Primary Government Expenditure on Private Sector Development",
                 "Primary Government expenditure on Public Administration",
                 "Primary Government expenditure on Public Sector Management",
+                "Primary Government Expenditure on Public Sector Transformation",
+                "Primary Government Expenditure on Regional Balanced Development",
                 "Primary Government expenditure on Security",
                 "Primary Government expenditure on Social Development",
                 "\"Primary Government expenditure on Science",
+                "Primary Government Expenditure on Sustainable Energy Development",
+                "Primary Government Expenditure on Sustainable Petroleum Development",
+                "Primary Government Expenditure on Sustainable Urban Development",
+                "Primary Government Expenditure on Technology Transfer and Development",
+                "Primary Government Expenditure on Tourism Development",
                 "\"Primary Government expenditure on Tourism",
                 "Primary Government expenditure on Water and Environment",
+                "Primary Government Expenditure on Works and Transport",
                 "Primary Government expenditure on Water and Transport",
                 ""
               ]
@@ -120,7 +142,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

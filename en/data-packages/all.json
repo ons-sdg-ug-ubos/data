@@ -317,6 +317,316 @@
       "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
     },
     {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minitry of Finance, Planning and Economic Development",
+                "Administrative data from MOFPED",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "\"Primary government expenditures as a proportion of original approved budget",
+                "Primary government expenditures as a proportion of original approved budget [16.6.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary Government Expenditure on Accountability",
+                "Primary Government Expenditure on Administration of justice",
+                "Primary Government expenditure on Agriculture",
+                "Primary Government Expenditure on Agro-Industrialization",
+                "Primary Government Expenditure on Community Mobilization and Mindset Change",
+                "Primary Government Expenditure on Development plan implementation",
+                "Primary Government Expenditure on Digital Transformation",
+                "Primary Government expenditure on Education",
+                "Primary Government expenditure on Energy and Mineral Development",
+                "Primary Government Expenditure on Governance and Security",
+                "Primary Government expenditure on Health",
+                "Primary Government Expenditure on Human Capital Development",
+                "Primary Government expenditure on ICT",
+                "Primary Government Expenditure on Integrated Transport Infrastructure and Services",
+                "Primary Government expenditure on JLOS",
+                "\"Primary Government expenditure on Lands",
+                "Primary Government expenditure on Legislature",
+                "Primary Government Expenditure on Manufacturing",
+                "Primary Government Expenditure on Mineral Development",
+                "\"Primary Government Expenditure on Natural Resources",
+                "Primary Government Expenditure on Private Sector Development",
+                "Primary Government expenditure on Public Administration",
+                "Primary Government expenditure on Public Sector Management",
+                "Primary Government Expenditure on Public Sector Transformation",
+                "Primary Government Expenditure on Regional Balanced Development",
+                "Primary Government expenditure on Security",
+                "Primary Government expenditure on Social Development",
+                "\"Primary Government expenditure on Science",
+                "Primary Government Expenditure on Sustainable Energy Development",
+                "Primary Government Expenditure on Sustainable Petroleum Development",
+                "Primary Government Expenditure on Sustainable Urban Development",
+                "Primary Government Expenditure on Technology Transfer and Development",
+                "Primary Government Expenditure on Tourism Development",
+                "\"Primary Government expenditure on Tourism",
+                "Primary Government expenditure on Water and Environment",
+                "Primary Government Expenditure on Works and Transport",
+                "Primary Government expenditure on Water and Transport",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Parliament of Uganda",
+                "Administrative Data",
+                "NGPSS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "\"Proportions of positions (by sex",
+                "\"Proportions of positions in the judiciary compared to national distributions",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Judges",
+                "Registrars included in 2619 - Legal Professionals Not Elsewhere Classified",
+                ""
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                "\"Positions In Judiciary",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons without disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                "2017",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+    },
+    {
       "path": "15-1-1/data.csv",
       "name": "15-1-1",
       "profile": "tabular-data-resource",
@@ -3601,133 +3911,6 @@
       "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Administrative data from MOFPED",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary government expenditures as a proportion of original approved budget [16.6.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary Government Expenditure on Accountability",
-                "Primary Government expenditure on Agriculture",
-                "Primary Government expenditure on Education",
-                "Primary Government expenditure on Energy and Mineral Development",
-                "Primary Government expenditure on Health",
-                "Primary Government expenditure on ICT",
-                "Primary Government expenditure on JLOS",
-                "\"Primary Government expenditure on Lands",
-                "Primary Government expenditure on Legislature",
-                "Primary Government expenditure on Public Administration",
-                "Primary Government expenditure on Public Sector Management",
-                "Primary Government expenditure on Security",
-                "Primary Government expenditure on Social Development",
-                "\"Primary Government expenditure on Science",
-                "\"Primary Government expenditure on Tourism",
-                "Primary Government expenditure on Water and Environment",
-                "Primary Government expenditure on Water and Transport",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
-    },
-    {
       "path": "17-1-1/data.csv",
       "name": "17-1-1",
       "profile": "tabular-data-resource",
@@ -6345,152 +6528,6 @@
         ]
       },
       "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
-    },
-    {
-      "path": "16-7-1/data.csv",
-      "name": "16-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Administrative Data",
-                "NGPSS",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "\"Proportions of positions in the judiciary compared to national distributions",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Judges",
-                "Registrars included in 2619 - Legal Professionals Not Elsewhere Classified",
-                ""
-              ]
-            },
-            "title": "Occupation"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                "\"Positions In Judiciary",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                "2017",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "5-c-1/data.csv",

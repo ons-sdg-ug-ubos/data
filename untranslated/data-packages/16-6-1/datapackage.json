@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Minitry of Finance, Planning and Economic Development",
                 "Administrative data from MOFPED",
                 ""
               ]
@@ -49,6 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_UG_160601_1",
                 "GF_XPD_GBPC",
                 ""
               ]
@@ -69,21 +71,41 @@
             "constraints": {
               "enum": [
                 "_L_UG_ACCOUNTABILITY",
+                "_L_UG_ADMINISTRATION_OF_JUSTICE",
                 "_L_UG_AGRICULTURE",
+                "_L_UG_AGRO_INDUSTRIALIZATION",
+                "_L_UG_COMM_MOBILIZATION_AND_MINDSET_CHANGE",
+                "_L_UG_DEVELOPMENT_PLAN_IMPLEMENTATION",
+                "_L_UG_DIGITAL_TRANSFORMATION",
                 "_L_UG_EDUCATION",
                 "_L_UG_ENERGY_AND_MINERAL_DEVELOPMENT",
+                "_L_UG_GOVERNANCE_AND_SECURITY",
                 "_L_UG_HEALTH",
+                "_L_UG_HUMAN_CAPITAL_DEVELOPMENT",
                 "_L_UG_ICT",
+                "_L_UG_ITIS",
                 "_L_UG_JLOS",
                 "_L_UG_LANDS_HOUSING_AND_URBAN_DEVELOPMENT",
                 "_L_UG_LEGISLATURE",
+                "_L_UG_MANUFACTURING",
+                "_L_UG_MINERAL_DEVELOPMENT",
+                "_L_UG_NECCLAWM",
+                "_L_UG_PRIVATESECTORDEVELOPMENT",
                 "_L_UG_PUBLIC_ADMINISTRATION",
                 "_L_UG_PUBLIC_SECTOR_MANAGEMENT",
+                "_L_UG_PUBLIC_SECTOR_TRANSFORMATION",
+                "_L_UG_REGIONAL_BALANCED_DEVELOPMENT",
                 "_L_UG_SECURITY",
                 "_L_UG_SOCIAL_DEVELOPMENT",
                 "_L_UG_STI",
+                "_L_UG_SUSTAINABLE_ENERGY_DEVELOPMENT",
+                "_L_UG_SUSTAINABLE_PETROLEUM_DEVELOPMENT",
+                "_L_UG_SUSTAINABLE_URBAN_DEVELOPMENT",
+                "_L_UG_TECHNOLOGY_TRANSFER_AND_DEVELOPMENT",
+                "_L_UG_TOURISM_DEVELOPMENT",
                 "_L_UG_TOURISM_TRADE_AND_INDUSTRY",
                 "_L_UG_WATER_AND_ENVIRONMENT",
+                "_L_UG_WORKS_AND_TRANSPORT",
                 "_L_UG_WATER_AND_TRANSPORT",
                 ""
               ]
@@ -111,7 +133,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

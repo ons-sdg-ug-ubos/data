@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Parliament of Uganda",
                 "Administrative Data",
                 "NGPSS",
                 ""
@@ -50,6 +51,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_UG_160701_1",
                 "SG_DMK_JDC_HGR",
                 ""
               ]
@@ -70,6 +72,7 @@
             "constraints": {
               "enum": [
                 "F",
+                "M",
                 ""
               ]
             }
@@ -106,10 +109,21 @@
             }
           },
           {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PWD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
+                "NUMBER",
                 "PT",
                 ""
               ]

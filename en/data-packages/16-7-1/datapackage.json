@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Parliament of Uganda",
                 "Administrative Data",
                 "NGPSS",
                 ""
@@ -54,6 +55,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "\"Proportions of positions (by sex",
                 "\"Proportions of positions in the judiciary compared to national distributions",
                 ""
               ]
@@ -76,6 +78,7 @@
             "constraints": {
               "enum": [
                 "Female",
+                "Male",
                 ""
               ]
             },
@@ -115,10 +118,22 @@
             "title": "Composite breakdown"
           },
           {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons without disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
+                "Number",
                 "Percent",
                 ""
               ]
