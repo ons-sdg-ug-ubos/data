@@ -71,6 +71,9 @@ inputs:
      ER_BDY_SEEA: 15-9-1
      VC_IHR_PSRC: 16-1-1
      VC_HTF_DETVR: 16-2-2
+     _L_UG_160601_1: 16-6-1
+     _L_UG_160701_1: 16-7-1
+     SG_NHR_IMPLN: 16-a-1
      
     request_params: 
       headers: 
