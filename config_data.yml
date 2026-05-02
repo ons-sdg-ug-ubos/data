@@ -57,6 +57,7 @@ inputs:
     indicator_id_map:
      ER_WLD_TRPOACH: 15-7-1
      VC_DSR_DAFF: 1-5-1
+     _L_UG_100A01_1: 10-a-1
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
