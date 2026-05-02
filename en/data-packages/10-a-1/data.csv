@@ -1,1 +1,55 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Type of product,UNIT_MEASURE,Value
+2015,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,59.6
+2016,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,79.9
+2017,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,85.7
+2018,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,86.4
+2019,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,84.1
+2020,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,70.3
+2021,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,65.2332
+2022,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,73.1229
+2023,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,,Percent,67.74629
+2015,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,62.8
+2016,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,77.2
+2017,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,82.5
+2018,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,82.6
+2019,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,83.0
+2020,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,71.8
+2021,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,69.2908
+2022,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,72.3307
+2023,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Agriculture products,Percent,71.71183
+2015,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Arms,Percent,100.0
+2016,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Arms,Percent,100.0
+2019,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Arms,Percent,100.0
+2021,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Arms,Percent,100.0
+2022,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Arms,Percent,100.0
+2015,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,55.8
+2016,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,81.6
+2017,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,84.7
+2018,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,86.6
+2019,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,79.1
+2020,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,67.5
+2021,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,67.4419
+2022,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,68.3128
+2023,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Clothing,Percent,55.17241
+2015,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,59.3
+2016,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,80.3
+2017,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,87.0
+2018,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,87.9
+2019,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,84.6
+2020,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,69.7
+2021,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,63.5982
+2022,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,73.6509
+2023,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Industrial products,Percent,67.0773
+2015,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Oil,Percent,50.0
+2016,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Oil,Percent,100.0
+2017,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Oil,Percent,100.0
+2018,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Oil,Percent,100.0
+2015,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,50.5
+2016,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,88.7
+2017,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,86.3
+2018,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,86.4
+2019,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,87.4
+2020,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,73.3
+2021,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,60.4348
+2022,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,74.4027
+2023,Normal value,Units,ITC/UNCTAD/WTO database,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,,Textiles,Percent,62.33184
