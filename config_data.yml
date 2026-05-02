@@ -74,6 +74,7 @@ inputs:
      _L_UG_160601_1: 16-6-1
      _L_UG_160701_1: 16-7-1
      SG_NHR_IMPLN: 16-a-1
+     _L_UG_160103_3: 16-1-3
      
     request_params: 
       headers: 
