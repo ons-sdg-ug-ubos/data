@@ -39,6 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ministry of Tourism, Wildlife and Antiquetes",
+                "Uganda Wildlife Authority",
                 "Uganda  Wildlife Education Center",
                 ""
               ]
@@ -49,6 +51,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_UG_110401_1",
+                "_L_UG_110401_2",
                 "GB_XPD_CUL_PBPV",
                 "GB_XPD_CULNAT_PBPV",
                 "GB_XPD_NAT_PBPV",
