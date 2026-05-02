@@ -68,6 +68,8 @@ inputs:
      SG_HAZ_CMRMNMT: 12-4-1
      ER_CBD_ORSPGRFA: 15-6-1
      ER_CBD_ABSCLRHS: 15-6-1
+     ER_BDY_SEEA: 15-9-1
+     VC_IHR_PSRC: 16-1-1
      
     request_params: 
       headers: 
