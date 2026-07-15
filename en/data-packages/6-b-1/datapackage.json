@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Water and Environment",
+                "Ministry of Water and Environment- Administrative data",
                 "Indicator 6.6.1 thematic report 2017",
                 ""
               ]

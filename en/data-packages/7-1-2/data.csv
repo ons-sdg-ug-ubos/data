@@ -1,7 +1,8 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2016,Normal value,Units,Uganda Demographic and Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,2.1
-2024,Normal value,Units,Uganda Demographic and Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,3.9
-2016,Normal value,Units,Uganda Demographic and Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Female,Percent,0.2
-2024,Normal value,Units,Uganda Demographic and Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Female,Percent,3.8
-2016,Normal value,Units,Uganda Demographic and Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Male,Percent,0.6
-2024,Normal value,Units,Uganda Demographic and Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Male,Percent,4.2
+2016,Normal value,Units,Uganda Demographic Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,0.6
+2021,Normal value,Units,Uganda Demographic Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,0.1
+2024,Normal value,Units,Uganda Demographic Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,3.0
+2016,Normal value,Units,Uganda Demographic Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Female,Percent,0.2
+2024,Normal value,Units,Uganda Demographic Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Female,Percent,2.9
+2016,Normal value,Units,Uganda Demographic Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Male,Percent,2.1
+2024,Normal value,Units,Uganda Demographic Health Survey,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Male,Percent,3.0

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SURVEY BY BANK OF UGANDA",
+                "Survey by The Bank of Uganda",
                 "Survey by BOU",
                 ""
               ]

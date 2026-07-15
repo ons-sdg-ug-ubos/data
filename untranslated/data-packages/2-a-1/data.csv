@@ -1,21 +1,35 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2015,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,23.5
-2016,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,22.7
-2017,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,23.5
-2018,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,23.3
-2019,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,22.9
-2020,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,23.9
-2021,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,23.8
-2022,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,24.0
-2023,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,24.1
-2024,A,0,Government Finance Statistics (Administrative data),AG_PRD_AGVAS,,PT,24.7
-2015,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.12
-2016,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.13
-2017,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.19
-2018,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.18
-2019,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.15
-2020,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.2
-2021,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.11
-2022,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.12
-2023,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.11
-2024,A,0,Government Finance Statistics (Administrative data),AG_PRD_ORTIND,,RO,0.14
+2009,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,34.05722632177648
+2010,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,32.300434204558414
+2011,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,28.69736882286408
+2012,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,26.934104175425198
+2013,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,26.04452257952013
+2014,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,24.864464499885937
+2015,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,23.53781303337848
+2016,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,22.66032278684218
+2017,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,23.45883538253468
+2018,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,23.25029354229876
+2019,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,22.94550880696198
+2020,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,23.929033720480817
+2021,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,23.84180382720068
+2022,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,24.011722052945903
+2023,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,24.08957468974901
+2024,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,24.61895059862348
+2025,A,0,GFS (Administrative data),AG_PRD_AGVAS,,PT,26.132541626988253
+2009,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.0930718745359434
+2010,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.0989270032057492
+2011,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1142870211961889
+2012,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1109924656132782
+2013,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1074932410203852
+2014,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1309635605565713
+2015,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1180449083107207
+2016,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1263370281550521
+2017,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1893895804564702
+2018,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1793966718304876
+2019,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.0915268854646073
+2020,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.1562514052227836
+2021,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.0614210731833753
+2022,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.0817183367689463
+2023,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.0831124504960662
+2024,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.0790712928417538
+2025,A,0,GFS (Administrative data),AG_PRD_ORTIND,,RO,0.0836110087523795

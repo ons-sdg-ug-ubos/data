@@ -1,4 +1,5 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2016,Normal value,Units,Survey by Ministry of Water and Environment,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,45
-2017,Normal value,Units,Survey by Ministry of Water and Environment,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,59
-2023,Normal value,Units,Survey by Ministry of Water and Environment,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,62
+2016,Normal value,Units,MWE - Survey by MOWE,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,45
+2017,Normal value,Units,MWE - Survey by MOWE,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,45
+2020,Normal value,Units,MWE - Survey by MOWE,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,59
+2023,Normal value,Units,MWE - Survey by MOWE,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,64

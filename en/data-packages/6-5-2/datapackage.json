@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Water and Environment",
+                "MWE - Administrative Data",
                 ""
               ]
             },

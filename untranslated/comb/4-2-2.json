@@ -1,1 +1,1 @@
-{"data":{"Year":[2015],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["Education survey"],"SERIES":["SE_PRE_PARTN"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[63]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}
+{"data":{"Year":[2015],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["Education survey"],"SERIES":["SE_PRE_PARTN"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"Value":[63.3]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

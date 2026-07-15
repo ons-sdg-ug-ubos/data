@@ -1,7 +1,8 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
-2016,A,0,Uganda Demographic and Health Survey,EG_EGY_CLEAN,,,PT,2.1
-2024,A,0,Uganda Demographic and Health Survey,EG_EGY_CLEAN,,,PT,3.9
-2016,A,0,Uganda Demographic and Health Survey,EG_EGY_CLEAN,,F,PT,0.2
-2024,A,0,Uganda Demographic and Health Survey,EG_EGY_CLEAN,,F,PT,3.8
-2016,A,0,Uganda Demographic and Health Survey,EG_EGY_CLEAN,,M,PT,0.6
-2024,A,0,Uganda Demographic and Health Survey,EG_EGY_CLEAN,,M,PT,4.2
+2016,A,0,Uganda Demographic Health Survey,EG_EGY_CLEAN,,,PT,0.6
+2021,A,0,Uganda Demographic Health Survey,EG_EGY_CLEAN,,,PT,0.1
+2024,A,0,Uganda Demographic Health Survey,EG_EGY_CLEAN,,,PT,3.0
+2016,A,0,Uganda Demographic Health Survey,EG_EGY_CLEAN,,F,PT,0.2
+2024,A,0,Uganda Demographic Health Survey,EG_EGY_CLEAN,,F,PT,2.9
+2016,A,0,Uganda Demographic Health Survey,EG_EGY_CLEAN,,M,PT,2.1
+2024,A,0,Uganda Demographic Health Survey,EG_EGY_CLEAN,,M,PT,3.0

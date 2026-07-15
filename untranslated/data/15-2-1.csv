@@ -3,14 +3,14 @@ Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
 2019,A,0,Administrative Data,AG_LND_FRSTCERT,,PT,8.14
 2021,A,0,Administrative Data,AG_LND_FRSTCERT,,PT,8.3
 2023,A,0,Administrative Data,AG_LND_FRSTCERT,,PT,8.7
-2017,A,0,National Forestry Authority,AG_LND_FRSTCHG,,PT,1.87
-2019,A,0,National Forestry Authority,AG_LND_FRSTCHG,,PT,15.63
-2021,A,0,National Forestry Authority,AG_LND_FRSTCHG,,PT,-3.87
-2023,A,0,National Forestry Authority,AG_LND_FRSTCHG,,PT,1.43
-2017,A,0,National Forestry Authority,AG_LND_FRSTPRCT,,PT,104.0
-2019,A,0,National Forestry Authority,AG_LND_FRSTPRCT,,PT,141.0
-2021,A,0,National Forestry Authority,AG_LND_FRSTPRCT,,PT,127.0
-2023,A,0,National Forestry Authority,AG_LND_FRSTPRCT,,PT,132.0
+2017,A,0,National Forestry Authority - Administrative Data,AG_LND_FRSTCHG,,PT,1.87
+2019,A,0,National Forestry Authority - Administrative Data,AG_LND_FRSTCHG,,PT,15.63
+2021,A,0,National Forestry Authority - Administrative Data,AG_LND_FRSTCHG,,PT,-3.87
+2023,A,0,National Forestry Authority - Administrative Data,AG_LND_FRSTCHG,,PT,1.43
+2017,A,0,National Forestry Authority - Administrative Data,AG_LND_FRSTPRCT,,PT,104.0
+2019,A,0,National Forestry Authority - Administrative Data,AG_LND_FRSTPRCT,,PT,141.0
+2021,A,0,National Forestry Authority - Administrative Data,AG_LND_FRSTPRCT,,PT,127.0
+2023,A,0,National Forestry Authority - Administrative Data,AG_LND_FRSTPRCT,,PT,132.0
 2017,A,0,Administrative Data,AG_LND_FRSTPRCTN,,PT,104.0
 2019,A,0,Administrative Data,AG_LND_FRSTPRCTN,,PT,141.0
 2021,A,0,Administrative Data,AG_LND_FRSTPRCTN,,PT,127.0

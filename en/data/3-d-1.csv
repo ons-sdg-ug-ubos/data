@@ -1,1 +1,61 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,"""IHR Capacity: National legislation",Percent,50
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Coordination and National Focal Point communications,Percent,53
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Surveillance,Percent,60
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Response,Percent,76
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Preparedness,Percent,82
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Risk communication,Percent,71
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Human resources,Percent,60
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Laboratory,Percent,100
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Points of entry,Percent,0
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Zoonotic events,Percent,56
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Food safety,Percent,20
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Chemical events,Percent,62
+2017,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,IHR Capacity: Radionuclear emergencies,Percent,69
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Legislation and Financing,Percent,47
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Legislation and Financing,Percent,53
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Legislation and Financing,Percent,73
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: IHR Coordination and National IHR Focal Point Functions,Percent,50
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: IHR Coordination and National IHR Focal Point Functions,Percent,50
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: IHR Coordination and National IHR Focal Point Functions,Percent,60
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Zoonotic events and the human朼nimal interface,Percent,40
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Zoonotic events and the human朼nimal interface,Percent,40
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Zoonotic events and the human朼nimal interface,Percent,60
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Food safety,Percent,20
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Food safety,Percent,40
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Food safety,Percent,40
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Laboratory,Percent,87
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Laboratory,Percent,87
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Laboratory,Percent,93
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Surveillance,Percent,80
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Surveillance,Percent,80
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Surveillance,Percent,80
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Human resources,Percent,80
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Human resources,Percent,80
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Human resources,Percent,80
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: National Health Emergency Framework,Percent,67
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: National Health Emergency Framework,Percent,80
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: National Health Emergency Framework,Percent,73
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Health Service Provision,Percent,53
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Health Service Provision,Percent,67
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Health Service Provision,Percent,73
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Risk Communication,Percent,0
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Risk Communication,Percent,80
+2020,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Risk Communication,Percent,80
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Points of entry,Percent,20
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Points of entry,Percent,40
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Chemical events,Percent,80
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Chemical events,Percent,80
+2018,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Radiation emergencies,Percent,40
+2019,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report: Radiation emergencies,Percent,60
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Surveillance,Percent,70
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Human resources,Percent,80
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Health emergency management,Percent,73
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Health services provision,Percent,67
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Infection prevention and control (IPC),Percent,33
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Risk communication and community engagement (RCCE),Percent,80
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Points of entry (PoEs) and border health,Percent,60
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Zoonotic diseases,Percent,60
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Food safety,Percent,40
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Chemical events,Percent,80
+2021,Normal value,Units,IHR -WHO Global Health Observatory,"""International Health Regulations (IHR) capacity",,State Party Annual Report 2: Radiation emergencies,Percent,80

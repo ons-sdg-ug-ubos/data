@@ -1,51 +1,57 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,Value
-2015,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,60.7
-2016,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,61.5
-2017,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,60.0
-2018,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,62.8
-2019,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,62.9
-2020,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,67.2
-2022,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,68.7
-2023,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,60.6
-2024,Normal value,Units,UNEB,"""Completion rate",,,Primary seven,Percent,63.2
-2015,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,35.8
-2016,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,37.8
-2017,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,34.8
-2018,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,34.2
-2019,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,33.6
-2020,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,32.4
-2022,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,32.2
-2023,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,32.8
-2024,Normal value,Units,UNEB,"""Completion rate",,,Senior four,Percent,32.0
-2016,Normal value,Units,UNEB,"""Completion rate",,Female,Primary seven,Percent,63.4
-2017,Normal value,Units,UNEB,"""Completion rate",,Female,Primary seven,Percent,60.0
-2018,Normal value,Units,UNEB,"""Completion rate",,Female,Primary seven,Percent,65.8
-2019,Normal value,Units,UNEB,"""Completion rate",,Female,Primary seven,Percent,66.5
-2020,Normal value,Units,UNEB,"""Completion rate",,Female,Primary seven,Percent,72.2
-2022,Normal value,Units,UNEB,"""Completion rate",,Female,Primary seven,Percent,72.5
-2023,Normal value,Units,UNEB,"""Completion rate",,Female,Primary seven,Percent,64.3
-2024,Normal value,Units,UNEB,"""Completion rate",,Female,Primary seven,Percent,67.4
-2016,Normal value,Units,UNEB,"""Completion rate",,Female,Senior four,Percent,36.0
-2017,Normal value,Units,UNEB,"""Completion rate",,Female,Senior four,Percent,33.5
-2018,Normal value,Units,UNEB,"""Completion rate",,Female,Senior four,Percent,33.9
-2019,Normal value,Units,UNEB,"""Completion rate",,Female,Senior four,Percent,33.9
-2020,Normal value,Units,UNEB,"""Completion rate",,Female,Senior four,Percent,32.7
-2022,Normal value,Units,UNEB,"""Completion rate",,Female,Senior four,Percent,32.2
-2023,Normal value,Units,UNEB,"""Completion rate",,Female,Senior four,Percent,33.4
-2024,Normal value,Units,UNEB,"""Completion rate",,Female,Senior four,Percent,33.0
-2016,Normal value,Units,UNEB,"""Completion rate",,Male,Primary seven,Percent,59.7
-2017,Normal value,Units,UNEB,"""Completion rate",,Male,Primary seven,Percent,59.3
-2018,Normal value,Units,UNEB,"""Completion rate",,Male,Primary seven,Percent,59.5
-2019,Normal value,Units,UNEB,"""Completion rate",,Male,Primary seven,Percent,59.4
-2020,Normal value,Units,UNEB,"""Completion rate",,Male,Primary seven,Percent,62.0
-2022,Normal value,Units,UNEB,"""Completion rate",,Male,Primary seven,Percent,65.0
-2023,Normal value,Units,UNEB,"""Completion rate",,Male,Primary seven,Percent,57.0
-2024,Normal value,Units,UNEB,"""Completion rate",,Male,Primary seven,Percent,59.1
-2016,Normal value,Units,UNEB,"""Completion rate",,Male,Senior four,Percent,39.6
-2017,Normal value,Units,UNEB,"""Completion rate",,Male,Senior four,Percent,36.2
-2018,Normal value,Units,UNEB,"""Completion rate",,Male,Senior four,Percent,34.5
-2019,Normal value,Units,UNEB,"""Completion rate",,Male,Senior four,Percent,33.4
-2020,Normal value,Units,UNEB,"""Completion rate",,Male,Senior four,Percent,32.1
-2022,Normal value,Units,UNEB,"""Completion rate",,Male,Senior four,Percent,32.1
-2023,Normal value,Units,UNEB,"""Completion rate",,Male,Senior four,Percent,32.2
-2024,Normal value,Units,UNEB,"""Completion rate",,Male,Senior four,Percent,31.0
+2015,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,60.7
+2016,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,61.5
+2017,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,60.0
+2018,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,62.8
+2019,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,62.9
+2020,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,67.2
+2022,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,68.7
+2023,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,60.6
+2024,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,63.2
+2025,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Primary seven,Percent,68.65863487532533
+2015,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,35.8
+2016,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,37.8
+2017,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,34.8
+2018,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,34.2
+2019,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,33.6
+2020,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,32.4
+2022,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,32.2
+2023,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,32.8
+2024,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,32.0
+2025,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,,Senior four,Percent,38.33271243569275
+2016,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,63.4
+2017,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,60.0
+2018,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,65.8
+2019,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,66.5
+2020,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,72.2
+2022,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,72.5
+2023,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,64.3
+2024,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,67.4
+2025,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Primary seven,Percent,74.50408766742042
+2016,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,36.0
+2017,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,33.5
+2018,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,33.9
+2019,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,33.9
+2020,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,32.7
+2022,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,32.2
+2023,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,33.4
+2024,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,33.0
+2025,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Female,Senior four,Percent,41.51411914738568
+2016,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,59.7
+2017,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,59.3
+2018,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,59.5
+2019,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,59.4
+2020,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,62.0
+2022,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,65.0
+2023,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,57.0
+2024,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,59.1
+2025,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Primary seven,Percent,63.2
+2016,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,39.6
+2017,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,36.2
+2018,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,34.5
+2019,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,33.4
+2020,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,32.1
+2022,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,32.1
+2023,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,32.2
+2024,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,31.0
+2025,Normal value,Units,"Administrative data, NPHC 2024","""Completion rate",,Male,Senior four,Percent,35.31408815903198

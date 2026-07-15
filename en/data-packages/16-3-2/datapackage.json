@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Uganda Prisons Services",
+                "Uganda Prisons Services - Administrative Data",
                 ""
               ]
             },

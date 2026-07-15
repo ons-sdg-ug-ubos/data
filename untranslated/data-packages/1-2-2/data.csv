@@ -1,7 +1,10 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,Value
-2017,A,0,UNHS,SD_MDP_MUHC,,,PT,44.3
-2020,A,0,UNHS,SD_MDP_MUHC,,,PT,42.1
-2017,A,0,UNHS,SD_MDP_MUHC,,R,PT,54.0
-2020,A,0,UNHS,SD_MDP_MUHC,,R,PT,50.2
-2017,A,0,UNHS,SD_MDP_MUHC,,U,PT,14.1
-2020,A,0,UNHS,SD_MDP_MUHC,,U,PT,19.7
+2017,A,0,Uganda National Household Survey,SD_MDP_MUHC,,,PT,44.3
+2020,A,0,Uganda National Household Survey,SD_MDP_MUHC,,,PT,42.1
+2024,A,0,Uganda National Household Survey,SD_MDP_MUHC,,,PT,27.0
+2017,A,0,Uganda National Household Survey,SD_MDP_MUHC,,R,PT,54.0
+2020,A,0,Uganda National Household Survey,SD_MDP_MUHC,,R,PT,50.2
+2024,A,0,Uganda National Household Survey,SD_MDP_MUHC,,R,PT,31.5
+2017,A,0,Uganda National Household Survey,SD_MDP_MUHC,,U,PT,14.1
+2020,A,0,Uganda National Household Survey,SD_MDP_MUHC,,U,PT,19.7
+2024,A,0,Uganda National Household Survey,SD_MDP_MUHC,,U,PT,19.3

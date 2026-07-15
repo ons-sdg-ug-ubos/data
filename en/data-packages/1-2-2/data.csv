@@ -1,7 +1,10 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
-2017,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,,Percent,44.3
-2020,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,,Percent,42.1
-2017,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,Rural,Percent,54.0
-2020,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,Rural,Percent,50.2
-2017,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,Urban,Percent,14.1
-2020,Normal value,Units,UNHS,Proportion of population living in multidimensional poverty [1.2.2],,Urban,Percent,19.7
+2017,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,,Percent,44.3
+2020,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,,Percent,42.1
+2024,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,,Percent,27.0
+2017,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,Rural,Percent,54.0
+2020,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,Rural,Percent,50.2
+2024,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,Rural,Percent,31.5
+2017,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,Urban,Percent,14.1
+2020,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,Urban,Percent,19.7
+2024,Normal value,Units,Uganda National Household Survey,Proportion of population living in multidimensional poverty [1.2.2],,Urban,Percent,19.3

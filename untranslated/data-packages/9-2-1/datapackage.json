@@ -70,7 +70,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                "USD",
                 ""
               ]
             }

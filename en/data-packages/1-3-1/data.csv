@@ -1,49 +1,51 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2017,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,2.0
-2020,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,7.5
-2021,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,9.0
-2022,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,12.4
-2023,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,11.3
-2024,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,8.7
-2015,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,2.9
-2016,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,3.7
-2017,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,4.2
-2018,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,3.9
-2019,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,4.1
-2020,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,4.6
-2021,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,5.7
-2022,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,6.9
-2023,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,7.2
-2024,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,5.0
-2015,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,1.7
-2016,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.5
-2017,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.5
-2018,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.5
-2019,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.4
-2020,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.8
-2021,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,3.9
-2022,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,3.5
-2023,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,3.7
-2024,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.6
-2015,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.2
-2016,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.2
-2017,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.7
-2018,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.4
-2019,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.6
-2020,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.8
-2021,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,8.0
-2022,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,11.3
-2023,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,11.5
-2024,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,8.2
-2017,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by social insurance programs [1.3.1],,,Percent,5.0
-2020,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by social insurance programs [1.3.1],,,Percent,7.5
-2021,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by social insurance programs [1.3.1],,,Percent,8.1
-2022,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by social insurance programs [1.3.1],,,Percent,11.7
-2023,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by social insurance programs [1.3.1],,,Percent,10.5
-2024,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of population covered by social insurance programs [1.3.1],,,Percent,7.9
-2017,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Number,0.5
-2020,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Number,0.7
-2021,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Number,353676.0
-2022,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Number,345530.0
-2023,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Number,348955.0
-2024,Normal value,Units,"Ministry of Gender, Labour and Social Development",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Number,347629.0
+2017,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,2.0
+2020,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,7.5
+2021,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,8.8
+2022,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,12.6
+2023,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,11.4
+2024,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,8.9
+2025,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by at least one social protection benefit [1.3.1],,,Percent,11.2
+2015,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,2.9
+2016,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,3.7
+2017,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,4.2
+2018,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,3.9
+2019,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,4.1
+2020,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,4.6
+2021,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,3.8
+2022,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,4.7
+2023,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,4.9
+2024,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,,Percent,3.6
+2015,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,1.7
+2016,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.5
+2017,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.5
+2018,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.5
+2019,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.4
+2020,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.8
+2021,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,3.9
+2022,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,3.5
+2023,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,3.7
+2024,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Female,Percent,2.6
+2015,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.2
+2016,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.2
+2017,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.7
+2018,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.4
+2019,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.6
+2020,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,1.8
+2021,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,8.0
+2022,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,11.3
+2023,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,11.5
+2024,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,8.2
+2025,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population above statutory pensionable age receiving a pension [1.3.1],,Male,Percent,3.7
+2017,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by social insurance programs [1.3.1],,,Percent,5.0
+2020,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by social insurance programs [1.3.1],,,Percent,7.5
+2021,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by social insurance programs [1.3.1],,,Percent,8.1
+2022,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by social insurance programs [1.3.1],,,Percent,11.7
+2023,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by social insurance programs [1.3.1],,,Percent,10.5
+2024,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of population covered by social insurance programs [1.3.1],,,Percent,7.9
+2017,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Percent,0.5
+2020,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Percent,3.7
+2021,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Percent,353676.0
+2022,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Percent,345530.0
+2023,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Percent,348955.0
+2024,Normal value,Units,"Ministry of Gender, Labour and Social Development - Administrative Data",Proportion of vulnerable population receiving social assistance cash benefit [1.3.1],,,Percent,4.7

@@ -42,7 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Water and Environment",
+                "MWE - Administrative Data",
+                "Ministry of Water and Environment- Administrative data",
                 ""
               ]
             },
@@ -53,6 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Lakes and rivers permanent water area change (%) [6.6.1]",
                 "Water body extent (permanent) (% of total land area) [6.6.1]",
                 ""
               ]

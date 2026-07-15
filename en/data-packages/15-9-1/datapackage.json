@@ -42,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CBD-Secretariat, UNEP",
-                "UNEP",
+                "CBD-Secretariat, UNEP - CHM / WESR",
+                "UNEP - UNSD/UNEP Questionnaire on Environment Statistics",
                 ""
               ]
             },

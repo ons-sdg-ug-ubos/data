@@ -1,8 +1,14 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
 2019,Normal value,Units,Administrative data from NWSC,Total wastewater generated (million m3/year) [6.3.1],,Percent,28
 2020,Normal value,Units,Administrative data from NWSC,Total wastewater generated (million m3/year) [6.3.1],,Percent,30
-2020,Normal value,Units,National Water and Sewerage Cooperation,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,83
-2021,Normal value,Units,National Water and Sewerage Cooperation,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,82
-2022,Normal value,Units,National Water and Sewerage Cooperation,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,79
-2023,Normal value,Units,National Water and Sewerage Cooperation,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,68
-2024,Normal value,Units,National Water and Sewerage Cooperation,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,86
+2020,Normal value,Units,National Water and Sewarage Cooperation - Administrative Data,"""Proportion of wastewater safely treated",,Percent,83
+2021,Normal value,Units,National Water and Sewarage Cooperation - Administrative Data,"""Proportion of wastewater safely treated",,Percent,82
+2022,Normal value,Units,National Water and Sewarage Cooperation - Administrative Data,"""Proportion of wastewater safely treated",,Percent,79
+2023,Normal value,Units,National Water and Sewarage Cooperation - Administrative Data,"""Proportion of wastewater safely treated",,Percent,68
+2024,Normal value,Units,National Water and Sewarage Cooperation - Administrative Data,"""Proportion of wastewater safely treated",,Percent,86
+2025,Normal value,Units,National Water and Sewarage Cooperation - Administrative Data,"""Proportion of wastewater safely treated",,Percent,86
+2020,Normal value,Units,National Water and Sewerage Cooperation-Administrative data,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,83
+2021,Normal value,Units,National Water and Sewerage Cooperation-Administrative data,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,82
+2022,Normal value,Units,National Water and Sewerage Cooperation-Administrative data,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,79
+2023,Normal value,Units,National Water and Sewerage Cooperation-Administrative data,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,68
+2024,Normal value,Units,National Water and Sewerage Cooperation-Administrative data,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,86

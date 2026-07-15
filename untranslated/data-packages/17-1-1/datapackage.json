@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "URA",
+                "URA - Administrative Data",
                 ""
               ]
             }

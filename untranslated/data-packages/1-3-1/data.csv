@@ -1,49 +1,51 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
-2017,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_BENFTS,,,PT,2.0
-2020,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_BENFTS,,,PT,7.5
-2021,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_BENFTS,,,PT,9.0
-2022,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_BENFTS,,,PT,12.4
-2023,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_BENFTS,,,PT,11.3
-2024,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_BENFTS,,,PT,8.7
-2015,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,2.9
-2016,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,3.7
-2017,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,4.2
-2018,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,3.9
-2019,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,4.1
-2020,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,4.6
-2021,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,5.7
-2022,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,6.9
-2023,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,7.2
-2024,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,,PT,5.0
-2015,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,1.7
-2016,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,2.5
-2017,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,2.5
-2018,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,2.5
-2019,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,2.4
-2020,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,2.8
-2021,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,3.9
-2022,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,3.5
-2023,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,3.7
-2024,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,F,PT,2.6
-2015,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,1.2
-2016,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,1.2
-2017,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,1.7
-2018,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,1.4
-2019,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,1.6
-2020,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,1.8
-2021,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,8.0
-2022,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,11.3
-2023,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,11.5
-2024,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_PENSN,,M,PT,8.2
-2017,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_SOCINS,,,PT,5.0
-2020,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_SOCINS,,,PT,7.5
-2021,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_SOCINS,,,PT,8.1
-2022,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_SOCINS,,,PT,11.7
-2023,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_SOCINS,,,PT,10.5
-2024,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_SOCINS,,,PT,7.9
-2017,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_VULN,,,NUMBER,0.5
-2020,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_VULN,,,NUMBER,0.7
-2021,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_VULN,,,NUMBER,353676.0
-2022,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_VULN,,,NUMBER,345530.0
-2023,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_VULN,,,NUMBER,348955.0
-2024,A,0,"Ministry of Gender, Labour and Social Development",SI_COV_VULN,,,NUMBER,347629.0
+2017,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_BENFTS,,,PT,2.0
+2020,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_BENFTS,,,PT,7.5
+2021,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_BENFTS,,,PT,8.8
+2022,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_BENFTS,,,PT,12.6
+2023,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_BENFTS,,,PT,11.4
+2024,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_BENFTS,,,PT,8.9
+2025,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_BENFTS,,,PT,11.2
+2015,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,2.9
+2016,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,3.7
+2017,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,4.2
+2018,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,3.9
+2019,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,4.1
+2020,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,4.6
+2021,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,3.8
+2022,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,4.7
+2023,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,4.9
+2024,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,,PT,3.6
+2015,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,1.7
+2016,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,2.5
+2017,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,2.5
+2018,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,2.5
+2019,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,2.4
+2020,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,2.8
+2021,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,3.9
+2022,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,3.5
+2023,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,3.7
+2024,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,F,PT,2.6
+2015,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,1.2
+2016,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,1.2
+2017,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,1.7
+2018,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,1.4
+2019,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,1.6
+2020,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,1.8
+2021,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,8.0
+2022,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,11.3
+2023,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,11.5
+2024,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,8.2
+2025,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_PENSN,,M,PT,3.7
+2017,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_SOCINS,,,PT,5.0
+2020,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_SOCINS,,,PT,7.5
+2021,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_SOCINS,,,PT,8.1
+2022,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_SOCINS,,,PT,11.7
+2023,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_SOCINS,,,PT,10.5
+2024,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_SOCINS,,,PT,7.9
+2017,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_VULN,,,PT,0.5
+2020,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_VULN,,,PT,3.7
+2021,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_VULN,,,PT,353676.0
+2022,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_VULN,,,PT,345530.0
+2023,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_VULN,,,PT,348955.0
+2024,A,0,"Ministry of Gender, Labour and Social Development - Administrative Data",SI_COV_VULN,,,PT,4.7

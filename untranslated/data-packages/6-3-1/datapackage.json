@@ -40,7 +40,8 @@
             "constraints": {
               "enum": [
                 "Administrative data from NWSC",
-                "National Water and Sewerage Cooperation",
+                "National Water and Sewarage Cooperation - Administrative Data",
+                "National Water and Sewerage Cooperation-Administrative data",
                 ""
               ]
             }
@@ -51,6 +52,7 @@
             "constraints": {
               "enum": [
                 "EN_WWT_GEN",
+                "EN_WWT_TREATR_SF",
                 "EN_WWT_WWDS",
                 ""
               ]

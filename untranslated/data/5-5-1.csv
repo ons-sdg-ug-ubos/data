@@ -1,7 +1,6 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2016,A,0,Electoral Commission,SG_GEN_LOCG,,PT,45.7
-2017,A,0,Electoral Commission,SG_GEN_LOCG,,PT,45.7
-2021,A,0,Electoral Commission,SG_GEN_LOCG,,PT,46.0
-2016,A,0,Parliament,SG_GEN_PARL,,PT,34.9
-2017,A,0,Parliament,SG_GEN_PARL,,PT,34.9
-2021,A,0,Parliament,SG_GEN_PARL,,PT,34.0
+2016,A,0,"Electoral Commission, Administrative data",SG_GEN_LOCG,,PT,45.7
+2021,A,0,"Electoral Commission, Administrative data",SG_GEN_LOCG,,PT,46.0
+2016,A,0,"Parliament, Administrative data",SG_GEN_PARL,,PT,34.9
+2017,A,0,"Parliament, Administrative data",SG_GEN_PARL,,PT,34.9
+2021,A,0,"Parliament, Administrative data",SG_GEN_PARL,,PT,34.0

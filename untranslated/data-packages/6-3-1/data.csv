@@ -1,8 +1,14 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
 2019,A,0,Administrative data from NWSC,EN_WWT_GEN,,PT,28
 2020,A,0,Administrative data from NWSC,EN_WWT_GEN,,PT,30
-2020,A,0,National Water and Sewerage Cooperation,EN_WWT_WWDS,,PT,83
-2021,A,0,National Water and Sewerage Cooperation,EN_WWT_WWDS,,PT,82
-2022,A,0,National Water and Sewerage Cooperation,EN_WWT_WWDS,,PT,79
-2023,A,0,National Water and Sewerage Cooperation,EN_WWT_WWDS,,PT,68
-2024,A,0,National Water and Sewerage Cooperation,EN_WWT_WWDS,,PT,86
+2020,A,0,National Water and Sewarage Cooperation - Administrative Data,EN_WWT_TREATR_SF,,PT,83
+2021,A,0,National Water and Sewarage Cooperation - Administrative Data,EN_WWT_TREATR_SF,,PT,82
+2022,A,0,National Water and Sewarage Cooperation - Administrative Data,EN_WWT_TREATR_SF,,PT,79
+2023,A,0,National Water and Sewarage Cooperation - Administrative Data,EN_WWT_TREATR_SF,,PT,68
+2024,A,0,National Water and Sewarage Cooperation - Administrative Data,EN_WWT_TREATR_SF,,PT,86
+2025,A,0,National Water and Sewarage Cooperation - Administrative Data,EN_WWT_TREATR_SF,,PT,86
+2020,A,0,National Water and Sewerage Cooperation-Administrative data,EN_WWT_WWDS,,PT,83
+2021,A,0,National Water and Sewerage Cooperation-Administrative data,EN_WWT_WWDS,,PT,82
+2022,A,0,National Water and Sewerage Cooperation-Administrative data,EN_WWT_WWDS,,PT,79
+2023,A,0,National Water and Sewerage Cooperation-Administrative data,EN_WWT_WWDS,,PT,68
+2024,A,0,National Water and Sewerage Cooperation-Administrative data,EN_WWT_WWDS,,PT,86

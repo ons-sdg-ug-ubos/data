@@ -43,7 +43,8 @@
             "constraints": {
               "enum": [
                 "Administrative data from NWSC",
-                "National Water and Sewerage Cooperation",
+                "National Water and Sewarage Cooperation - Administrative Data",
+                "National Water and Sewerage Cooperation-Administrative data",
                 ""
               ]
             },
@@ -55,6 +56,7 @@
             "constraints": {
               "enum": [
                 "Total wastewater generated (million m3/year) [6.3.1]",
+                "\"Proportion of wastewater safely treated",
                 "Proportion of safely treated domestic wastewater flows [6.3.1]",
                 ""
               ]

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MINISTRY OF ENERGY AND MINERAL DEVELOPMENT",
+                "MINISTRY OF ENERGY AND MINERAL DEVELOPMENT - ADMINISTRATIVE DATA",
                 ""
               ]
             },

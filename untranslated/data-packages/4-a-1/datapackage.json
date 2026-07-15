@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Education and Sports",
+                "Ministry of Education and Sports - Adminsitrative data",
                 "MoES",
                 ""
               ]

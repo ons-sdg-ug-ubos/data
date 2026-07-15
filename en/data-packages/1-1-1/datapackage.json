@@ -38,17 +38,6 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UNHS",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -91,6 +80,17 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNHS",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

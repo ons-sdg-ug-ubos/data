@@ -1,10 +1,10 @@
 Year,OBS_STATUS,UNIT_MULT,SERIES,REF_AREA,SEX,UNIT_MEASURE,TIME_DETAIL,SOURCE_DETAIL,Value
 2016,A,0,_L_160103_01,,F,PT,2016,,55.5
 2016,A,0,_L_160103_01,,M,PT,2016,,53.7
-2016,A,0,_L_UG_160103_3,,F,PT,,Uganda Demographic Health Survey,55.5
-2022,A,0,_L_UG_160103_3,,F,PT,,Uganda Demographic Health Survey,47.5
-2016,A,0,_L_UG_160103_3,,M,PT,,Uganda Demographic Health Survey,53.7
-2022,A,0,_L_UG_160103_3,,M,PT,,Uganda Demographic Health Survey,40.3
+2016,A,0,_L_UG_160103_3,,F,PT,,Uganda Demographic Health Survey,29.9
+2022,A,0,_L_UG_160103_3,,F,PT,,Uganda Demographic Health Survey,29.4
+2016,A,0,_L_UG_160103_3,,M,PT,,Uganda Demographic Health Survey,16.0
+2022,A,0,_L_UG_160103_3,,M,PT,,Uganda Demographic Health Survey,11.3
 2016,A,0,VC_VOV_PHYL,,F,PT,,Uganda Demographic Health Survey,22.5
 2022,A,0,VC_VOV_PHYL,,F,PT,,Uganda Demographic Health Survey,24.8
 2016,A,0,VC_VOV_PHYL,,M,PT,,Uganda Demographic Health Survey,12.0

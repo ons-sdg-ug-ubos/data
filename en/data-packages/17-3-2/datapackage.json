@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOU",
+                "UBOS - NATIONAL ACCOUNTS STATISTICS",
                 ""
               ]
             },

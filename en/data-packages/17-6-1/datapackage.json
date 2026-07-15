@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UCC",
+                "UCC - Administrative data from Internet Service Providers",
                 ""
               ]
             },

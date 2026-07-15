@@ -17,6 +17,35 @@ Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COM
 2019,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Cargo volume for water transport,Tonne kilometres,1845.6
 2020,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Cargo volume for water transport,Tonne kilometres,2110.1
 2021,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Cargo volume for water transport,Tonne kilometres,2834.7
+2014,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,52842.0
+2015,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,54450.0
+2016,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,59556.0
+2017,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,69306.0
+2018,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,63353.0
+2019,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,64731.0
+2020,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,58898.0
+2021,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,64670.0
+2022,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,61066.0
+2023,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,18312.0
+2024,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,67098.0
+2025,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Air,Metric Tons,69595.0
+2017,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,755.0
+2018,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,1186.0
+2019,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,1846.0
+2020,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,2110.0
+2021,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,2835.0
+2022,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,289764.53
+2023,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,178695.05
+2024,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Metric Tons,262684.39
+2016,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,599847.0
+2017,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,355290.0
+2018,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,105723.0
+2019,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,193693.0
+2020,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,196935.0
+2021,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,181880.0
+2022,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,298430.0
+2023,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,264181.0
+2024,Normal value,Units,Administrative data from CAA and URC,Freight volume (tonne kilometres) [9.1.2],,Mode of Transport: Rail,Metric Tons,279074.0
 2014,Normal value,Units,Administrative data from CAA and URC,Freight loaded and unloaded (metric tons) [9.1.2],,Mode of Transport: Air,Metric Tons,52842.0
 2015,Normal value,Units,Administrative data from CAA and URC,Freight loaded and unloaded (metric tons) [9.1.2],,Mode of Transport: Air,Metric Tons,54450.0
 2016,Normal value,Units,Administrative data from CAA and URC,Freight loaded and unloaded (metric tons) [9.1.2],,Mode of Transport: Air,Metric Tons,59556.0
@@ -58,28 +87,31 @@ Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COM
 2019,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Passenger volume for water transport,Number,1155299.0
 2020,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Passenger volume for water transport,Number,3842092.0
 2014,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1449824.0
-2015,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1520439.0
-2016,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1549495.0
-2017,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1644702.0
-2018,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1871423.0
-2019,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,2008238.0
+2015,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1390048.0
+2016,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1415745.0
+2017,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1530031.0
+2018,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1697012.0
+2019,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1829423.0
 2020,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,5715640.0
 2021,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,950362.0
 2022,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1594760.0
-2023,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1955113.0
+2023,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,1956760.0
 2024,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,2264252.0
-2017,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,4275112.0
-2018,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,4549333.0
-2019,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,1155299.0
+2025,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Air,Number,2531049.0
+2016,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,3842092.0
+2017,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,3995155.0
+2018,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,4275112.0
+2019,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,4549333.0
 2020,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,1482975.0
 2021,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,2367867.0
 2022,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,3805287.0
 2023,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,5277777.0
 2024,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of transport: Inland waterway transport,Number,5727216.0
 2018,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,438783.0
-2019,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,619206.0
+2019,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,299611.0
 2020,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,296586.0
 2021,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,331879.0
 2022,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,520638.0
 2023,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,75299.0
 2024,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,251112.0
+2025,Normal value,Units,Administrative data from CAA and URC,Passenger volume (passenger kilometres) [9.1.2],,Mode of Transport: Rail,Number,469686.0

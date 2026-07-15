@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Gender, Labour and Social Development",
+                "Administrative data   by Ministry of Gender Labour and Social Development",
                 ""
               ]
             },
@@ -74,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Score",
+                "Number",
                 ""
               ]
             },

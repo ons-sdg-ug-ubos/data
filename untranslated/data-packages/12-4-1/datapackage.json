@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "United Nations Environment Programme",
+                "United Nations Environment Programme - Environment Live and World Environment Situation Room",
                 ""
               ]
             }

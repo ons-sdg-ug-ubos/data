@@ -1,4 +1,6 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Normal value,Units,Ministry of Water and Environment,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,1.8
-2016,Normal value,Units,Ministry of Water and Environment,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,1.7
-2023,Normal value,Units,Ministry of Water and Environment,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,1.72
+2015,Normal value,Units,MWE - Administrative Data,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,1.8
+2016,Normal value,Units,MWE - Administrative Data,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,1.7
+2023,Normal value,Units,MWE - Administrative Data,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2.9
+2024,Normal value,Units,MWE - Administrative Data,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,3.1
+2025,Normal value,Units,MWE - Administrative Data,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,3.4

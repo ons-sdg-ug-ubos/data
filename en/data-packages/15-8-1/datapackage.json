@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "International Union for Conservation of Nature (IUCN)",
+                "International Union for Conservation of Nature (IUCN) - a) Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species",
                 ""
               ]
             },

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "The Organisation for Economic Co-operation and Development (OECD)",
+                "The Organisation for Economic Co-operation and Development (OECD) - 2020 Partner Report on Support to Statistics (PRESS)",
                 ""
               ]
             },

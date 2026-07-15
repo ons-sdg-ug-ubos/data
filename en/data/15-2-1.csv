@@ -3,14 +3,14 @@ Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNI
 2019,Normal value,Units,Administrative Data,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],,Percent,8.14
 2021,Normal value,Units,Administrative Data,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],,Percent,8.3
 2023,Normal value,Units,Administrative Data,Forest area certified under an independently verified certification scheme (hectares) [15.2.1],,Percent,8.7
-2017,Normal value,Units,National Forestry Authority,Annual forest area change rate (%) [15.2.1],,Percent,1.87
-2019,Normal value,Units,National Forestry Authority,Annual forest area change rate (%) [15.2.1],,Percent,15.63
-2021,Normal value,Units,National Forestry Authority,Annual forest area change rate (%) [15.2.1],,Percent,-3.87
-2023,Normal value,Units,National Forestry Authority,Annual forest area change rate (%) [15.2.1],,Percent,1.43
-2017,Normal value,Units,National Forestry Authority,Proportion of forest area within legally established protected areas [15.2.1],,Percent,104.0
-2019,Normal value,Units,National Forestry Authority,Proportion of forest area within legally established protected areas [15.2.1],,Percent,141.0
-2021,Normal value,Units,National Forestry Authority,Proportion of forest area within legally established protected areas [15.2.1],,Percent,127.0
-2023,Normal value,Units,National Forestry Authority,Proportion of forest area within legally established protected areas [15.2.1],,Percent,132.0
+2017,Normal value,Units,National Forestry Authority - Administrative Data,Annual forest area change rate (%) [15.2.1],,Percent,1.87
+2019,Normal value,Units,National Forestry Authority - Administrative Data,Annual forest area change rate (%) [15.2.1],,Percent,15.63
+2021,Normal value,Units,National Forestry Authority - Administrative Data,Annual forest area change rate (%) [15.2.1],,Percent,-3.87
+2023,Normal value,Units,National Forestry Authority - Administrative Data,Annual forest area change rate (%) [15.2.1],,Percent,1.43
+2017,Normal value,Units,National Forestry Authority - Administrative Data,Proportion of forest area within legally established protected areas [15.2.1],,Percent,104.0
+2019,Normal value,Units,National Forestry Authority - Administrative Data,Proportion of forest area within legally established protected areas [15.2.1],,Percent,141.0
+2021,Normal value,Units,National Forestry Authority - Administrative Data,Proportion of forest area within legally established protected areas [15.2.1],,Percent,127.0
+2023,Normal value,Units,National Forestry Authority - Administrative Data,Proportion of forest area within legally established protected areas [15.2.1],,Percent,132.0
 2017,Normal value,Units,Administrative Data,Forest area within legally established protected areas [15.2.1],,Percent,104.0
 2019,Normal value,Units,Administrative Data,Forest area within legally established protected areas [15.2.1],,Percent,141.0
 2021,Normal value,Units,Administrative Data,Forest area within legally established protected areas [15.2.1],,Percent,127.0

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Gender, Labour and Social Development",
+                "Ministry of Gender, Labour and Social Development - Administrative Data",
                 ""
               ]
             }
@@ -83,7 +83,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                "NUMBER",
                 ""
               ]
             }

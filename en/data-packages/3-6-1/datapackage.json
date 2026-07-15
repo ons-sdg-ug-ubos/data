@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual Crime Report from Uganda Police Services",
+                "Reported Crime data",
                 ""
               ]
             },

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Gender, Labour and Social Development",
+                "MGLSD - Administrative Data",
                 ""
               ]
             },
@@ -53,6 +53,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "\"Legal frameworks that promote",
+                "\"Legal frameworks that promote",
+                "\"Legal frameworks that promote",
                 "\"Legal frameworks that promote",
                 ""
               ]

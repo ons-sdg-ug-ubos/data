@@ -42,7 +42,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNHS",
                 "Uganda National Household Survey",
                 ""
               ]

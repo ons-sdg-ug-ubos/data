@@ -39,7 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Water and Environment",
+                "MWE - Administrative Data",
+                "Ministry of Water and Environment- Administrative data",
                 ""
               ]
             }
@@ -49,6 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_LKRV_PWAC",
                 "EN_WBE_PMPR",
                 ""
               ]

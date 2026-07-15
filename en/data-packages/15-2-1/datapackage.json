@@ -43,7 +43,7 @@
             "constraints": {
               "enum": [
                 "Administrative Data",
-                "National Forestry Authority",
+                "National Forestry Authority - Administrative Data",
                 ""
               ]
             },

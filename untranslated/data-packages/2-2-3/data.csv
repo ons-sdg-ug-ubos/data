@@ -1,7 +1,16 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
 2016,A,0,Uganda Demographic and Health Survey,SH_STA_ANEM,,,Y15T49,PT,31.7
+2006,A,0,Uganda Demographic Health Survey,SH_STA_ANEM,,F,,PT,49.0
+2011,A,0,Uganda Demographic Health Survey,SH_STA_ANEM,,F,,PT,23.0
+2016,A,0,Uganda Demographic Health Survey,SH_STA_ANEM,,F,,PT,31.7
 2016,A,0,UDHS,SH_STA_ANEM,,F,Y15T49,PT,31.7
 2016,A,0,Uganda Demographic and Health Survey,SH_STA_ANEM_NPRG,,,Y15T50,PT,29.9
+2006,A,0,Uganda Demographic Health Survey,SH_STA_ANEM_NPRG,,F,,PT,43.1
+2011,A,0,Uganda Demographic Health Survey,SH_STA_ANEM_NPRG,,F,,PT,20.3
+2016,A,0,Uganda Demographic Health Survey,SH_STA_ANEM_NPRG,,F,,PT,29.9
 2016,A,0,UDHS,SH_STA_ANEM_NPRG,,F,Y15T49,PT,29.9
 2016,A,0,Uganda Demographic and Health Survey,SH_STA_ANEM_PREG,,,Y15T51,PT,39.2
+2006,A,0,Uganda Demographic Health Survey,SH_STA_ANEM_PREG,,F,,PT,64.4
+2011,A,0,Uganda Demographic Health Survey,SH_STA_ANEM_PREG,,F,,PT,30.6
+2016,A,0,Uganda Demographic Health Survey,SH_STA_ANEM_PREG,,F,,PT,39.2
 2016,A,0,UDHS,SH_STA_ANEM_PREG,,F,Y15T49,PT,39.2

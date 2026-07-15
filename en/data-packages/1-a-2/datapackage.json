@@ -42,8 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Government Finance Statistics (Administrative data)",
-                "GFS",
+                "GFS (Administrative data)",
                 ""
               ]
             },
@@ -71,6 +70,22 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education or less",
+                "Secondary education (lower and upper secondary education)",
+                "Post-secondary non-tertiary vocational education",
+                "Bachelor’s or equivalent level",
+                "Not elsewhere classified",
+                "Not elsewhere classified",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "UNIT_MEASURE",

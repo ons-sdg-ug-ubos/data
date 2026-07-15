@@ -1,1 +1,12 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2015,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,737.7
+2016,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,625.7
+2017,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,802.7
+2018,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,1055.4
+2019,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,1303.0
+2020,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,1191.5
+2021,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,1648.2
+2022,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,2952.9
+2023,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,2993.5
+2024,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,3115.66989380016
+2025,Normal value,Millions,BOU - Administrative,Foreign direct investment (FDI) inflows [17.3.1],,USD,3358.03736411234

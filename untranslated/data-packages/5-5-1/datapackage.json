@@ -39,8 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Electoral Commission",
-                "Parliament",
+                "Electoral Commission, Administrative data",
+                "Parliament, Administrative data",
                 ""
               ]
             }

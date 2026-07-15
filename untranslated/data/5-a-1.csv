@@ -7,6 +7,14 @@ Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,COMPOSITE_BREAKDOWN,
 2018,A,0,AAS,SP_GNP_WNOWNS,,,_L_UG_TOT_N,PT,40.8
 2019,A,0,AAS,SP_GNP_WNOWNS,,,_L_UG_TOT_N,PT,39.0
 2018,A,0,AAS,SP_GNP_WNOWNS,,,_L_UG_TOT_P,PT,34.0
+2018,A,0,Annual Agriculture Survey,SP_GNP_WNOWNS,,F,_L_UG_TOT_C,PT,41.0
+2018,A,0,Annual Agriculture Survey,SP_GNP_WNOWNS,,F,_L_UG_TOT_F,PT,40.0
+2021,A,0,Annual Agriculture Survey,SP_GNP_WNOWNS,,F,_L_UG_TOT_F,PT,39.3
+2018,A,0,Annual Agriculture Survey,SP_GNP_WNOWNS,,F,_L_UG_TOT_M,PT,35.0
+2018,A,0,Annual Agriculture Survey,SP_GNP_WNOWNS,,F,_L_UG_TOT_N,PT,40.8
+2019,A,0,Annual Agriculture Survey,SP_GNP_WNOWNS,,F,_L_UG_TOT_N,PT,38.7
+2021,A,0,Annual Agriculture Survey,SP_GNP_WNOWNS,,F,_L_UG_TOT_N,PT,39.3
+2018,A,0,Annual Agriculture Survey,SP_GNP_WNOWNS,,F,_L_UG_TOT_P,PT,34.0
 2018,A,0,Annual Agriculture Survey,SP_LGL_LNDAGSEC,,,,PT,39.6
 2019,A,0,Annual Agriculture Survey,SP_LGL_LNDAGSEC,,,,PT,40.8
 2021,A,0,Annual Agriculture Survey,SP_LGL_LNDAGSEC,,,,PT,34.9

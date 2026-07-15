@@ -1,14 +1,15 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
-2015,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.7
-2016,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.6
-2017,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.2
-2018,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.2
-2019,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.7
-2020,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.6
-2021,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.46181
-2022,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",3.95573
-2023,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",3.934211
-2024,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",3.95769
+2015,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.7
+2016,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.6
+2017,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.2
+2018,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.2
+2019,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.7
+2020,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.6
+2021,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",4.46181
+2022,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",3.95573
+2023,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",3.934211
+2024,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",3.95769
+2025,Normal value,Units,Survey by The Bank of Uganda,"""Number of automated teller machines (ATMs) per 100",,,"Per 100,000 population",3.9468478081146734
 2015,Normal value,Units,Survey by BOU,"""Number of commercial bank branches per 100",,Automated teller machines,"Per 100,000 population",4.7
 2016,Normal value,Units,Survey by BOU,"""Number of commercial bank branches per 100",,Automated teller machines,"Per 100,000 population",4.6
 2017,Normal value,Units,Survey by BOU,"""Number of commercial bank branches per 100",,Automated teller machines,"Per 100,000 population",4.2
@@ -19,13 +20,14 @@ Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COM
 2017,Normal value,Units,Survey by BOU,"""Number of commercial bank branches per 100",,commercial bank branches,"Per 100,000 population",2.7
 2018,Normal value,Units,Survey by BOU,"""Number of commercial bank branches per 100",,commercial bank branches,"Per 100,000 population",2.6
 2019,Normal value,Units,Survey by BOU,"""Number of commercial bank branches per 100",,commercial bank branches,"Per 100,000 population",3.1
-2015,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",3.0
-2016,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.9
-2017,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.7
-2018,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.6
-2019,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",3.1
-2020,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.7
-2021,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.52883
-2022,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.40801
-2023,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.408013
-2024,Normal value,Units,SURVEY BY BANK OF UGANDA,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.19829
+2015,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",3.0
+2016,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.9
+2017,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.7
+2018,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.6
+2019,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",3.1
+2020,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.699956163529321
+2021,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.52882534362046
+2022,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.4080130816838863
+2023,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.4080130816838863
+2024,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.198286178471574
+2025,Normal value,Units,Survey by The Bank of Uganda,"""Number of commercial bank branches per 100",,,"Per 100,000 population",2.1658610342809013

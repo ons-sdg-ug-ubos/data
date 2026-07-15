@@ -1,6 +1,10 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2017,Normal value,Units,Administrative data and secondary data from UBOS surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.5
-2018,Normal value,Units,Administrative data and secondary data from UBOS surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.6
-2019,Normal value,Units,Administrative data and secondary data from UBOS surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.5
-2020,Normal value,Units,Administrative data and secondary data from UBOS surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.4
-2021,Normal value,Units,Administrative data and secondary data from UBOS surveys,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.4
+2017,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.5
+2018,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.6
+2019,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.5
+2020,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.4
+2021,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.4
+2022,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.6
+2023,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.8
+2024,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.7
+2025,Normal value,Units,UBOS - NATIONAL ACCOUNTS STATISTICS,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,0.8

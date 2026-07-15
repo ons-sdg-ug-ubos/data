@@ -1,7 +1,8 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2019,Normal value,Units,UCC,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.03
-2020,Normal value,Units,UCC,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.08
-2021,Normal value,Units,UCC,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.08
-2022,Normal value,Units,UCC,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.09
-2023,Normal value,Units,UCC,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.1
-2024,Normal value,Units,UCC,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.23
+2019,Normal value,Units,UCC - Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.03
+2020,Normal value,Units,UCC - Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.08
+2021,Normal value,Units,UCC - Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.08
+2022,Normal value,Units,UCC - Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.3
+2023,Normal value,Units,UCC - Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.3
+2024,Normal value,Units,UCC - Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.4
+2025,Normal value,Units,UCC - Administrative data from Internet Service Providers,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,Percent,0.5

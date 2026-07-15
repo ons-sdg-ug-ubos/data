@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Balance of Payments statistics compiled by BOU",
+                "MoFPED",
                 ""
               ]
             },

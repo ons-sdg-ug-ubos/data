@@ -1,9 +1,13 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
+2006,A,0,Uganda Demographic Health Survey,SH_ACS_DTP3,,,PT,71.5
 2016,A,0,Uganda Demographic Health Survey,SH_ACS_DTP3,,,PT,78.6
+2011,A,0,Uganda Demographic Health Survey,SH_ACS_MCV2,,,PT,75.8
 2016,A,0,Uganda Demographic Health Survey,SH_ACS_MCV2,,,PT,80.0
-2022,A,0,Uganda Demographic Health Survey,SH_ACS_MCV2,,,PT,19.8
+2022,A,0,Uganda Demographic Health Survey,SH_ACS_MCV2,,,PT,79.4
 2016,A,0,Uganda Demographic Health Survey,SH_ACS_PCV3,,,PT,64.3
 2022,A,0,Uganda Demographic Health Survey,SH_ACS_PCV3,,,PT,82.8
+2006,A,0,Uganda Demographic Health Survey,SH_ACS_VACN,,,PT,46.2
+2011,A,0,Uganda Demographic Health Survey,SH_ACS_VACN,,,PT,51.6
 2016,A,0,Uganda Demographic Health Survey,SH_ACS_VACN,,,PT,55.2
 2022,A,0,Uganda Demographic Health Survey,SH_ACS_VACN,,,PT,62.5
 2016,A,0,UDHS,SH_ACS_VACN,,F,PT,35.0

@@ -1,7 +1,8 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2019,A,0,UCC,IT_NET_BBND,,PT,0.03
-2020,A,0,UCC,IT_NET_BBND,,PT,0.08
-2021,A,0,UCC,IT_NET_BBND,,PT,0.08
-2022,A,0,UCC,IT_NET_BBND,,PT,0.09
-2023,A,0,UCC,IT_NET_BBND,,PT,0.1
-2024,A,0,UCC,IT_NET_BBND,,PT,0.23
+2019,A,0,UCC - Administrative data from Internet Service Providers,IT_NET_BBND,,PT,0.03
+2020,A,0,UCC - Administrative data from Internet Service Providers,IT_NET_BBND,,PT,0.08
+2021,A,0,UCC - Administrative data from Internet Service Providers,IT_NET_BBND,,PT,0.08
+2022,A,0,UCC - Administrative data from Internet Service Providers,IT_NET_BBND,,PT,0.3
+2023,A,0,UCC - Administrative data from Internet Service Providers,IT_NET_BBND,,PT,0.3
+2024,A,0,UCC - Administrative data from Internet Service Providers,IT_NET_BBND,,PT,0.4
+2025,A,0,UCC - Administrative data from Internet Service Providers,IT_NET_BBND,,PT,0.5

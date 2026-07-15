@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Administrative data and secondary data from UBOS surveys",
+                "UBOS - NATIONAL ACCOUNTS STATISTICS",
                 ""
               ]
             }

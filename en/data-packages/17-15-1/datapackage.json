@@ -86,7 +86,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "OPM",
+                "OPM - Administrative Data",
                 ""
               ]
             },

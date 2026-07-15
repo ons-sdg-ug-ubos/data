@@ -39,9 +39,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Tourism, Wildlife and Antiquetes",
-                "Uganda Wildlife Authority",
-                "Uganda  Wildlife Education Center",
+                "Ministry of Tourism, Wildlife and Antiquetes - Administrative data",
+                "Uganda Wildlife Authority - Administrative Data",
+                "Uganda  Wildlife Education Center - UWEC, Administrative Data",
                 ""
               ]
             }

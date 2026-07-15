@@ -39,8 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Survey by The Bank of Uganda",
                 "Survey by BOU",
-                "SURVEY BY BANK OF UGANDA",
                 ""
               ]
             }
@@ -79,8 +79,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_UG_BANK_ACCOUNT",
                 "_L_UG_MOBILE_MONEY_ACCOUNT",
+                "_L_UG_BANK_ACCOUNT",
                 ""
               ]
             }

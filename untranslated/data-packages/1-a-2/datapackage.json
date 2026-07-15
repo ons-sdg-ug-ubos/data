@@ -39,8 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Government Finance Statistics (Administrative data)",
-                "GFS",
+                "GFS (Administrative data)",
                 ""
               ]
             }
@@ -62,6 +61,21 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGG_0_1",
+                "AGG_2_3",
+                "ISCED11_45",
+                "ISCED11_6",
+                "ISCED11_9",
+                "ISCED11_99",
                 ""
               ]
             }

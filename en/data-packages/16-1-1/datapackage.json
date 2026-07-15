@@ -43,7 +43,7 @@
             "constraints": {
               "enum": [
                 "Administrative data from UPF",
-                "Uganda Police Force",
+                "Uganda Police Force - Administrative Data",
                 ""
               ]
             },

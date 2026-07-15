@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Survey by Ministry of Water and Environment",
+                "MWE - Survey by MOWE",
                 ""
               ]
             }
