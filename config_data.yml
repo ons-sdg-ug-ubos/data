@@ -75,6 +75,15 @@ inputs:
      _L_UG_160701_1: 16-7-1
      SG_NHR_IMPLN: 16-a-1
      _L_UG_160103_3: 16-1-3
+     _L_UG_070B01__BIO_EGY: 7-b-1
+     _L_UG_070B01__HYDRO: 7-b-1
+     _L_UG_070B01__SOLAR: 7-b-1
+     _L_UG_070101_NATIONAL_OR_MINI_GRID: 7-1-1
+     _L_UG_070101_OFF_GRID_SOLUTIONS: 7-1-1
+     _L_UG_080901_TOURISM_DIRECT_GDP_IN_GROWTH_RATE: 8-9-1
+     _L_UG_170801_1: 17-8-1
+     _L_UG_040C01_1: 4-c-1
+     _L_UG_050A01_1: 5-a-1
      
     request_params: 
       headers: 
