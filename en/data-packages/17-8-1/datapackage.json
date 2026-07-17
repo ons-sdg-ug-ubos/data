@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "UCC - Administrative Data",
                 "UCC",
                 ""
               ]
@@ -53,6 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of individuals using the Internet",
                 "Proportion of individuals using the Internet [17.8.1]",
                 ""
               ]
@@ -87,8 +89,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
                 "Number",
+                "Percent",
                 ""
               ]
             },

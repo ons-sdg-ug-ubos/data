@@ -42,6 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ministry of Education and Sports",
                 "MoES",
                 ""
               ]
@@ -53,6 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "\"Proportion of teachers with the minimum required qualifications",
                 "\"Proportion of teachers with the minimum required qualifications",
                 ""
               ]
@@ -74,6 +76,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Primary education or less",
+                "Secondary education or above",
+                "Pre-primary education",
                 "Pre-primary education",
                 "Lower secondary education",
                 "Upper secondary education",

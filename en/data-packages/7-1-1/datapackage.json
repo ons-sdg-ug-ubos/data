@@ -53,6 +53,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Access to electricity (national grid or mini-grid)",
+                "Access to electricity (off-grid solutions)",
                 "Proportion of population with access to electricity [7.1.1]",
                 ""
               ]

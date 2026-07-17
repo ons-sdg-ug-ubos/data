@@ -118,6 +118,516 @@
       "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
     },
     {
+      "path": "4-c-1/data.csv",
+      "name": "4-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Education and Sports",
+                "MoES",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "\"Proportion of teachers with the minimum required qualifications",
+                "\"Proportion of teachers with the minimum required qualifications",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education or less",
+                "Secondary education or above",
+                "Pre-primary education",
+                "Pre-primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
+    },
+    {
+      "path": "5-a-1/data.csv",
+      "name": "5-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual Agriculture Survey",
+                "AAS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "\"Share of women among owners or rights-bearers of agricultural land",
+                "\"Share of women among owners or rights-bearers of agricultural land",
+                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Type of tenure: Customary",
+                "Type of tenure: Freehold",
+                "Type of tenure: Mailo",
+                "Type of tenure: Public land",
+                "Type of tenure: National",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+    },
+    {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ERT III survey",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Access to electricity (national grid or mini-grid)",
+                "Access to electricity (off-grid solutions)",
+                "Proportion of population with access to electricity [7.1.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National or Mini-grid",
+                "off grid solutions",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population with access to electricity"
+    },
+    {
+      "path": "7-b-1/data.csv",
+      "name": "7-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "International Energy Agency",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electricity generation from bioenergy",
+                "Electricity generation from hydropower",
+                "Electricity generation from solar",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uganda Tourism Satellite account report",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual growth rate of the direct contribution of tourism to Gross Domestic Product (GDP)",
+                "Tourism direct GDP as a proportion of total GDP [8.9.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
+    },
+    {
       "path": "10-a-1/data.csv",
       "name": "10-a-1",
       "profile": "tabular-data-resource",
@@ -626,6 +1136,122 @@
         ]
       },
       "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+    },
+    {
+      "path": "17-8-1/data.csv",
+      "name": "17-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UCC - Administrative Data",
+                "UCC",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of individuals using the Internet",
+                "Proportion of individuals using the Internet [17.8.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of individuals using fixed internet",
+                "\"Proportion of individuals using internet",
+                "Proportion of individuals using mobile  internet",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of individuals using the Internet"
     },
     {
       "path": "15-1-1/data.csv",
@@ -1523,107 +2149,6 @@
         ]
       },
       "title": "Debt service as a proportion of exports of goods, services and primary income"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ERT III survey",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population with access to electricity [7.1.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National or Mini-grid",
-                "off grid solutions",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population with access to electricity"
     },
     {
       "path": "7-1-2/data.csv",
@@ -4677,120 +5202,6 @@
       "title": "Fixed broadband subscriptions per 100 inhabitants, by speed"
     },
     {
-      "path": "17-8-1/data.csv",
-      "name": "17-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UCC",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of individuals using the Internet [17.8.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of individuals using fixed internet",
-                "\"Proportion of individuals using internet",
-                "Proportion of individuals using mobile  internet",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "TIME_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021",
-                ""
-              ]
-            },
-            "title": "Time period details"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of individuals using the Internet"
-    },
-    {
       "path": "16-5-1/data.csv",
       "name": "16-5-1",
       "profile": "tabular-data-resource",
@@ -6501,108 +6912,6 @@
         ]
       },
       "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
-    },
-    {
-      "path": "4-c-1/data.csv",
-      "name": "4-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MoES",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "\"Proportion of teachers with the minimum required qualifications",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Pre-primary education",
-                "Lower secondary education",
-                "Upper secondary education",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
     },
     {
       "path": "10-7-2/data.csv",
@@ -12972,124 +13281,6 @@
       "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
-      "path": "5-a-1/data.csv",
-      "name": "5-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AAS",
-                "Annual Agriculture Survey",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "\"Share of women among owners or rights-bearers of agricultural land",
-                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Type of tenure: Customary",
-                "Type of tenure: Freehold",
-                "Type of tenure: Mailo",
-                "Type of tenure: National",
-                "Type of tenure: Public land",
-                ""
-              ]
-            },
-            "title": "Composite breakdown"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
-    },
-    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -13468,95 +13659,6 @@
         ]
       },
       "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
-    },
-    {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Uganda Tourism Satellite account report",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tourism direct GDP as a proportion of total GDP [8.9.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "17-11-1/data.csv",
@@ -16569,30 +16671,6 @@
         ]
       },
       "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
-    },
-    {
-      "path": "7-b-1/data.csv",
-      "name": "7-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
     },
     {
       "path": "11-1-1/data.csv",

@@ -49,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_UG_080901_TOURISM_DIRECT_GDP_IN_GROWTH_RATE",
                 "ST_GDP_ZS",
                 ""
               ]

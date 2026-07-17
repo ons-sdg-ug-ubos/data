@@ -53,6 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Annual growth rate of the direct contribution of tourism to Gross Domestic Product (GDP)",
                 "Tourism direct GDP as a proportion of total GDP [8.9.1]",
                 ""
               ]

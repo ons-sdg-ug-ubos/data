@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ministry of Education and Sports",
                 "MoES",
                 ""
               ]
@@ -49,6 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_UG_040C01_1",
                 "SE_TRA_GRDL",
                 ""
               ]
@@ -68,6 +70,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "AGG_0_1",
+                "AGG_GE2",
+                "ISCED97_0",
                 "ISCED11_02",
                 "ISCED11_2",
                 "ISCED11_3",

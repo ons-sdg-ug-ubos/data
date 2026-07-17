@@ -1,1 +1,28 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,1.687
+2016,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,1.627
+2017,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,1.856
+2018,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,2.251
+2019,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,2.173
+2020,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,2.103
+2021,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,2.09536
+2022,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,2.03328
+2023,A,0,International Energy Agency,_L_UG_070B01__BIO_EGY,,PT,1.97712
+2015,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,18.182
+2016,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,17.529
+2017,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,17.169
+2018,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,17.409
+2019,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,22.681
+2020,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,22.094
+2021,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,22.01885
+2022,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,21.82724
+2023,A,0,International Energy Agency,_L_UG_070B01__HYDRO,,PT,21.22438
+2015,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,0.576
+2016,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,0.605
+2017,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,1.059
+2018,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,1.564
+2019,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,1.738
+2020,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,1.69
+2021,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,1.9706
+2022,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,2.00014
+2023,A,0,International Energy Agency,_L_UG_070B01__SOLAR,,PT,1.94818

@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "UCC - Administrative Data",
                 "UCC",
                 ""
               ]
@@ -49,6 +50,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_UG_170801_1",
                 "IT_USE_II99",
                 ""
               ]
@@ -80,8 +82,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
                 "NUMBER",
+                "PT",
                 ""
               ]
             }

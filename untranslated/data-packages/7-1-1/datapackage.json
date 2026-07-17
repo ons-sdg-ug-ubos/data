@@ -49,6 +49,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_UG_070101_NATIONAL_OR_MINI_GRID",
+                "_L_UG_070101_OFF_GRID_SOLUTIONS",
                 "EG_ACS_ELEC",
                 ""
               ]

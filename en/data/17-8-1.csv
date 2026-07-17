@@ -1,4 +1,21 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,Value
+2019,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using fixed internet,Number,,9929.0
+2020,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using fixed internet,Number,,86763.0
+2021,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using fixed internet,Number,,101867.0
+2022,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using fixed internet,Number,,116961.0
+2023,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using fixed internet,Number,,131142.0
+2024,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using fixed internet,Number,,195975.0
+2025,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using fixed internet,Number,,228718.0
+2019,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,"""Proportion of individuals using internet",Number,,15165850.0
+2020,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,"""Proportion of individuals using internet",Number,,27756763.0
+2022,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,"""Proportion of individuals using internet",Number,,13116961.0
+2023,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,"""Proportion of individuals using internet",Number,,13231142.0
+2024,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,"""Proportion of individuals using internet",Number,,15895975.0
+2025,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,"""Proportion of individuals using internet",Number,,18728718.0
+2022,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using mobile  internet,Number,,13000000.0
+2023,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using mobile  internet,Number,,13100000.0
+2024,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using mobile  internet,Number,,15700000.0
+2025,Normal value,Units,UCC - Administrative Data,Proportion of individuals using the Internet,,Proportion of individuals using mobile  internet,Number,,18500000.0
 2019,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.02501008
 2020,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.21213447
 2021,Normal value,Units,UCC,Proportion of individuals using the Internet [17.8.1],,Proportion of individuals using fixed internet,Percent,,0.24196437
