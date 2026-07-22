@@ -9,7 +9,6 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
@@ -38,9 +37,12 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputSdmxMl_Multiple
-    path_pattern: data/*.xml
-    dsd: 'LocalRegistry.xml'
+ # - class: InputSdmxMl_Multiple
+ #   path_pattern: data/*.xml
+ #   dsd: 'LocalRegistry.xml'
+  - class: InputSdmxMl_Structure
+    source: https://ug.sdmx.afdb.org/ns-ws/rest/data/UG1,DF_SDG_UGANDA,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://ug.sdmx.afdb.org/ns-ws/rest/datastructure/UG1/SDG/1.0/?detail=Full&references=Descendants
     dimension_map:
       REF_AREA|UG: ''
     drop_dimensions:
@@ -48,14 +50,50 @@ inputs:
       - REPORTING_TYPE
       - NATURE
       - TIME_COVERAGE
+    drop_singleton_dimensions: false
     import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
-  - class: InputWordMeta
-    path_pattern: meta/*-*.docm
+    indicator_id_map:
+     ER_WLD_TRPOACH: 15-7-1
+     VC_DSR_DAFF: 1-5-1
+     _L_UG_100A01_1: 10-a-1
+     _L_UG_110401_1: 11-4-1
+     _L_UG_110401_2: 11-4-1
+     GB_XPD_CULNAT_PBPV: 11-4-1
+     GB_XPD_NAT_PBPV: 11-4-1
+     SG_HAZ_CMRMNTRL: 12-4-1
+     SG_HAZ_CMRSTHOLM: 12-4-1
+     SG_HAZ_CMRBASEL: 12-4-1
+     SG_HAZ_CMRMNMT: 12-4-1
+     ER_CBD_ORSPGRFA: 15-6-1
+     ER_CBD_ABSCLRHS: 15-6-1
+     ER_BDY_SEEA: 15-9-1
+     VC_IHR_PSRC: 16-1-1
+     VC_HTF_DETVR: 16-2-2
+     _L_UG_160601_1: 16-6-1
+     _L_UG_160701_1: 16-7-1
+     SG_NHR_IMPLN: 16-a-1
+     _L_UG_160103_3: 16-1-3
+     _L_UG_070B01__BIO_EGY: 7-b-1
+     _L_UG_070B01__HYDRO: 7-b-1
+     _L_UG_070B01__SOLAR: 7-b-1
+     _L_UG_070101_NATIONAL_OR_MINI_GRID: 7-1-1
+     _L_UG_070101_OFF_GRID_SOLUTIONS: 7-1-1
+     _L_UG_080901_TOURISM_DIRECT_GDP_IN_GROWTH_RATE: 8-9-1
+     _L_UG_170801_1: 17-8-1
+     _L_UG_040C01_1: 4-c-1
+     _L_UG_050A01_1: 5-a-1
+     
+    request_params: 
+      headers: 
+        User-Agent: Open-SDG-Build-1 
+ 
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.yml
@@ -84,10 +122,17 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.2.0
+    tag: 2.4.0-beta1
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
+  #- class: TranslationInputSdmx
+  #  source: 'LocalRegistry.xml' 
+  - class: TranslationInputSdmx
+    source: https://ug.sdmx.afdb.org/ns-ws/rest/datastructure/UG1/SDG/1.0/?detail=Full&references=Descendants
+    request_params:
+      headers:
+        User-Agent: Open-SDG-Build-1
 
 # Reporting status extra fields
 # -----------------------------
@@ -147,3 +192,24 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+    - UNIT_MEASURE
+    - SERIES
+    - COMMENT_TS
+    - DATA_LAST_UPDATE
+  series_column: SERIES
+  unit_column: UNIT_MEASURE
+  observation_attributes:
+    - COMMENT_OBS
+    - SOURCE_DETAIL
+
