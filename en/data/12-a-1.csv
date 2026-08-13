@@ -1,10 +1,37 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
-2015,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,20.83336
-2016,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,20.20606
-2017,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,20.59534
-2018,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,21.83854
-2019,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,27.4023
-2020,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,26.89187
-2021,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,26.08481
-2022,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,25.86066
-2023,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Percent,25.14968
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2015,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,20.83336
+2016,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,20.20606
+2017,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,20.59534
+2018,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,21.83854
+2019,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,27.4023
+2020,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,26.89187
+2021,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,26.08481
+2022,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,25.86066
+2023,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,,Watts per capita,25.14968
+2015,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,1.687
+2016,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,1.627
+2017,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,1.856
+2018,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,2.251
+2019,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,2.173
+2020,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,2.103
+2021,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,2.09536
+2022,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,2.03328
+2023,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Bioenergy,Watts per capita,1.97712
+2015,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,18.182
+2016,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,17.529
+2017,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,17.169
+2018,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,17.409
+2019,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,22.681
+2020,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,22.094
+2021,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,22.01885
+2022,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,21.82724
+2023,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Hydropower,Watts per capita,21.22438
+2015,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,0.576
+2016,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,0.605
+2017,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,1.059
+2018,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,1.564
+2019,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,1.738
+2020,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,1.69
+2021,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,1.9706
+2022,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,2.00014
+2023,Normal value,Units,International Energy Agency,"""Installed renewable electricity-generating capacity (watts per capita) [7.b.1",,Type of renewable technology: Solar energy,Watts per capita,1.94818

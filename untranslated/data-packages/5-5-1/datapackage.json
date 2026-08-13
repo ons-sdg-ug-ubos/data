@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "Electoral Commission, Administrative data",
+                "Electoral Commission - Administrative Data",
                 "Parliament, Administrative data",
                 ""
               ]
@@ -61,6 +62,16 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
                 ""
               ]
             }

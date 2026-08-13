@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MGLSD - Administrative Data",
+                "Ministry of Gender, Labour and Social Development  - Administrative Data",
                 ""
               ]
             },

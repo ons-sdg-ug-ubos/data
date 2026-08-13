@@ -1,127 +1,201 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,EDUCATION_LEV,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_MATH,PT,69.8
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_MATH,PT,72.7
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_MATH,PT,71.7
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_MATH,PT,55.2
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_MATH,PT,57.5
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_READ,PT,56.2
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_READ,PT,64.2
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_READ,PT,60.2
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_READ,PT,49.9
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P3,SKILL_READ,PT,53.9
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_MATH,PT,41.4
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_MATH,PT,39.4
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_MATH,PT,52.6
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_MATH,PT,50.1
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_MATH,PT,58.0
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_READ,PT,40.2
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_READ,PT,38.3
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_READ,PT,51.9
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_READ,PT,53.1
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P6,SKILL_READ,PT,42.7
-2016,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,75.1
-2017,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,83.8
-2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,77.0
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,84.9
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,82.3
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,81.9
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,85.3
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,89.4
-2016,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,86.9
-2017,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,85.6
-2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,87.7
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,80.0
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,87.5
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,87.1
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,89.5
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,88.3
-2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,79.2
-2016,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,60.7
-2017,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,62.9
-2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,60.7
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,60.7
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,67.2
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,64.2
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,68.3
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,97.0
-2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,82.3
-2016,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,73.6
-2017,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,74.3
-2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,80.3
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,77.2
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,78.1
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,84.82
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,89.7
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,96.0
+2006,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,82.7
+2009,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,85.8
+2010,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,82.9
+2011,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,82.4
+2012,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,79.5
+2013,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,86.2
+2014,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,85.8
+2016,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,75.1
+2017,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,83.8
+2018,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,77.0
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,84.9
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,82.3
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,81.9
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,85.3
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,89.4
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_MATH,PT,88.9
+2006,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,83.4
+2009,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,79.2
+2010,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,85.2
+2011,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,88.0
+2012,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,90.4
+2013,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,84.7
+2014,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,83.9
+2016,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,86.9
+2017,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,85.6
+2018,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,87.7
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,80.0
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,87.5
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,87.1
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,89.5
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,88.3
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_P7,SKILL_READ,PT,91.9
+2006,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,74.0
+2012,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,71.4
+2013,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,66.3
+2014,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,65.6
+2015,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,79.2
+2016,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,60.7
+2017,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,62.9
+2018,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,60.7
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,60.7
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,67.2
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,64.2
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,68.3
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,97.0
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_MATH,PT,97.2
+2006,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,81.9
+2012,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,70.8
+2013,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,74.6
+2014,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,74.7
+2015,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,82.3
+2016,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,73.6
+2017,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,74.3
+2018,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,80.3
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,77.2
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,78.1
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,84.82
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,89.7
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,96.0
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,,_L_UG_S4,SKILL_READ,PT,98.0
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_MATH,PT,68.8
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_MATH,PT,71.4
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_MATH,PT,70.6
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_MATH,PT,56.1
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_MATH,PT,57.5
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_READ,PT,56.4
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_READ,PT,66.5
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_READ,PT,61.3
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_READ,PT,49.9
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P3,SKILL_READ,PT,57.4
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_MATH,PT,37.4
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_MATH,PT,35.0
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_MATH,PT,48.2
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_MATH,PT,45.9
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_MATH,PT,54.7
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_READ,PT,40.1
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_READ,PT,38.7
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_READ,PT,52.2
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_READ,PT,53.7
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P6,SKILL_READ,PT,44.9
-2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,74.6
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,82.4
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,79.5
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,80.7
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,83.28
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,87.7
-2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,89.3
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,85.0
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,88.9
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,88.7
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,90.64
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,89.6
-2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,77.3
-2016,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,56.7
-2017,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,58.6
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,57.8
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,64.3
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,61.6
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,69.5
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,98.0
-2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,83.3
-2016,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,75.1
-2017,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,75.1
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,78.4
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,79.3
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,86.1
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,88.6
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,97.0
+2018,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,74.6
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,82.4
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,79.5
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,80.7
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,83.28
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,87.7
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_MATH,PT,87.2
+2018,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,89.3
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,85.0
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,88.9
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,88.7
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,90.64
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,89.6
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_P7,SKILL_READ,PT,93.2
+2006,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,69.9
+2012,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,70.4
+2013,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,62.5
+2014,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,63.9
+2015,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,77.3
+2016,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,56.7
+2017,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,58.6
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,57.8
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,64.3
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,61.6
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,69.5
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,98.0
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_MATH,PT,97.3
+2006,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,81.6
+2012,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,72.7
+2013,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,76.0
+2014,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,76.7
+2015,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,83.3
+2016,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,75.1
+2017,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,75.1
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,78.4
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,79.3
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,86.1
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,88.6
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,97.0
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,F,_L_UG_S4,SKILL_READ,PT,98.4
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_MATH,PT,70.6
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_MATH,PT,73.9
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_MATH,PT,73.0
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_MATH,PT,54.3
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_MATH,PT,57.5
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_READ,PT,53.9
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_READ,PT,62.0
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_READ,PT,59.0
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_READ,PT,47.4
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P3,SKILL_READ,PT,50.6
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_MATH,PT,45.8
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_MATH,PT,44.2
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_MATH,PT,56.9
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_MATH,PT,56.2
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_MATH,PT,61.8
+2013,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_READ,PT,38.7
+2014,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_READ,PT,37.8
 2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_READ,PT,51.6
 2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_READ,PT,52.7
 2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P6,SKILL_READ,PT,40.1
-2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,79.6
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,87.6
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,85.4
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,83.2
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,87.47
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,91.3
-2018,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,85.9
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,82.9
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,85.8
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,85.3
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,88.32
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,86.9
-2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,80.9
-2016,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,64.8
-2017,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,66.8
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,63.6
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,70.2
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,66.9
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,67.1
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,97.0
-2015,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,81.4
-2016,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,72.2
-2017,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,74.3
-2019,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,76.1
-2020,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,76.9
-2022,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,83.5
-2023,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,89.7
-2024,A,0,UNEB - NAPE,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,95.0
+2018,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,79.6
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,87.6
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,85.4
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,83.2
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,87.47
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,91.3
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_MATH,PT,90.7
+2018,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,85.9
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,82.9
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,85.8
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,85.3
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,88.32
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,86.9
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_P7,SKILL_READ,PT,90.5
+2006,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,77.3
+2012,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,72.2
+2013,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,69.2
+2014,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,67.4
+2015,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,80.9
+2016,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,64.8
+2017,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,66.8
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,63.6
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,70.2
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,66.9
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,67.1
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,97.0
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_MATH,PT,97.1
+2006,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,82.1
+2012,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,69.1
+2013,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,73.6
+2014,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,73.0
+2015,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,81.4
+2016,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,72.2
+2017,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,74.3
+2019,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,76.1
+2020,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,76.9
+2022,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,83.5
+2023,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,89.7
+2024,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,95.0
+2025,A,0,Uganda National Examinations Board - Adminsitrative Data,SE_TOT_PRFL,,M,_L_UG_S4,SKILL_READ,PT,97.6

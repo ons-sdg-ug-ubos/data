@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "UNEB - NAPE",
+                "Uganda National Examinations Board - Adminsitrative Data",
                 ""
               ]
             },

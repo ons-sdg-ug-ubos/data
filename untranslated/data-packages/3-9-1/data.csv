@@ -1,1 +1,6 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2020,A,0,Ministry of Health - Adminsitrative Data,SH_STA_AIRP,,PER_100000_POP,6.5
+2021,A,0,Ministry of Health - Adminsitrative Data,SH_STA_AIRP,,PER_100000_POP,10.8
+2022,A,0,Ministry of Health - Adminsitrative Data,SH_STA_AIRP,,PER_100000_POP,6.4
+2023,A,0,Ministry of Health - Adminsitrative Data,SH_STA_AIRP,,PER_100000_POP,6.4
+2024,A,0,Ministry of Health - Adminsitrative Data,SH_STA_AIRP,,PER_100000_POP,6.9

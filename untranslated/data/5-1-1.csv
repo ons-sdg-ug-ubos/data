@@ -1,12 +1,12 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
-2025,A,0,MGLSD - Administrative Data,SG_LGL_GENEQEMP,,PT,90.0
-2015,A,0,MGLSD - Administrative Data,SG_LGL_GENEQLFP,,PT,75.0
-2016,A,0,MGLSD - Administrative Data,SG_LGL_GENEQLFP,,PT,75.0
-2017,A,0,MGLSD - Administrative Data,SG_LGL_GENEQLFP,,PT,75.0
-2018,A,0,MGLSD - Administrative Data,SG_LGL_GENEQLFP,,PT,75.0
-2019,A,0,MGLSD - Administrative Data,SG_LGL_GENEQLFP,,PT,75.0
-2020,A,0,MGLSD - Administrative Data,SG_LGL_GENEQLFP,,PT,75.0
-2021,A,0,MGLSD - Administrative Data,SG_LGL_GENEQLFP,,PT,75.0
-2025,A,0,MGLSD - Administrative Data,SG_LGL_GENEQLFP,,PT,83.3
-2025,A,0,MGLSD - Administrative Data,SG_LGL_GENEQMAR,,PT,100.0
-2025,A,0,MGLSD - Administrative Data,SG_LGL_GENEQVAW,,PT,55.5
+2025,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQEMP,,PT,90.0
+2015,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQLFP,,PT,75.0
+2016,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQLFP,,PT,75.0
+2017,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQLFP,,PT,75.0
+2018,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQLFP,,PT,75.0
+2019,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQLFP,,PT,75.0
+2020,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQLFP,,PT,75.0
+2021,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQLFP,,PT,75.0
+2025,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQLFP,,PT,83.3
+2025,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQMAR,,PT,100.0
+2025,A,0,"Ministry of Gender, Labour and Social Development  - Administrative Data",SG_LGL_GENEQVAW,,PT,55.5

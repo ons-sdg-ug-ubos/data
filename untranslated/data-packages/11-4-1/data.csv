@@ -13,24 +13,36 @@ Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
 2019,A,0,Uganda Wildlife Authority - Administrative Data,_L_UG_110401_2,,NUMBER,78.2
 2020,A,0,Uganda Wildlife Authority - Administrative Data,_L_UG_110401_2,,NUMBER,129.7
 2021,A,0,Uganda Wildlife Authority - Administrative Data,_L_UG_110401_2,,NUMBER,119.5
-2015,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CUL_PBPV,,NUMBER,1276.0
-2016,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CUL_PBPV,,NUMBER,1673.0
-2017,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CUL_PBPV,,NUMBER,1920.0
-2018,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CUL_PBPV,,NUMBER,2723.0
-2019,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CUL_PBPV,,NUMBER,2018.0
-2020,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CUL_PBPV,,NUMBER,3265.0
-2021,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CUL_PBPV,,NUMBER,3069.0
-2015,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CULNAT_PBPV,,NUMBER,2.0
-2016,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CULNAT_PBPV,,NUMBER,2.7
-2017,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CULNAT_PBPV,,NUMBER,3.2
-2018,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CULNAT_PBPV,,NUMBER,3.9
-2019,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CULNAT_PBPV,,NUMBER,5.2
-2020,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CULNAT_PBPV,,NUMBER,9.9
-2021,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_CULNAT_PBPV,,NUMBER,13.2
-2015,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_NAT_PBPV,,NUMBER,47.1
-2016,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_NAT_PBPV,,NUMBER,63.9
-2017,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_NAT_PBPV,,NUMBER,74.9
-2018,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_NAT_PBPV,,NUMBER,111.6
-2019,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_NAT_PBPV,,NUMBER,86.2
-2020,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_NAT_PBPV,,NUMBER,143.7
-2021,A,0,"Uganda  Wildlife Education Center - UWEC, Administrative Data",GB_XPD_NAT_PBPV,,NUMBER,138.1
+2015,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,2.37
+2016,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,3.29
+2017,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,4.0
+2018,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,3.01
+2019,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,2.73
+2020,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,4.01
+2021,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,5.42
+2022,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,5.785
+2023,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,8.993
+2024,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,10.255
+2025,A,0,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",GB_XPD_CUL_PBPV,,CUR_LCU,26.741
+2015,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,42.66
+2016,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,57.92
+2017,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,67.65
+2018,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,104.75
+2019,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,78.19
+2020,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,129.749
+2021,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,119.47
+2022,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,135.363
+2023,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,250.928
+2024,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,329.09000000000003
+2025,A,0,Uganda Wildlife Authority,GB_XPD_CULNAT_PBPV,,CUR_LCU,437.838
+2015,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,2.04
+2016,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,2.71
+2017,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,3.21
+2018,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,3.87
+2019,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,5.24
+2020,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,9.91
+2021,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,13.21
+2022,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,129.578
+2023,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,241.935
+2024,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,318.835
+2025,A,0,Uganda Wildlife Education Center,GB_XPD_NAT_PBPV,,CUR_LCU,411.097

@@ -13,24 +13,36 @@ Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNI
 2019,Normal value,Units,Uganda Wildlife Authority - Administrative Data,"""Total expenditure per capita spent on cultural heritage",,Number,78.2
 2020,Normal value,Units,Uganda Wildlife Authority - Administrative Data,"""Total expenditure per capita spent on cultural heritage",,Number,129.7
 2021,Normal value,Units,Uganda Wildlife Authority - Administrative Data,"""Total expenditure per capita spent on cultural heritage",,Number,119.5
-2015,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural heritage",,Number,1276.0
-2016,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural heritage",,Number,1673.0
-2017,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural heritage",,Number,1920.0
-2018,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural heritage",,Number,2723.0
-2019,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural heritage",,Number,2018.0
-2020,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural heritage",,Number,3265.0
-2021,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural heritage",,Number,3069.0
-2015,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural and natural heritage",,Number,2.0
-2016,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural and natural heritage",,Number,2.7
-2017,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural and natural heritage",,Number,3.2
-2018,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural and natural heritage",,Number,3.9
-2019,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural and natural heritage",,Number,5.2
-2020,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural and natural heritage",,Number,9.9
-2021,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on cultural and natural heritage",,Number,13.2
-2015,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on natural heritage",,Number,47.1
-2016,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on natural heritage",,Number,63.9
-2017,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on natural heritage",,Number,74.9
-2018,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on natural heritage",,Number,111.6
-2019,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on natural heritage",,Number,86.2
-2020,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on natural heritage",,Number,143.7
-2021,Normal value,Units,"Uganda  Wildlife Education Center - UWEC, Administrative Data","""Total expenditure per capita spent on natural heritage",,Number,138.1
+2015,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,2.37
+2016,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,3.29
+2017,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,4.0
+2018,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,3.01
+2019,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,2.73
+2020,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,4.01
+2021,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,5.42
+2022,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,5.785
+2023,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,8.993
+2024,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,10.255
+2025,Normal value,Units,"Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data","""Total expenditure per capita spent on cultural heritage",,Local currency,26.741
+2015,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,42.66
+2016,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,57.92
+2017,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,67.65
+2018,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,104.75
+2019,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,78.19
+2020,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,129.749
+2021,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,119.47
+2022,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,135.363
+2023,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,250.928
+2024,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,329.09000000000003
+2025,Normal value,Units,Uganda Wildlife Authority,"""Total expenditure per capita spent on cultural and natural heritage",,Local currency,437.838
+2015,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,2.04
+2016,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,2.71
+2017,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,3.21
+2018,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,3.87
+2019,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,5.24
+2020,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,9.91
+2021,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,13.21
+2022,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,129.578
+2023,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,241.935
+2024,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,318.835
+2025,Normal value,Units,Uganda Wildlife Education Center,"""Total expenditure per capita spent on natural heritage",,Local currency,411.097

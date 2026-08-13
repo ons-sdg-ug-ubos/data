@@ -41,6 +41,7 @@
               "enum": [
                 "UDHS",
                 "Uganda Demographic and Health Survey",
+                "Uganda Demographic Health Survey",
                 ""
               ]
             }
@@ -51,6 +52,7 @@
             "constraints": {
               "enum": [
                 "SH_FPL_INFM",
+                "SH_FPL_INFMCU",
                 ""
               ]
             }
@@ -65,11 +67,22 @@
             }
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                ""
+              ]
+            }
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "Y15T19",
+                "Y15T49",
                 ""
               ]
             }

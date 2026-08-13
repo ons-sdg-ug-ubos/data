@@ -70,6 +70,16 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bank of Uganda",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

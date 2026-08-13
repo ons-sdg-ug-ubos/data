@@ -70,11 +70,24 @@
             "title": "Reference area"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Type of renewable technology: Bioenergy",
+                "Type of renewable technology: Hydropower",
+                "Type of renewable technology: Solar energy",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Watts per capita",
                 ""
               ]
             },

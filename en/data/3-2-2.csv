@@ -1,11 +1,19 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Value
+2006,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",169
+2011,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",27
 2016,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",27
 2022,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",22
+2006,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,Rural,"Per 1,000 live births",154
+2011,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,Rural,"Per 1,000 live births",141
 2016,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,Rural,"Per 1,000 live births",26
 2022,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,Rural,"Per 1,000 live births",23
+2006,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,Urban,"Per 1,000 live births",16
+2011,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,Urban,"Per 1,000 live births",23
 2016,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,Urban,"Per 1,000 live births",28
 2022,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,,Urban,"Per 1,000 live births",22
+2011,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,Female,,"Per 1,000 live births",27
 2016,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,Female,,"Per 1,000 live births",23
 2022,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,Female,,"Per 1,000 live births",18
+2011,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,Male,,"Per 1,000 live births",34
 2016,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,Male,,"Per 1,000 live births",31
 2022,Normal value,Units,Uganda Demographic Health Survey,Neonatal mortality rate [3.2.2],,Male,,"Per 1,000 live births",27

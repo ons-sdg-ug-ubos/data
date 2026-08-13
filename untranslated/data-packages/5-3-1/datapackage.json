@@ -41,6 +41,7 @@
               "enum": [
                 "Uganda Demographic Health Survey; AGE Y20T24",
                 "Uganda Demographic Health Survey; AGE Y20T25",
+                "Uganda Demographic Health Survey",
                 "UDHS",
                 "Uganda Demographic Health Survey; AGE Y20T26",
                 ""
@@ -84,8 +85,10 @@
               "enum": [
                 "Y20T24",
                 "Y20T26",
+                "Y0T14",
                 "Y20T25",
                 "Y20T27",
+                "Y0T17",
                 ""
               ]
             }

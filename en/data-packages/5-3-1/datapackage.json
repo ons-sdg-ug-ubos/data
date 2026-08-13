@@ -44,6 +44,7 @@
               "enum": [
                 "Uganda Demographic Health Survey; AGE Y20T24",
                 "Uganda Demographic Health Survey; AGE Y20T25",
+                "Uganda Demographic Health Survey",
                 "UDHS",
                 "Uganda Demographic Health Survey; AGE Y20T26",
                 ""
@@ -91,8 +92,10 @@
               "enum": [
                 "20 to 24 years old",
                 "20 to 26 years old",
+                "under 15 years old",
                 "20 to 25 years old",
                 "20 to 27 years old",
+                "under 18 years old",
                 ""
               ]
             },

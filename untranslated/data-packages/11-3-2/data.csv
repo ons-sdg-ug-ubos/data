@@ -1,1 +1,12 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,Value
+2015,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2016,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2017,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2018,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2019,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2020,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2021,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2022,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2023,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2024,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100
+2025,A,0,"Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",SG_URB_CSPART,,PT,100

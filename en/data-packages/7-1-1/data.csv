@@ -1,5 +1,7 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Value
+2018,Normal value,Units,ERT III survey,Access to electricity (national grid or mini-grid),,,Percent,24.0
 2024,Normal value,Units,ERT III survey,Access to electricity (national grid or mini-grid),,,Percent,25.3
+2018,Normal value,Units,ERT III survey,Access to electricity (off-grid solutions),,,Percent,27.0
 2024,Normal value,Units,ERT III survey,Access to electricity (off-grid solutions),,,Percent,28.1
 2018,Normal value,Units,ERT III survey,Proportion of population with access to electricity [7.1.1],,National or Mini-grid,Percent,24.0
 2018,Normal value,Units,ERT III survey,Proportion of population with access to electricity [7.1.1],,off grid solutions,Percent,51.0

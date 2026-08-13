@@ -41,7 +41,9 @@
               "enum": [
                 "Ministry of Tourism, Wildlife and Antiquetes - Administrative data",
                 "Uganda Wildlife Authority - Administrative Data",
-                "Uganda  Wildlife Education Center - UWEC, Administrative Data",
+                "Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",
+                "Uganda Wildlife Authority",
+                "Uganda Wildlife Education Center",
                 ""
               ]
             }
@@ -75,6 +77,7 @@
             "constraints": {
               "enum": [
                 "NUMBER",
+                "CUR_LCU",
                 ""
               ]
             }

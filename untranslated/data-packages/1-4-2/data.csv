@@ -1,6 +1,14 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,Value
-2016,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,,PT,21.7
-2017,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,,PT,36.0
-2024,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,,PT,58.0
+2015,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,45466.0
+2016,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,24270.0
+2017,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,61213.0
+2018,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,16144.0
+2019,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,56681.0
+2020,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,133745.0
+2021,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,26090.0
+2022,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,38976.0
+2023,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,47349.0
+2024,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,49743.0
+2025,A,0,"Ministry of Lands, Housing & Urban Development - Administrative Data",SP_LGL_LNDDOC,,,NUMBER,123665.0
 2024,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,F,PT,57.0
 2024,A,0,National Population and Housing Census 2024 Report,SP_LGL_LNDDOC,,M,PT,58.8

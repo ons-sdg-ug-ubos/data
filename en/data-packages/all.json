@@ -776,7 +776,9 @@
               "enum": [
                 "Ministry of Tourism, Wildlife and Antiquetes - Administrative data",
                 "Uganda Wildlife Authority - Administrative Data",
-                "Uganda  Wildlife Education Center - UWEC, Administrative Data",
+                "Ministry of Tourism, Wildlife and Antiquities. MTWA - Administrative Data",
+                "Uganda Wildlife Authority",
+                "Uganda Wildlife Education Center",
                 ""
               ]
             },
@@ -813,6 +815,7 @@
             "constraints": {
               "enum": [
                 "Number",
+                "Local currency",
                 ""
               ]
             },
@@ -2410,11 +2413,24 @@
             "title": "Reference area"
           },
           {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Type of renewable technology: Bioenergy",
+                "Type of renewable technology: Hydropower",
+                "Type of renewable technology: Solar energy",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Watts per capita",
                 ""
               ]
             },
@@ -3559,7 +3575,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UBOS-PES - Administrative Data",
+                "UBOS- Administrative data",
                 ""
               ]
             },
@@ -4252,6 +4268,17 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bank of Uganda",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",
@@ -5817,7 +5844,7 @@
             "constraints": {
               "enum": [
                 "Annual Agriculture Survey Per unit of labour by enterprise size (large scale)",
-                "Annual Agriculture Survey Total (all farmers)",
+                "Annual Agriculture Survey",
                 ""
               ]
             },
@@ -5851,6 +5878,7 @@
             "constraints": {
               "enum": [
                 "Number",
+                "Percent",
                 ""
               ]
             },
@@ -5939,7 +5967,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "Score",
                 ""
               ]
             },
@@ -6829,6 +6857,7 @@
             "constraints": {
               "enum": [
                 "UNEB - NAPE",
+                "Uganda National Examinations Board - Adminsitrative Data",
                 ""
               ]
             },
@@ -6955,7 +6984,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "United Nation Inquiry among Governments on Population and Development. The Inquiry was sent to 197 countries, including all 193 Member States, two Observer States, and 2 non-member States",
+                "UN Department of Economic and Social Affairs(DESA ), Population Division International Organization for Migration (IOM )",
                 ""
               ]
             },
@@ -7003,7 +7032,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "Score",
                 ""
               ]
             },
@@ -7150,6 +7179,7 @@
             "constraints": {
               "enum": [
                 "Electoral Commission, Administrative data",
+                "Electoral Commission - Administrative Data",
                 "Parliament, Administrative data",
                 ""
               ]
@@ -7177,6 +7207,17 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -7422,7 +7463,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MGLSD - Administrative Data",
+                "Ministry of Gender, Labour and Social Development  - Administrative Data",
                 ""
               ]
             },
@@ -8327,6 +8368,95 @@
       "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
+      "path": "11-3-2/data.csv",
+      "name": "11-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Lands, Housing and Urban Development (MLHUD) - Administrative Data",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically [11.3.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
+    },
+    {
       "path": "1-a-2/data.csv",
       "name": "1-a-2",
       "profile": "tabular-data-resource",
@@ -8987,6 +9117,7 @@
               "enum": [
                 "UDHS",
                 "Uganda Demographic and Health Survey",
+                "Uganda Demographic Health Survey",
                 ""
               ]
             },
@@ -8998,6 +9129,7 @@
             "constraints": {
               "enum": [
                 "\"Proportion of women who make their own informed decisions regarding sexual relations",
+                "Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years) [5.6.1]",
                 ""
               ]
             },
@@ -9014,11 +9146,23 @@
             "title": "Reference area"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "15 to 19 years old",
+                "15 to 49 years old",
                 ""
               ]
             },
@@ -9454,7 +9598,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IHR -WHO Global Health Observatory",
+                "WORLD HEALTH ORGANISATION (WHO)",
                 ""
               ]
             },
@@ -9863,6 +10007,95 @@
         ]
       },
       "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
+    },
+    {
+      "path": "3-9-1/data.csv",
+      "name": "3-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Health - Adminsitrative Data",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Crude death rate attributed to household and ambient air pollution [3.9.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
       "path": "2-2-3/data.csv",
@@ -11369,7 +11602,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNHS",
+                "Uganda National Household Survey",
                 ""
               ]
             },
@@ -12984,6 +13217,17 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNHS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -13039,17 +13283,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UNHS",
-                ""
-              ]
-            },
-            "title": "Source details"
           },
           {
             "name": "Value",
@@ -13206,6 +13439,7 @@
               "enum": [
                 "Uganda Demographic Health Survey; AGE Y20T24",
                 "Uganda Demographic Health Survey; AGE Y20T25",
+                "Uganda Demographic Health Survey",
                 "UDHS",
                 "Uganda Demographic Health Survey; AGE Y20T26",
                 ""
@@ -13253,8 +13487,10 @@
               "enum": [
                 "20 to 24 years old",
                 "20 to 26 years old",
+                "under 15 years old",
                 "20 to 25 years old",
                 "20 to 27 years old",
+                "under 18 years old",
                 ""
               ]
             },
@@ -13322,6 +13558,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ministry of Lands, Housing & Urban Development - Administrative Data",
                 "National Population and Housing Census 2024 Report",
                 ""
               ]
@@ -13366,6 +13603,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number",
                 "Percent",
                 ""
               ]
@@ -15065,30 +15303,6 @@
       "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
     },
     {
-      "path": "11-3-2/data.csv",
-      "name": "11-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
-    },
-    {
       "path": "11-5-2/data.csv",
       "name": "11-5-2",
       "profile": "tabular-data-resource",
@@ -15351,30 +15565,6 @@
         ]
       },
       "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
-    },
-    {
-      "path": "3-9-1/data.csv",
-      "name": "3-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
       "path": "16-3-3/data.csv",

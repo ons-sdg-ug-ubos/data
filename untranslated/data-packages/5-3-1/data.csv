@@ -1,7 +1,15 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,Value
 2016,A,0,Uganda Demographic Health Survey; AGE Y20T24,SP_DYN_MRBF15,,,Y20T24,PT,7.3
 2022,A,0,Uganda Demographic Health Survey; AGE Y20T25,SP_DYN_MRBF15,,,Y20T26,PT,5.8
+2006,A,0,Uganda Demographic Health Survey,SP_DYN_MRBF15,,F,Y0T14,PT,19.0
+2011,A,0,Uganda Demographic Health Survey,SP_DYN_MRBF15,,F,Y0T14,PT,15.0
+2016,A,0,Uganda Demographic Health Survey,SP_DYN_MRBF15,,F,Y0T14,PT,7.3
+2022,A,0,Uganda Demographic Health Survey,SP_DYN_MRBF15,,F,Y0T14,PT,5.8
 2016,A,0,UDHS,SP_DYN_MRBF15,,F,Y20T24,PT,7.3
 2016,A,0,Uganda Demographic Health Survey; AGE Y20T24,SP_DYN_MRBF18,,,Y20T25,PT,34.0
 2022,A,0,Uganda Demographic Health Survey; AGE Y20T26,SP_DYN_MRBF18,,,Y20T27,PT,32.8
+2006,A,0,Uganda Demographic Health Survey,SP_DYN_MRBF18,,F,Y0T17,PT,54.9
+2011,A,0,Uganda Demographic Health Survey,SP_DYN_MRBF18,,F,Y0T17,PT,49.0
+2016,A,0,Uganda Demographic Health Survey,SP_DYN_MRBF18,,F,Y0T17,PT,34.0
+2022,A,0,Uganda Demographic Health Survey,SP_DYN_MRBF18,,F,Y0T17,PT,32.8
 2016,A,0,UDHS,SP_DYN_MRBF18,,F,Y20T24,PT,34.0

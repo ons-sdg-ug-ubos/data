@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "Electoral Commission, Administrative data",
+                "Electoral Commission - Administrative Data",
                 "Parliament, Administrative data",
                 ""
               ]
@@ -70,6 +71,17 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

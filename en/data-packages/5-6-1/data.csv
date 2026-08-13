@@ -1,3 +1,6 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Age,UNIT_MEASURE,Value
-2016,Normal value,Units,UDHS,"""Proportion of women who make their own informed decisions regarding sexual relations",,,Percent,58.5
-2016,Normal value,Units,Uganda Demographic and Health Survey,"""Proportion of women who make their own informed decisions regarding sexual relations",,15 to 19 years old,Percent,58.5
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2016,Normal value,Units,UDHS,"""Proportion of women who make their own informed decisions regarding sexual relations",,,,Percent,58.5
+2016,Normal value,Units,Uganda Demographic and Health Survey,"""Proportion of women who make their own informed decisions regarding sexual relations",,,15 to 19 years old,Percent,58.5
+2006,Normal value,Units,Uganda Demographic Health Survey,Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years) [5.6.1],,Female,15 to 49 years old,Percent,35.0
+2011,Normal value,Units,Uganda Demographic Health Survey,Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years) [5.6.1],,Female,15 to 49 years old,Percent,60.0
+2016,Normal value,Units,Uganda Demographic Health Survey,Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years) [5.6.1],,Female,15 to 49 years old,Percent,58.5

@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ministry of Lands, Housing & Urban Development - Administrative Data",
                 "National Population and Housing Census 2024 Report",
                 ""
               ]
@@ -79,6 +80,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "NUMBER",
                 "PT",
                 ""
               ]

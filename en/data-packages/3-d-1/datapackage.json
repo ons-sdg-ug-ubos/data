@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IHR -WHO Global Health Observatory",
+                "WORLD HEALTH ORGANISATION (WHO)",
                 ""
               ]
             },

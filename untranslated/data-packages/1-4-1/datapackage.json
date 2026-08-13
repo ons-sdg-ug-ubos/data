@@ -35,6 +35,16 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNHS",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -82,16 +92,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UNHS",
                 ""
               ]
             }

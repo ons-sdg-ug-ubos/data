@@ -76,6 +76,17 @@
             "title": "Unit of measure"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bank of Uganda",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

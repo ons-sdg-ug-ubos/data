@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Value
+2020,Normal value,Units,Ministry of Health - Adminsitrative Data,Crude death rate attributed to household and ambient air pollution [3.9.1],,"Per 100,000 population",6.5
+2021,Normal value,Units,Ministry of Health - Adminsitrative Data,Crude death rate attributed to household and ambient air pollution [3.9.1],,"Per 100,000 population",10.8
+2022,Normal value,Units,Ministry of Health - Adminsitrative Data,Crude death rate attributed to household and ambient air pollution [3.9.1],,"Per 100,000 population",6.4
+2023,Normal value,Units,Ministry of Health - Adminsitrative Data,Crude death rate attributed to household and ambient air pollution [3.9.1],,"Per 100,000 population",6.4
+2024,Normal value,Units,Ministry of Health - Adminsitrative Data,Crude death rate attributed to household and ambient air pollution [3.9.1],,"Per 100,000 population",6.9

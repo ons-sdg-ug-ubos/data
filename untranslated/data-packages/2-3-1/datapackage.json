@@ -40,7 +40,7 @@
             "constraints": {
               "enum": [
                 "Annual Agriculture Survey Per unit of labour by enterprise size (large scale)",
-                "Annual Agriculture Survey Total (all farmers)",
+                "Annual Agriculture Survey",
                 ""
               ]
             }
@@ -71,6 +71,7 @@
             "constraints": {
               "enum": [
                 "NUMBER",
+                "PT",
                 ""
               ]
             }

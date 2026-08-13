@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UBOS-PES - Administrative Data",
+                "UBOS- Administrative data",
                 ""
               ]
             },
