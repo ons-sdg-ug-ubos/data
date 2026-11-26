@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Total official flows (disbursements) for agriculture",
+                "Total official flows (disbursements) for agriculture",
                 ""
               ]
             },

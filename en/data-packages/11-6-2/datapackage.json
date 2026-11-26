@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Annual mean levels of fine particulate matter (population-weighted)",
+                "Annual mean levels of fine particulate matter (population-weighted)",
                 ""
               ]
             },

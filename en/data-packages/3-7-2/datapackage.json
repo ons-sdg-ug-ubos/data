@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Adolescent birth rate (per 1",
+                "Adolescent birth rate (per 1",
                 ""
               ]
             },

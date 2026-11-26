@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Health worker density",
+                "Health worker density",
                 ""
               ]
             },

@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Number of new HIV infections per 1",
+                "Number of new HIV infections per 1",
                 ""
               ]
             },

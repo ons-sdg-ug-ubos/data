@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Mortality rate attributed to cardiovascular disease",
+                "Mortality rate attributed to cardiovascular disease",
                 ""
               ]
             },

@@ -57,11 +57,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Total expenditure (public and private) per capita spent on the preservation",
+                "Total expenditure (public and private) per capita spent on the preservation",
+                "Total expenditure per capita spent on cultural heritage",
                 "\"Total expenditure per capita spent on cultural heritage",
-                "\"Total expenditure per capita spent on cultural heritage",
-                "\"Total expenditure per capita spent on cultural and natural heritage",
-                "\"Total expenditure per capita spent on natural heritage",
+                "Total expenditure per capita spent on cultural and natural heritage",
+                "Total expenditure per capita spent on natural heritage",
                 ""
               ]
             },

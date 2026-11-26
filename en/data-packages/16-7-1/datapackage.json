@@ -55,7 +55,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Proportions of positions (by sex",
+                "Proportions of positions (by sex",
                 "\"Proportions of positions in the judiciary compared to national distributions",
                 ""
               ]

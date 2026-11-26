@@ -54,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Proportion of teachers with the minimum required qualifications",
+                "Proportion of teachers with the minimum required qualifications",
                 "\"Proportion of teachers with the minimum required qualifications",
                 ""
               ]

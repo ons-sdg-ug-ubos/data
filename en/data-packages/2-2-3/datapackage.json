@@ -56,8 +56,8 @@
             "constraints": {
               "enum": [
                 "Proportion of women aged 15-49 years with anaemia [2.2.3]",
-                "\"Proportion of women aged 15-49 years with anaemia",
-                "\"Proportion of women aged 15-49 years with anaemia",
+                "Proportion of women aged 15-49 years with anaemia",
+                "Proportion of women aged 15-49 years with anaemia",
                 ""
               ]
             },

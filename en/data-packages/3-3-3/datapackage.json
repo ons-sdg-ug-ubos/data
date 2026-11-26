@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Malaria incidence per 1",
+                "Malaria incidence per 1",
                 ""
               ]
             },

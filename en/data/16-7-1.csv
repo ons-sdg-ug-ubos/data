@@ -1,30 +1,30 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Occupation,COMPOSITE_BREAKDOWN,Disability status,UNIT_MEASURE,Time period details,Value
-2021,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,,Number,,527
-2022,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,,Number,,552
-2023,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,,Number,,556
-2024,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,,Number,,556
-2025,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,,Number,,556
-2021,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,Persons without disability,Number,,5
-2022,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,Persons without disability,Number,,5
-2023,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,Persons without disability,Number,,5
-2024,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,Persons without disability,Number,,5
-2025,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,,,,Persons without disability,Number,,5
-2025,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Female,,,,Number,,189
-2021,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Female,,,Persons without disability,Number,,3
-2022,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Female,,,Persons without disability,Number,,3
-2023,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Female,,,Persons without disability,Number,,3
-2024,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Female,,,Persons without disability,Number,,3
-2025,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Female,,,Persons without disability,Number,,3
-2021,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,,Number,,352
-2022,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,,Number,,364
-2023,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,,Number,,368
-2024,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,,Number,,368
-2025,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,,Number,,367
-2021,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,Persons without disability,Number,,2
-2022,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,Persons without disability,Number,,2
-2023,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,Persons without disability,Number,,2
-2024,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,Persons without disability,Number,,2
-2025,Normal value,Units,Parliament of Uganda,"""Proportions of positions (by sex",,Male,,,Persons without disability,Number,,2
+2021,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,,Number,,527
+2022,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,,Number,,552
+2023,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,,Number,,556
+2024,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,,Number,,556
+2025,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,,Number,,556
+2021,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,Persons without disability,Number,,5
+2022,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,Persons without disability,Number,,5
+2023,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,Persons without disability,Number,,5
+2024,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,Persons without disability,Number,,5
+2025,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,,,,Persons without disability,Number,,5
+2025,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Female,,,,Number,,189
+2021,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Female,,,Persons without disability,Number,,3
+2022,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Female,,,Persons without disability,Number,,3
+2023,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Female,,,Persons without disability,Number,,3
+2024,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Female,,,Persons without disability,Number,,3
+2025,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Female,,,Persons without disability,Number,,3
+2021,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,,Number,,352
+2022,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,,Number,,364
+2023,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,,Number,,368
+2024,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,,Number,,368
+2025,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,,Number,,367
+2021,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,Persons without disability,Number,,2
+2022,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,Persons without disability,Number,,2
+2023,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,Persons without disability,Number,,2
+2024,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,Persons without disability,Number,,2
+2025,Normal value,Units,Parliament of Uganda,Proportions of positions (by sex,,Male,,,Persons without disability,Number,,2
 2015,Normal value,Units,Administrative Data,"""Proportions of positions in the judiciary compared to national distributions",,,,"""Positions In Judiciary",,Percent,2021,1
 2016,Normal value,Units,Administrative Data,"""Proportions of positions in the judiciary compared to national distributions",,,,"""Positions In Judiciary",,Percent,2021,1
 2017,Normal value,Units,Administrative Data,"""Proportions of positions in the judiciary compared to national distributions",,,,"""Positions In Judiciary",,Percent,2021,1

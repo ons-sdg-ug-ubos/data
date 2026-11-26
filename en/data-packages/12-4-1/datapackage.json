@@ -53,11 +53,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste",
-                "\"Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste",
+                "Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste",
+                "Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste",
                 "\"Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste",
-                "\"Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste",
-                "\"Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste",
+                "Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste",
+                "Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste",
                 ""
               ]
             },

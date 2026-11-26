@@ -54,7 +54,7 @@
             "constraints": {
               "enum": [
                 "Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO) [12.1.1]",
-                "\"Number of policies",
+                "Number of policies",
                 ""
               ]
             },

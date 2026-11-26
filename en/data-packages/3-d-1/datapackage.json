@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"International Health Regulations (IHR) capacity",
+                "International Health Regulations (IHR) capacity",
                 ""
               ]
             },

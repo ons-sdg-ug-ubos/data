@@ -53,7 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Mortality rate attributed to unsafe water",
+                "Mortality rate attributed to unsafe water",
                 ""
               ]
             },

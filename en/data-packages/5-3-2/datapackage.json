@@ -54,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "\"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation",
+                "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation",
                 ""
               ]
             },
